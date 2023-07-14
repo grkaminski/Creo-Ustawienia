@@ -1,0 +1,133 @@
+﻿ND_RelParSet_K01 = {
+
+Name = ABS
+
+PARAMETERS =
+{
+  Name = PTC_MATERIAL_DESCRIPTION
+  Type = String
+  Default = 'ABS'
+  Access = Full
+},
+{
+  Name = TEMPERATURE
+  Type = Real
+  Default = 0.000000e+00 C
+  Access = Full
+},
+{
+  Name = PTC_INITIAL_BEND_Y_FACTOR
+  Type = Real
+  Default = 5.000000e-01
+  Access = Full
+},
+{
+  Name = PTC_BEND_TABLE
+  Type = String
+  Default = ''
+  Access = Full
+},
+{
+  Name = PTC_MATERIAL_TYPE
+  Type = Integer
+  Default = 9
+  Access = Locked
+},
+{
+  Name = PTC_FAILURE_CRITERION_TYPE
+  Type = String
+  Default = 'NONE'
+  Access = Locked
+},
+{
+  Name = PTC_FATIGUE_TYPE
+  Type = String
+  Default = 'NONE'
+  Access = Locked
+},
+{
+  Name = PTC_MATERIAL_SUB_TYPE
+  Type = String
+  Default = 'LINEAR'
+  Access = Locked
+},
+{
+  Name = PTC_YOUNG_MODULUS
+  Type = Real
+  Default = 2.600000e+06 Pa
+  Access = Full
+},
+{
+  Name = PTC_MASS_DENSITY
+  Type = Real
+  Default = 1.070000e-06 g / mm^3
+  Access = Full
+},
+{
+  Name = PTC_THERMAL_EXPANSION_COEF
+  Type = Real
+  Default = 6.800000e+01 /C
+  Access = Full
+},
+{
+  Name = STRESS_LIMIT_FOR_TENSION
+  Type = Real
+  Default = 5.000000e+07 Pa
+  Access = Full
+},
+{
+  Name = STRESS_LIMIT_FOR_COMPRESSION
+  Type = Real
+  Default = -7.200000e+01 Pa
+  Access = Full
+},
+{
+  Name = PTC_THERMAL_CONDUCTIVITY
+  Type = Real
+  Default = 1.800000e-01 mm g / (sec^3 K)
+  Access = Full
+},
+{
+  Name = PTC_SPECIFIC_HEAT
+  Type = Real
+  Default = 1.470000e+03 mm^2/(sec^2 C)
+  Access = Full
+},
+{
+  Name = PRO_UNIT_SYS
+  Type = String
+  Default = ''
+  Access = Full
+},
+{
+  Name = PTC_TENSILE_YIELD_STRESS
+  Type = Real
+  Default = 4.500000e+01 MPa
+  Access = Full
+},
+{
+  Name = PTC_TENSILE_ULTIMATE_STRESS
+  Type = Real
+  Default = 7.300000e+01 MPa
+  Access = Full
+},
+{
+  Name = PTC_HARDNESS
+  Type = Real
+  Default = 1.120000e+02
+  Access = Full
+},
+{
+  Name = PTC_HARDNESS_TYPE
+  Type = String
+  Default = 'Rockwell'
+  Access = Full
+},
+{
+  Name = PTC_CONDITION
+  Type = String
+  Default = '1'
+  Access = Full
+}
+
+}

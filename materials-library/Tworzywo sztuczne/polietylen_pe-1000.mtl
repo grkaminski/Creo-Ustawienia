@@ -1,0 +1,85 @@
+﻿ND_RelParSet_K01 = {
+
+Name = POLIETYLEN_PE-1000
+
+PARAMETERS =
+{
+  Name = PTC_MATERIAL_DESCRIPTION
+  Type = String
+  Default = 'Polietylen'
+  Access = Full
+},
+{
+  Name = TEMPERATURE
+  Type = Real
+  Default = 0.000000e+00 C
+  Access = Full
+},
+{
+  Name = PTC_INITIAL_BEND_Y_FACTOR
+  Type = Real
+  Default = 5.000000e-01
+  Access = Full
+},
+{
+  Name = PTC_BEND_TABLE
+  Type = String
+  Default = ''
+  Access = Full
+},
+{
+  Name = PTC_MATERIAL_TYPE
+  Type = Integer
+  Default = 9
+  Access = Locked
+},
+{
+  Name = PTC_FAILURE_CRITERION_TYPE
+  Type = String
+  Default = 'NONE'
+  Access = Locked
+},
+{
+  Name = PTC_FATIGUE_TYPE
+  Type = String
+  Default = 'NONE'
+  Access = Locked
+},
+{
+  Name = PTC_MATERIAL_SUB_TYPE
+  Type = String
+  Default = 'LINEAR'
+  Access = Locked
+},
+{
+  Name = PTC_YOUNG_MODULUS
+  Type = Real
+  Default = 3.000000e+04 Pa
+  Access = Full
+},
+{
+  Name = PTC_MASS_DENSITY
+  Type = Real
+  Default = 9.300000e-04 g / mm^3
+  Access = Full
+},
+{
+  Name = PRO_UNIT_MASS
+  Type = String
+  Default = 'UNIT_GRAM'
+  Access = Full
+},
+{
+  Name = PRO_UNIT_LENGTH
+  Type = String
+  Default = 'UNIT_MM'
+  Access = Full
+},
+{
+  Name = PTC_THERMAL_CONDUCTIVITY
+  Type = Real
+  Default = 4.000000e-01 mm g / (sec^3 K)
+  Access = Full
+}
+
+}

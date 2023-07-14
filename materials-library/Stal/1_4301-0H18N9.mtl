@@ -1,0 +1,139 @@
+﻿ND_RelParSet_K01 = {
+
+Name = 1_4301-0H18N9
+
+PARAMETERS =
+{
+  Name = PTC_MATERIAL_DESCRIPTION
+  Type = String
+  Default = '0H18N9'
+  Access = Full
+},
+{
+  Name = TEMPERATURE
+  Type = Real
+  Default = 0.000000e+00 C
+  Access = Full
+},
+{
+  Name = PTC_INITIAL_BEND_Y_FACTOR
+  Type = Real
+  Default = 6.400000e-01
+  Access = Full
+},
+{
+  Name = PTC_BEND_TABLE
+  Type = String
+  Default = 'table2'
+  Access = Full
+},
+{
+  Name = PTC_MATERIAL_TYPE
+  Type = Integer
+  Default = 9
+  Access = Locked
+},
+{
+  Name = PTC_FAILURE_CRITERION_TYPE
+  Type = String
+  Default = 'NONE'
+  Access = Locked
+},
+{
+  Name = PTC_FATIGUE_TYPE
+  Type = String
+  Default = 'NONE'
+  Access = Locked
+},
+{
+  Name = PTC_MATERIAL_SUB_TYPE
+  Type = String
+  Default = 'LINEAR'
+  Access = Locked
+},
+{
+  Name = PTC_YOUNG_MODULUS
+  Type = Real
+  Default = 1.930000e+05 MPa
+  Access = Full
+},
+{
+  Name = PTC_POISSON_RATIO
+  Type = Real
+  Default = 3.000000e-01
+  Access = Full
+},
+{
+  Name = SHEAR_MODULUS
+  Type = Real
+  Default = 8.600000e+04 MPa
+  Access = Full
+},
+{
+  Name = PTC_MASS_DENSITY
+  Type = Real
+  Default = 8.080000e-09 tonne/mm^3
+  Access = Full
+},
+{
+  Name = PTC_THERMAL_EXPANSION_COEF
+  Type = Real
+  Default = 1.600000e-05 /C
+  Access = Full
+},
+{
+  Name = STRESS_LIMIT_FOR_TENSION
+  Type = Real
+  Default = 7.750000e+02 MPa
+  Access = Full
+},
+{
+  Name = PTC_SPECIFIC_HEAT
+  Type = Real
+  Default = 5.000000e+02 mm^2/(sec^2 C)
+  Access = Full
+},
+{
+  Name = PTC_HARDNESS
+  Type = Real
+  Default = 2.150000e+02
+  Access = Full
+},
+{
+  Name = PRO_UNIT_SYS
+  Type = String
+  Default = 'Millimeter Gram Second (mmgs)'
+  Access = Full
+},
+{
+  Name = PTC_THERMAL_CONDUCTIVITY
+  Type = Real
+  Default = 1.500000e-05 mW/(mm C)
+  Access = Full
+},
+{
+  Name = PTC_TENSILE_YIELD_STRESS
+  Type = Real
+  Default = 2.200000e+02 MPa
+  Access = Full
+},
+{
+  Name = PTC_TENSILE_ULTIMATE_STRESS
+  Type = Real
+  Default = 5.100000e+02 MPa
+  Access = Full
+},
+{
+  Name = PTC_HARDNESS_TYPE
+  Type = String
+  Default = 'Brinell'
+  Access = Full
+},
+{
+  Name = PTC_CONDITION
+  Type = String
+  Default = '1'
+  Access = Full
+}
+
+}
