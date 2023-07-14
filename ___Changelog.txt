@@ -1,0 +1,124 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 28.05.2017
+
+1. Dodanie pozycji Hole w Config.pro oraz rozszerzenie otworów 
+gwintowanych. Zmiana œrednic rdzeni na zgodne z norm¹ (wymiar d3).
+
+2. Dodanie gwintów trapezowych (brak mo¿liwoœci zmiany symbolu œrednicy na Tr) 
+
+3. Dodanie katalogu Xhatch zawieraj¹cego stardowe (defaultowe) style kreskowania
+
+4. Dodanie katalogu z materia³ami (material_librabry)
+
+5. Symbole chropowatoœci (katalog w ustawieniach i wpis w config.pro)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 20.11.2017
+
+1. Dodanie w Ustawienia.dtl polecenia show_clipped_annotations yes 
+do opcji zwi¹zanych z MBD
+
+2. Podczytanie ustawieñ rysunkowych do templates (File - Prepare 
+- Model Properties)
+
+3. Dodanie w katalogu IFX modelu parametrycznego ³ozyska kulkowego 
+zwyk³ego, jednorzêdowego (6304).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 02.12.2017
+
+Dodanie brakuj¹cej relacji nazwa_czesci dla œruby z ³bem szeœciok¹tnym
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 17.01.2018
+
+1. Dodanie profili Item do AFX (modele samodzielnie narysowane); 
+przy skracaniu skorzystaæ z advance joint (basic nie dzia³a niestety 
+- ograniczenia twórcy rozszerzenia)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 22.01.2018
+
+1. Wprowadzenie lokalnego katalogu AFX jako domyslnej lokalizacji 
+z profilami (options.cfg)
+2. Poprawka do relacji opisuj¹cej nazwê czêsci i poprawnie zczytuj¹cej 
+d³ugoœæ profilu (tak by by³y uwzglêdnione wszelkiego rodzaju skrócenia)
+3. Dodanie zaœlepek do profili Item (Equipment)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 22.01.2018
+
+1. Dodanie profilu kwadratowego do AFX
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 07.02.2018
+
+1. Dodanie pro_plot_config_dir do config.pro (odpowiada za wydruki do pdf)
+2. Zmiana gruboœci linii grubych z 0,35mm na 0,25mm
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 10.02.2018
+
+1. Dodanie intf_profile_dir do config.pro (ustawienia exportowe rysunków 
+do innych formatów)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 02.03.2018
+
+Dorzucenie wybranych profili Arma i Bosch do AFX 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 07.03.2018
+
+Dorzucenie prêtów kwadratowych (Konsorcjum Stali) do AFX
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 19.06.2018-26.06.2018
+
+Dorzucenie ³ozyska kulkowego 6204 (IFX-backup) i 
+relacji na odchy³ki wynikaj¹ce z klasy (IFX-backup/Note);
+Dodanie ko³a pasowego (SPZ,SPA,SPB,SPC) do bazy normalii (IFX-backup/Gears)
+Dodanie podk³adki Schnorra i podk³adki poszerzanej (ISO 7093)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 4.0 ------------------ 25.09.2018
+
+Dodanie profili Item 100x100 i 120x120
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 7.0 ------------------ 14.03.2021
+
+dorzucenie profili prostok¹tnych do AFX i poprawki z parametrami
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 7.0 ------------------ 19.04.2021
+
+dodanie strza³ek do oznaczanie kierunków pracy urz¹dzenia (stepy)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Wersja 7.0 ------------------ 30.07.2021
+
+Zmiany w template dla elementu solid,assmebly, sheetemetal:
+a. Wczytanie tolerancji Hole i shaft
+b. Dodanie 3 osi g³ównych
+c. Zmiana dok³adnoœci na absolutn¹ 1e-4
+d. Dodanie 6 rzutów izometrycznych bazuj¹cych na pl. pocz¹tkowych
+
+Zmiany w rysunku p³askim:
+a. sposób wyœwietlania linii przekroju,
+b. styl linii podzia³u W|P

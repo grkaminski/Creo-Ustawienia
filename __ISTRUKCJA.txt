@@ -1,0 +1,37 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% WERSJA STUDENCKA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+1. Rozpakowaæ archiwum i umieœciæ je na dysku C:
+
+WSKAZANA œciezka jest obowi¹zkowa, gdy¿ program bêdzie poszukiwa³ 
+plików szablonowych. Inna lokalizacja powoduje brak mo¿liwoœci 
+odnalezienia plików. 
+
+
+2. Plik config.pro wgraæ do wskazywanej lokalizacji i zast¹piæ 
+istniej¹cy plik tym z archiwum:
+C:\Program Files\PTC\Creo Y.0.M.0\Common Files\text
+
+Je¿eli instalacja by³a wykonana do innego folder ni¿ defaultowy 
+odpowiednio zmodyfikowaæ œcie¿kê
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% WERSJA AKADEMICKA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Poza zrobieniem podpunktów 1 i 2 nale¿y dodatkowo zrobiæ:
+
+
+3. Wgraæ pliki z archiwum
+
+ifx_options.cfg
+options.cfg
+
+do lokalizacji zarz¹dzaj¹cej modu³ami tworzenia ram (AFX) i normaliami (IFX). 
+
+Domyœlne œcie¿ki dostêpu to:
+C:\Program Files\PTC\Creo Y.0.M.0\Common Files\afx\configuration
+C:\Program Files\PTC\Creo Y.0.M.0\Common Files\ifx\configuration
