@@ -1,0 +1,3 @@
+Katowniki_rownoramienne dir
+Profile_kwadratowe dir
+Profile_prostokatne dir

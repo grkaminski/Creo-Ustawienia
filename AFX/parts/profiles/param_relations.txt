@@ -1,0 +1,2 @@
+nazwa_czesci= nazwa + itos(BUW_LENGTH)
+
