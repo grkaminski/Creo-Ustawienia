@@ -1,0 +1,1405 @@
+#UGC:2 NEUTRAL 1866 440 811 0 0 15 3500 2016370 00000000 \
+#- VERS 0 0                                                          \
+#- HOST                                                              \
+#- LINK                                                              \
+#- DBID                                                              \
+#- REVS 0,                                                           \
+#- RELL 0,                                                           \
+#- UOBJ_ID 0 0 0                                                     \
+#- MACH                                                              \
+#-END_OF_UGC_HEADER
+#Creo  TM  4.0  (c) 2016 by PTC Inc.  All Rights Reserved. U390
+0 RbnDBData ->
+1 onCreation 
+2 mNumComments 0
+2 mDate 
+1 groupList [19]
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_1
+5 mType 12
+5 mLabel Project
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [9]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Projekt_anlegen
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Projekt_parameter
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBOverflowBreak) ->
+8 mName __overflow__
+8 mType 4
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Projekt_umbenennen
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName DSTV_profil_export
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName SDNF_profil_export
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName STAAD_profil_export
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName SDNF_profil_import
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Bestellinfo_ermitteln
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_10
+5 mType 12
+5 mLabel Component Views
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [1]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Drawing_component_views_add
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_11
+5 mType 12
+5 mLabel Drawing Tools
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [4]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Drw_autodim
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Drawing_create_stocklength_table
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Drawing_create_cut_list
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Positionsnummer_erzeugen
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_12
+5 mType 12
+5 mLabel Info
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [9]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName efx_component_info
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Open_users_guide
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName profil_lizens_holen
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName profil_lizens_freigeben
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName efx_licborrow
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBOverflowBreak) ->
+8 mName __overflow__
+8 mType 4
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Edit_configuration_installation
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Edit_configuration_session
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Show_about_info
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_13
+5 mType 12
+5 mLabel Project
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [9]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Projekt_anlegen
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Projekt_parameter
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBOverflowBreak) ->
+8 mName __overflow__
+8 mType 4
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Projekt_umbenennen
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName DSTV_profil_export
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName SDNF_profil_export
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName STAAD_profil_export
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName SDNF_profil_import
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Bestellinfo_ermitteln
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_14
+5 mType 12
+5 mLabel Profiles
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [7]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileNew
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileReuse
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileReplace
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileMove
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileModifyEnds
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileModifyType
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileModifySize
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_15
+5 mType 12
+5 mLabel Utilities
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [6]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Delete_50
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName VereinfachteDarstellung_50
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Auto_UDFs
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfilePointPattern
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBOverflowBreak) ->
+8 mName __overflow__
+8 mType 4
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Schweissgruppen_50
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_16
+5 mType 12
+5 mLabel Drawing Tools
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [3]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Drawing_create_comp_drawings
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Drawing_save_all_drawings
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Drawing_save_selected_drawings
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_17
+5 mType 12
+5 mLabel Info
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [9]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName efx_component_info
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Open_users_guide
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName profil_lizens_holen
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName profil_lizens_freigeben
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName efx_licborrow
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBOverflowBreak) ->
+8 mName __overflow__
+8 mType 4
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Edit_configuration_session
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Edit_configuration_installation
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Show_about_info
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_2
+5 mType 12
+5 mLabel Profiles
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [7]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileNew
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileReuse
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileReplace
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileMove
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileModifyEnds
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileModifyType
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfileModifySize
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_5
+5 mType 12
+5 mLabel Utilities
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [6]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Delete_50
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName VereinfachteDarstellung_50
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Auto_UDFs
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdProfilePointPattern
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBOverflowBreak) ->
+8 mName __overflow__
+8 mType 4
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Schweissgruppen_50
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_6
+5 mType 12
+5 mLabel Drawing Tools
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [3]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Drawing_create_comp_drawings
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Drawing_save_all_drawings
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Drawing_save_selected_drawings
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_group_7
+5 mType 12
+5 mLabel Info
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [9]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName efx_component_info
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Open_users_guide
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName profil_lizens_holen
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName profil_lizens_freigeben
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName efx_licborrow
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBOverflowBreak) ->
+8 mName __overflow__
+8 mType 4
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Edit_configuration_session
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Edit_configuration_installation
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName Show_about_info
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName user_custom_group_126904160
+5 mType 12
+5 mLabel Subassemblies
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [4]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdSubasmNew
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdSubasmReuse
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdSubasmReplace
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdSubasmMove
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName user_custom_group_127072248
+5 mType 12
+5 mLabel Joints
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [2]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdJointsBasic
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdJointsAdvanced
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName user_custom_group_127204648
+5 mType 12
+5 mLabel Components
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [5]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdConnectorNew
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdEquipmentNew
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdComponentReuse
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdComponentReplace
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdComponentModify
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName user_custom_group_128009904
+5 mType 12
+5 mLabel Subassemblies
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [4]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdSubasmNew
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdSubasmReuse
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdSubasmReplace
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdSubasmMove
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName user_custom_group_128368008
+5 mType 12
+5 mLabel Joints
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [2]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdJointsBasic
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdJointsAdvanced
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName user_custom_group_128438120
+5 mType 12
+5 mLabel Components
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [5]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdConnectorNew
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdEquipmentNew
+8 mType 1
+8 Attributes 
+9 mUiAttribs [1]
+10 mUiAttribs ->
+11 mKey 6
+11 mValue Large
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdComponentReuse
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdComponentReplace
+8 mType 1
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName AfxCmdComponentModify
+8 mType 1
+8 Attributes 
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+4 mGroupType 1
+1 pageList [3]
+2 pageList 
+3 ChildUnion(RbnDBPage) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_page_1@asm_main_adb_cat
+5 mType 11
+5 mLabel Framework
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [8]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_1
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_2
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName user_custom_group_126904160
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName user_custom_group_127072248
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName user_custom_group_127204648
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_5
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_6
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_7
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+4 mCloseButton 
+4 mPlugin 
+2 pageList 
+3 ChildUnion(RbnDBPage) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_page_2@drw_main_adb_cat
+5 mType 11
+5 mLabel Framework
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [3]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_10
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_11
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_12
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+4 mCloseButton 
+4 mPlugin 
+2 pageList 
+3 ChildUnion(RbnDBPage) ->
+4 RbnDBInheritContainer 
+5 mName efx_user_custom_page_3@act_asm_main_adb_cat
+5 mType 11
+5 mLabel Framework
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [8]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_13
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_14
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName user_custom_group_128009904
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName user_custom_group_128368008
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName user_custom_group_128438120
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_15
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_16
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName efx_user_custom_group_17
+8 mType 15
+8 Attributes 
+8 mRuntimeRemoved 0
+4 mCloseButton 
+4 mPlugin 
+1 ribbonList [3]
+2 ribbonList 
+3 ChildUnion(RbnDBRibbon) ->
+4 RbnDBContainer 
+5 mName act_asm_main_adb_cat
+5 mType 10
+5 Attributes 
+6 mUiAttribs [1]
+7 mUiAttribs ->
+8 mKey 104
+8 mValue 1
+5 containerChildrenArray [2]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBPosition) ->
+8 mName page_Applications@act_asm_main_adb_cat
+8 mType 7
+8 Attributes 
+8 mIndex 7
+6 containerChildrenArray 
+7 ChildUnion(RbnDBPageRef) ->
+8 mName efx_user_custom_page_3@act_asm_main_adb_cat
+8 mType 16
+8 Attributes 
+8 mRuntimeRemoved 0
+4 mLabel __RBN_DB_NO_CHANGE__
+4 mDescription __RBN_DB_NO_CHANGE__
+4 mPlugin 
+2 ribbonList 
+3 ChildUnion(RbnDBRibbon) ->
+4 RbnDBContainer 
+5 mName asm_main_adb_cat
+5 mType 10
+5 Attributes 
+6 mUiAttribs [1]
+7 mUiAttribs ->
+8 mKey 104
+8 mValue 1
+5 containerChildrenArray [2]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBPosition) ->
+8 mName page_Applications@asm_main_adb_cat
+8 mType 7
+8 Attributes 
+8 mIndex 7
+6 containerChildrenArray 
+7 ChildUnion(RbnDBPageRef) ->
+8 mName efx_user_custom_page_1@asm_main_adb_cat
+8 mType 16
+8 Attributes 
+8 mRuntimeRemoved 0
+4 mLabel __RBN_DB_NO_CHANGE__
+4 mDescription __RBN_DB_NO_CHANGE__
+4 mPlugin 
+2 ribbonList 
+3 ChildUnion(RbnDBRibbon) ->
+4 RbnDBContainer 
+5 mName drw_main_adb_cat
+5 mType 10
+5 Attributes 
+6 mUiAttribs [1]
+7 mUiAttribs ->
+8 mKey 104
+8 mValue 1
+5 containerChildrenArray [2]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBPosition) ->
+8 mName EOF
+8 mType 7
+8 Attributes 
+8 mIndex -1
+6 containerChildrenArray 
+7 ChildUnion(RbnDBPageRef) ->
+8 mName efx_user_custom_page_2@drw_main_adb_cat
+8 mType 16
+8 Attributes 
+8 mRuntimeRemoved 0
+4 mLabel __RBN_DB_NO_CHANGE__
+4 mDescription __RBN_DB_NO_CHANGE__
+4 mPlugin 
+1 modeList [3]
+2 modeList 
+3 ChildUnion(RbnDBMode) ->
+4 RbnDBContainer 
+5 mName act_asm_main_adb_cat
+5 mType 9
+5 Attributes 
+6 mUiAttribs [1]
+7 mUiAttribs ->
+8 mKey 104
+8 mValue 1
+4 mRibbon act_asm_main_adb_cat
+4 mLabel __RBN_DB_NO_CHANGE__
+4 mDescription __RBN_DB_NO_CHANGE__
+2 modeList 
+3 ChildUnion(RbnDBMode) ->
+4 RbnDBContainer 
+5 mName asm_main_adb_cat
+5 mType 9
+5 Attributes 
+6 mUiAttribs [1]
+7 mUiAttribs ->
+8 mKey 104
+8 mValue 1
+4 mRibbon asm_main_adb_cat
+4 mLabel __RBN_DB_NO_CHANGE__
+4 mDescription __RBN_DB_NO_CHANGE__
+2 modeList 
+3 ChildUnion(RbnDBMode) ->
+4 RbnDBContainer 
+5 mName drw_main_adb_cat
+5 mType 9
+5 Attributes 
+6 mUiAttribs [1]
+7 mUiAttribs ->
+8 mKey 104
+8 mValue 1
+4 mRibbon drw_main_adb_cat
+4 mLabel __RBN_DB_NO_CHANGE__
+4 mDescription __RBN_DB_NO_CHANGE__
+1 mIncrementalAttrs 1
+0 ULCFileHeader 
+1 mAppName CreoPMA
+0 FSPinSettings 
+1 ispin_statusbar 0
+1 ispin_navtab 0
+0 ThemeSettings 
+1 theme_opt custom
+1 color_scheme_opt Custom
+1 color_scheme_opt_custom NULL
+1 skin_opt 3
+1 skin_opt_custom NULL
+1 cust_version 2
+0 UitFuture_io 
+1 future_dlg_array [1]
+2 future_dlg_array 
+3 future_dlg ->
+4 name CreoConnector_GettingStarted
+4 state 1
+0 Toolbar_io ->
+1 msg_win_on_top -1
+1 sec_win_size -1
+1 tree_placement -1
+1 same_height_check -1
+1 tree_width -1.
+1 tree_height -1.
+1 webUI_data ->
+2 show_navigation_tb 1
+2 show_address_tb 1
+2 animate_open_close 0
+2 show_history 0
+2 show_search 0
+2 auto_loading 0
+2 steps 5
+2 width_browser -1.
+2 width_tabs -1.
+2 tabs_placement 0
+2 noChangeMask 991
+1 no_sa_welcome_at_startup 1
+1 no_lc_topics_notification -1
+1 allow_mtb_on_lmb -1
+0 Udf_io ->
+0 InitialRibbonCustData_io ->
+1 qat_position 0
+1 minimize_ribbon -1
+1 igt_alignment -1
+1 acc_win_igt_alignment -1
+1 igt_icon_size -1
+1 show_navigation_tb -1
+0 CustomIcons_io ->
+0 CustomCmdInfoArray_io ->
+1 m_cmd_info_xar [26]
+2 m_cmd_info_xar ->
+3 m_name ProCmdViewNormal
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSubdFaceSplit90
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSubdFaceSplit75
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSubdFaceSplit50
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSubdFaceSplit25
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSubdFaceSplit10
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSubdExtrude
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSubdEdgeSplit4
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSubdEdgeSplit3
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSubdEdgeSplit2
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSubdEdgeSplit1
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSketRectangle
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSketLine
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSketDimension
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSketCERectangle
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdSketCELineArcChain
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdNewRmbRoundEdges
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdNewRefDimCreate
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdMdlTreeExpandOne
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdGeomSearchTool
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdFtExtrude
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdFreeformCurve
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdEditGeomConstr
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdDatumSketCurve
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdDatumPlane
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+2 m_cmd_info_xar ->
+3 m_name ProCmdCompAssem
+3 m_accelerator_type 1
+3 m_accelerator 0
+3 m_custom_image 
+0 FdbCustData ->
+1 mPromptDisplay -1
+0 UitSearchSetup ->
+1 m_help_text_search -1
+1 m_key_search -1
+1 m_match_case_search -1
+1 m_match_criteria -1
+1 m_groups_order [4]
+2 m_groups_order commands_group
+2 m_groups_order toolkit_cmds_group
+2 m_groups_order mapkeys_group
+2 m_groups_order Other_cad_tool_cmds_group
+#END_OF_UGC

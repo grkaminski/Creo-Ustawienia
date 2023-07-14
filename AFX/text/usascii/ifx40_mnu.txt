@@ -1,0 +1,268 @@
+﻿ifx40_mnu_main
+Intelligent Fastener
+Intelligent Fastener
+
+ifx40_mnu_allg_Stringausgabe %0s
+%0s
+%0s
+
+ifx40_mnu_screws
+Screws
+Screws
+
+ifx40_mnu_screw_def_ex_pnt
+Assemble on point or axis
+Assemble on point or axis
+
+%CIifx40_mnu_screw_def_ex_pnt_hilfe
+Assemble a screw fastener on an existing point or axis
+Assemble a screw fastener on an existing point or axis
+
+ifx40_mnu_screw_def_mouse_pnt
+Assemble by mouse click
+Assemble by mouse click
+
+%CIifx40_mnu_screw_def_mouse_pnt_hilfe
+Assemble a screw fastener on the selected mouse click position
+Assemble a screw fastener on the selected mouse click position
+
+ifx40_mnu_screw_reassemble
+Reassemble
+Reassemble
+
+%CIifx40_mnu_screw_reassemble_hilfe
+Reassemble an existing screw fastener
+Reassemble an existing screw fastener
+
+ifx40_mnu_screw_redefine
+Redefine
+Redefine
+
+%CIifx40_mnu_screw_redefine_hilfe
+Redefine a screw fastener
+Redefine a screw fastener
+
+ifx40_mnu_screw_delete
+Delete
+Delete
+
+ifx40_mnu_screw_delete_hilfe
+Delete a screw fastener
+Delete a screw fastener
+
+ifx40_mnu_screw_update
+Update Holes
+Update Holes
+
+%CIifx40_mnu_screw_update_hilfe
+Update Screw Holes
+Update Screw Holes
+
+ifx40_mnu_screw_check
+Check Screw Fasteners
+Check Screw Fasteners
+
+%CIifx40_mnu_screw_check_hilfe
+Check all screw fasteners of the current assembly
+Check all screw fasteners of the current assembly
+
+ifx40_mnu_screw_view
+View
+View
+
+ifx40_mnu_screw_suppress
+Suppress
+Suppress
+
+%CIifx40_mnu_screw_suppress_hilfe
+Suppress all screw fasteners
+Suppress all screw fasteners
+
+ifx40_mnu_screw_resume
+Resume
+Resume
+
+%CIifx40_mnu_screw_resume_hilfe
+Resume all suppressed screw fasteners
+Resume all suppressed screw fasteners
+
+ifx40_mnu_pin
+Dowel Pins
+Dowel Pins
+
+ifx40_mnu_pin_def_ex_pnt
+Assemble on point or axis
+Assemble on point or axis
+
+%CIifx40_mnu_pin_def_ex_pnt_hilfe
+Assemble a dowel pin fastener on an existing point or axis
+Assemble a dowel pin fastener on an existing point or axis
+
+ifx40_mnu_pin_def_mouse_pnt
+Assemble by mouse click
+Assemble by mouse click
+
+%CIifx40_mnu_pin_def_mouse_pnt_hilfe
+Assemble a dowel pin fastener on the selected mouse click position
+Assemble a dowel pin fastener on the selected mouse click position
+
+ifx40_mnu_pin_reassemble
+Reassemble
+Reassemble
+
+%CIifx40_mnu_pin_reassemble_hilfe
+Reassemble an existing dowel pin fastener
+Reassemble an existing dowel pin fastener
+
+ifx40_mnu_pin_redefine
+Redefine
+Redefine
+
+%CIifx40_mnu_pin_redefine_hilfe
+Redefine a dowel pin fastener
+Redefine a dowel pin fastener
+
+ifx40_mnu_pin_delete
+Delete
+Delete
+
+%CIifx40_mnu_pin_delete_hilfe
+Delete a dowel pin fastener
+Delete a dowel pin fastener
+
+ifx40_mnu_pin_update
+Update position
+Update position
+
+%CIifx40_mnu_pin_update_hilfe
+Update position of the dowel pin holes
+Update position of the dowel pin holes
+
+ifx40_mnu_pin_view
+View
+View
+
+ifx40_mnu_pin_suppress
+Suppress
+Suppress
+
+%CIifx40_mnu_pin_suppress_hilfe
+Suppress all dowel pin fasteners
+Suppress all dowel pin fasteners
+
+ifx40_mnu_pin_resume
+Resume
+Resume
+
+%CIifx40_mnu_pin_resume_hilfe
+Resume all suppressed dowel pin fasteners
+Resume all suppressed dowel pin fasteners
+
+ifx40_mnu_options
+Options
+Options
+
+ifx40_mnu_options_hilfe
+Edit the configuration options of Intelligent Fastener.
+Edit the configuration options of Intelligent Fastener.
+
+ifx40_mnu_hilfe
+User guide
+User guide
+
+%CIifx40_mnu_hilfe_hilfe
+Open the Intelligent Fastener user guide.
+Open the Intelligent Fastener user guide.
+
+ifx40_mnu_getid
+Get ID
+Get ID
+
+%CIifx40_mnu_getid_hilfe
+Get ID from an AXIS or SURFACE
+Get ID from an AXIS or SURFACE
+
+ifx40_mnu_instancecreator
+Instance Creator
+Instance Creator
+
+%CIifx40_mnu_instancecreator_hilfe
+Create instances of the selected files (*.dat)
+Create instances of the selected files (*.dat)
+
+ifx40_mnu_buw_info
+B&&W Productinfo
+B&&W Productinfo
+
+ifx40_mnu_buw_info_hilfe
+Shows information about B&&W products
+Shows information about B&&W products
+
+ifx40_mnu_info
+About Intelligent Fastener
+About Intelligent Fastener
+
+ifx40_mnu_info_hilfe
+Information on Intelligent Fastener.
+Information on Intelligent Fastener.
+
+ifx40_mnu_reassemble
+Reassemble
+Reassemble
+
+%CIifx40_mnu_reassemble_hilfe
+Reassemble an existing fastener.
+Reassemble an existing fastener.
+
+ifx40_mnu_redefine
+Redefine
+Redefine
+
+%CIifx40_mnu_redefine_hilfe
+Redefine a fastener.
+Redefine a fastener.
+
+ifx40_mnu_delete
+Delete
+Delete
+
+ifx40_mnu_delete_hilfe
+Delete a fastener.
+Delete a fastener.
+
+ifx40_mnu_update
+Update holes
+Update holes
+
+%CIifx40_mnu_update_hilfe
+Update holes
+Update holes
+
+ifx40_mnu_suppress
+Suppress
+Suppress
+
+%CIifx40_mnu_suppress_hilfe
+Suppress all fasteners.
+Suppress all fasteners.
+
+ifx40_mnu_resume
+Resume
+Resume
+
+%CIifx40_mnu_resume_hilfe
+Resume all suppressed fasteners
+Resume all suppressed fasteners
+
+ifx40_mnu_ifx_popupmenu_text
+Intelligent Fastener
+Intelligent Fastener
+
+ifx40_mnu_convert
+Convert Library
+Convert Library
+
+ifx40_mnu_convert_hilfe
+Convert IFX library to the new file structure.
+Convert IFX library to the new file structure.
+

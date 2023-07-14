@@ -1,0 +1,1403 @@
+﻿profiles
+Profiles
+Profiles
+
+connectors
+Connectors
+Connectors
+
+equipment
+Equipment
+Equipment
+
+auto_udfs
+Automatic UDFs
+Automatic UDFs
+
+SIZE
+Size
+Size
+
+TYPE
+Type
+Type
+
+steel_beams_mm
+STEEL BEAMS MM
+STEEL BEAMS MM
+
+steel_beams_inch
+STEEL BEAMS INCH
+STEEL BEAMS INCH
+
+ANGLE_BEAM
+ANGLE BEAM
+ANGLE BEAM
+
+CHANNEL
+CHANNEL
+CHANNEL
+
+CHANNEL_BEAM
+CHANNEL BEAM
+CHANNEL BEAM
+
+I_BEAM
+I BEAM
+I BEAM
+
+I_BEAM_NARROW
+I BEAM NARROW
+I BEAM NARROW
+
+I_BEAM_S
+I BEAM S
+I BEAM S
+
+PIPE
+PIPE
+PIPE
+
+RECTANGULAR_BEAM
+RECTANGULAR BEAM
+RECTANGULAR BEAM
+
+RECTANGULAR_TUBE
+RECTANGULAR TUBE
+RECTANGULAR TUBE
+
+ROUND_BEAM
+ROUND BEAM
+ROUND BEAM
+
+SQUARE_BEAM
+SQUARE BEAM
+SQUARE BEAM
+
+SQUARE_TUBE
+SQUARE TUBE
+SQUARE TUBE
+
+STRUCTURAL_TEE
+STRUCTURAL TEE
+STRUCTURAL TEE
+
+STRUCTURAL_TEE_S
+STRUCTURAL TEE S
+STRUCTURAL TEE S
+
+T_BEAM
+T BEAM
+T BEAM
+
+T_BEAM_S
+T BEAM S
+T BEAM S
+
+U_BEAM
+U BEAM
+U BEAM
+
+Z_BEAM
+Z BEAM
+Z BEAM
+
+STEEL_PIPE
+STEEL PIPE
+STEEL PIPE
+
+FLAT_STEEL
+FLAT STEEL
+FLAT STEEL
+
+WIDE_FLAT_STEEL
+WIDE FLAT STEEL
+WIDE FLAT STEEL
+
+STEEL_STRIP
+STEEL STRIP
+STEEL STRIP
+
+RECTANGULAR_STEEL
+RECTANGULAR STEEL
+RECTANGULAR STEEL
+
+ROUND_STEEL
+ROUND STEEL
+ROUND STEEL
+
+SQUARE_STEEL
+SQUARE STEEL
+SQUARE STEEL
+
+SQUARE_PIPE
+SQUARE PIPE
+SQUARE PIPE
+
+angle_beam
+ANGLE BEAM
+ANGLE BEAM
+
+channel_beam
+CHANNEL BEAM
+CHANNEL BEAM
+
+i_beam
+I BEAM
+I BEAM
+
+i_beam_narrow
+I-BEAM NARROW
+I-BEAM NARROW
+
+i_beam_s
+I-BEAM S
+I-BEAM S
+
+pipe
+PIPE
+PIPE
+
+rectangular_beam
+RECTANGULAR BEAM
+RECTANGULAR BEAM
+
+rectangular_tube
+RECTANGULAR TUBE
+RECTANGULAR TUBE
+
+round_beam
+ROUND BEAM
+ROUND BEAM
+
+square_beam
+SQUARE BEAM
+SQUARE BEAM
+
+square_tube
+SQUARE TUBE
+SQUARE TUBE
+
+t_beam
+T-BEAM
+T-BEAM
+
+t_beam_s
+T-BEAM S
+T-BEAM S
+
+u_beam
+CHANNEL BEAM
+CHANNEL BEAM
+
+z_beam
+Z-BEAM
+Z-BEAM
+
+DOWEL_PIN
+DOWEL PIN
+DOWEL PIN
+
+BLIND_BORE_1
+BLIND BORE 1
+BLIND BORE 1
+
+BLIND_BORE_2
+BLIND BORE 2
+BLIND BORE 2
+
+PLACEMENT_AXIS_POINT
+Placement axis/point
+Placement axis/point
+
+PLACEMENT_PLANE
+Placement plane
+Placement plane
+
+dowel_pins_inch
+DOWEL PINS INCH
+DOWEL PINS INCH
+
+stiftverbindungen_mm
+DOWEL PINS MM
+DOWEL PINS MM
+
+dowel_pin
+dowel pin
+dowel pin
+
+zylinderstift
+dowel pin
+dowel pin
+
+screw_connections_inch
+SCREW CONNECT. INCH
+SCREW CONNECT. INCH
+
+schraubverbindungen_mm
+SCREW CONNECT. MM
+SCREW CONNECT. MM
+
+COUNTERSUNK_SLOT_SCREW
+COUNTERSUNK SLOT SCREW
+COUNTERSUNK SLOT SCREW
+
+COUNTERSUNK_SOCKET_SCREW
+COUNTERSUNK SOCKET SCREW
+COUNTERSUNK SOCKET SCREW
+
+CYLHEAD_SLOT_SCREW
+CYLINDRICAL HEAD SLOT SCREW
+CYLINDRICAL HEAD SLOT SCREW
+
+CYLHEAD_SOCKET_SCREW
+CYLINDRICAL HEAD SOCKET SCREW
+CYLINDRICAL HEAD SOCKET SCREW
+
+HEXHEAD_SCREW
+HEXHEAD SCREW
+HEXHEAD SCREW
+
+HEX_NUT
+HEX NUT
+HEX NUT
+
+SPRINGWASHER
+SPRING WASHER
+SPRING WASHER
+
+WASHER
+WASHER
+WASHER
+
+SCREW_PLANE
+SCREW PLANE
+SCREW PLANE
+
+NUT_PLANE
+NUT PLANE
+NUT PLANE
+
+THREAD_PLANE
+THREAD PLANE
+THREAD PLANE
+
+THRU_THREAD_END
+THRU THREAD END
+THRU THREAD END
+
+HOLE_FACE
+HOLE FACE
+HOLE FACE
+
+NUT_COUNTERBORE
+NUT COUNTERBORE
+NUT COUNTERBORE
+
+SCREW_COUNTERBORE
+SCREW COUNTERBORE
+SCREW COUNTERBORE
+
+THRU_THREAD
+THRU THREAD
+THRU THREAD
+
+SCREW_TYPE
+SCREW TYPE
+SCREW TYPE
+
+NUT_TYPE
+NUT TYPE
+NUT TYPE
+
+WASHER_TYPE
+WASHER TYPE
+WASHER TYPE
+
+SCREW_WASHER_TYPE
+SCREW WASHER TYPE
+SCREW WASHER TYPE
+
+NUT_WASHER_TYPE
+NUT WASHER TYPE
+NUT WASHER TYPE
+
+SPRING_WASHER_TYPE
+SPRING WASHER TYPE
+SPRING WASHER TYPE
+
+SCREW_PROPERTY
+SCREW PROPERTY
+SCREW PROPERTY
+
+NUT_PROPERTY
+NUT PROPERTY
+NUT PROPERTY
+
+NO_WASHER
+NO WASHER
+NO WASHER
+
+NO_SPRING WASHER
+NO SPRINGWASHER
+NO SPRINGWASHER
+
+csunk_screw_nut
+COUNTERSUNK SCREW WITH NUT
+COUNTERSUNK SCREW WITH NUT
+
+csunk_screw_thread
+COUNTERSUNK SCREW WITH THREAD
+COUNTERSUNK SCREW WITH THREAD
+
+cylhead_screw_nut
+CYLINDRICAL HEAD SCREW WITH NUT
+CYLINDRICAL HEAD SCREW WITH NUT
+
+cylhead_screw_thread
+CYLINDRICAL HEAD SCREW WITH THREAD
+CYLINDRICAL HEAD SCREW WITH THREAD
+
+hexscrew_nut
+HEX HEAD SCREW WITH NUT
+HEX HEAD SCREW WITH NUT
+
+hexscrew_thread
+HEX HEAD SCREW WITH THREAD
+HEX HEAD SCREW WITH THREAD
+
+Sechskantschraube
+HEX HEAD SCREW
+HEX HEAD SCREW
+
+Senkschraube_Innensechskant
+COUNTERSUNK SOCKET SCREW
+COUNTERSUNK SOCKET SCREW
+
+Senkschraube_Schlitz
+COUNTERSUNK SLOT SCREW
+COUNTERSUNK SLOT SCREW
+
+Zylinderschraube_Innensechskant
+CYL HEAD SOCKET SCREW
+CYL HEAD SOCKET SCREW
+
+Zylinderschraube_Schlitz
+CYL HEAD SLOT SCREW
+CYL HEAD SLOT SCREW
+
+Sechskanthutmutter
+HEX NUT CAP
+HEX NUT CAP
+
+Sechskantmutter
+HEX NUT
+HEX NUT
+
+Sechskantmutter_Flansch
+HEX NUT FLANGE
+HEX NUT FLANGE
+
+Sechskantmutter_Klemmteil
+HEX NUT CLAMP
+HEX NUT CLAMP
+
+Scheibe
+WASHER
+WASHER
+
+Federring 
+SPRING WASHER
+SPRING WASHER
+
+Ringschraube
+EYE BOLT
+EYE BOLT
+
+Zylinderschraube
+CAP SCREW
+CAP SCREW
+
+Senkschraube
+COUNTERSUNK SCREW
+COUNTERSUNK SCREW
+
+Hutmutter
+HEX NUT CAP
+HEX NUT CAP
+
+Sechskantmutter_mit_Flansch
+HEX NUT FLANGE
+HEX NUT FLANGE
+
+Sechskantmutter_mit_Klemmteil
+HEX NUT CLAMP
+HEX NUT CLAMP
+
+6k_schr_gew
+HEX SCREW WITH THREAD
+HEX SCREW WITH THREAD
+
+6k_schr_mut
+HEX SCREW WITH NUT
+HEX SCREW WITH NUT
+
+senk_schr_gew
+COUNTERSUNK SCREW WITH THREAD
+COUNTERSUNK SCREW WITH THREAD
+
+senk_schr_mut 
+COUNTERSUNK SCREW WITH NUT
+COUNTERSUNK SCREW WITH NUT
+
+zyl_schr_gew
+CYLINDRICAL HEAD SCREW WITH THREAD
+CYLINDRICAL HEAD SCREW WITH THREAD
+
+zyl_schr_mut
+CYLINDRICAL HEAD SCREW WITH NUT
+CYLINDRICAL HEAD SCREW WITH NUT
+
+steel_construction_mm
+STEEL CONSTRUCTION MM
+STEEL CONSTRUCTION MM
+
+steel_construction_inch
+STEEL CONSTRUCTION INCH
+STEEL CONSTRUCTION INCH
+
+Bracket
+PLATE
+PLATE
+
+Angle_Bracket
+ANGLE BRACKET
+ANGLE BRACKET
+
+ENDPLATE
+ENDPLATE
+ENDPLATE
+
+Endplate
+ENDPLATE
+ENDPLATE
+
+ASSEMBLE_WITH_OFFSET
+Assemble with offset
+Assemble with offset
+
+ATTACH_FACE
+Attach face
+Attach face
+
+ATTACH_SURFACE
+Attach face
+Attach face
+
+CUT_OFFSET
+CUT_OFFSET
+CUT_OFFSET
+
+CUT_SURFACE
+Cut surface
+Cut surface
+
+I_PROF_SIDE
+I-Profile side
+I-Profile side
+
+U_PROF_SIDE
+U-Profile side
+U-Profile side
+
+MIDDLE_ASSEMBLY
+Middle assembly position
+Middle assembly position
+
+ORIENT_PLANE
+Orient plane
+Orient plane
+
+PARALLEL_PLANE
+Parallel plane
+Parallel plane
+
+PLACEMENT_POINT
+Placement point
+Placement point
+
+PROFILE_END
+Profile end
+Profile end
+
+PROF_END
+Profile end
+Profile end
+
+PROF_SIDE_FACE
+Profile side face
+Profile side face
+
+PROF_SIDE_FACE_1
+Profile side face 1
+Profile side face 1
+
+PROF_SIDE_FACE_2
+Profile side face 2
+Profile side face 2
+
+PROF_SURFACE
+Profile surface
+Profile surface
+
+WITH_CUT
+With cut
+With cut
+
+1_angle
+1 ANGLE
+1 ANGLE
+
+2_angles
+2 ANGLES
+2 ANGLES
+
+beam_end_cutout
+PROFILE END CUTOUT
+PROFILE END CUTOUT
+
+bracket_2prof
+PLATE BETWEEN 2 PROFILES
+PLATE BETWEEN 2 PROFILES
+
+bracket_2prof_angle
+PLATE BETW 2 PROF W/ ANG
+PLATE BETW 2 PROF W/ ANG
+
+bracket_pnt
+PLATE ON POINT
+PLATE ON POINT
+
+bracket_prof_end
+PLATE AT PROFILE END
+PLATE AT PROFILE END
+
+bracket_rect_corner
+RECT CORNER PLATE
+RECT CORNER PLATE
+
+endplate
+END PLATE
+END PLATE
+
+i_beam_side_bracket
+I-PROFILE SIDE PLATE
+I-PROFILE SIDE PLATE
+
+i_beam_narrow_side_bracket
+I-PROFILE NARROW SIDE PLATE
+I-PROFILE NARROW SIDE PLATE
+
+u_beam_side_bracket
+U-PROF SIDE PLATE
+U-PROF SIDE PLATE
+
+u_beam_parallel_side_bracket
+U-PROF PARALLEL SIDE PLATE
+U-PROF PARALLEL SIDE PLATE
+
+no_standard
+NONSTANDARD
+NONSTANDARD
+
+Winkel
+Angle
+Angle
+
+I_PROFILE_END
+I-Profile end
+I-Profile end
+
+I_PROFILE_TOP
+I-Profile top
+I-Profile top
+
+PROFIL
+Profile
+Profile
+
+dast_standard
+DAST STANDARD
+DAST STANDARD
+
+1_winkel
+1 ANGLE
+1 ANGLE
+
+2_winkel
+2 ANGLES
+2 ANGLES
+
+stirnplatte_ih1
+END PLATE IH1
+END PLATE IH1
+
+stirnplatte_ih2
+END PLATE IH2
+END PLATE IH2
+
+stirnplatte_ih3
+END PLATE IH3
+END PLATE IH3
+
+stirnplatte_is
+END PLATE IS
+END PLATE IS
+
+winkelverb_iw
+ANGLE CONNECTOR IW
+ANGLE CONNECTOR IW
+
+plates_inch
+PLATES INCH
+PLATES INCH
+
+plates_mm
+PLATES MM
+PLATES MM
+
+plate
+PLATE
+PLATE
+
+PLATE
+PLATE
+PLATE
+
+ATTACH_OPTION
+Attach option
+Attach option
+
+ATTACH_PLANE
+Attachment plane
+Attachment plane
+
+BOTTOM_PLANE
+Bottom plane
+Bottom plane
+
+LEFT_PLANE
+Left plane
+Left plane
+
+RIGHT_PLANE
+Right plane
+Right plane
+
+TOP_PLANE
+Top plane
+Top plane
+
+sheetmetal_beams_mm
+SHEETMETAL BEAMS MM
+SHEETMETAL BEAMS MM
+
+sheetmetal_beams_inch
+SHEETMETAL BEAMS INCH
+SHEETMETAL BEAMS INCH
+
+u_beam_parallel
+CHANNEL BEAM PARALLEL
+CHANNEL BEAM PARALLEL
+
+u_beam_parallel_radius
+CHANNEL BEAM PARALLEL RAD
+CHANNEL BEAM PARALLEL RAD
+
+sm_angle_beam
+SHEETMETAL ANGLE BEAM
+SHEETMETAL ANGLE BEAM
+
+sm_u_beam
+SHEETMETAL CHANNEL BEAM
+SHEETMETAL CHANNEL BEAM
+
+sm_z_beam
+SHEETMETAL Z_BEAM
+SHEETMETAL Z_BEAM
+
+sm_pipe
+SHEETMETAL PIPE
+SHEETMETAL PIPE
+
+sel_fl_straight
+sel_surface_straight_cut
+sel_surface_straight_cut
+
+sel_fl_straight_off
+sel_surface_straight_cut_offset
+sel_surface_straight_cut_offset
+
+bracing_plates
+BRACING PLATES
+BRACING PLATES
+
+triangle_rect_corner
+TRIANG CORNER PLATE
+TRIANG CORNER PLATE
+
+beam_end_cope
+BEAM END COPE
+BEAM END COPE
+
+pipe_squash
+PIPE SQUASH
+PIPE SQUASH
+
+PIPE_END
+Pipe end
+Pipe end
+
+CYLINDER_SURFACE
+Cylinder surface
+Cylinder surface
+
+PROFILE_TOP_COPE
+Top beam end cope
+Top beam end cope
+
+PROFILE_BOTTOM_COPE
+Bottom beam end cope
+Bottom beam end cope
+
+ATTACH_HOLES_THRU_NEXT
+Attach holes thru next
+Attach holes thru next
+
+ATTACH_HOLES_THRU_ALL
+Attach holes thru all
+Attach holes thru all
+
+bracing_plate_rect
+BRACING PLATE RECTANGULAR
+BRACING PLATE RECTANGULAR
+
+bracing_plate_triang
+BRACING PLATE TRIANGULAR
+BRACING PLATE TRIANGULAR
+
+bracing_plate_double
+BRACING PLATE DOUBLE
+BRACING PLATE DOUBLE
+
+bracing_plate_cross
+BRACING PLATE CROSS
+BRACING PLATE CROSS
+
+PROF_SIDE
+Profile side
+Profile side
+
+BRACING_PROF_SIDE
+Bracing profile side
+Bracing profile side
+
+BRACING_PROF_1_SIDE
+Bracing profile 1 side
+Bracing profile 1 side
+
+BRACING_PROF_2_SIDE
+Bracing profile 2 side
+Bracing profile 2 side
+
+BRACING_PROF_3_SIDE
+Bracing profile 3 side
+Bracing profile 3 side 
+
+BRACING_PROF_4_SIDE
+Bracing profile 4 side
+Bracing profile 4 side
+
+PROFILE_CENTER_ASSEMBLY
+Center profile fit
+Center profile fit
+
+CHAMFER
+Chamfer
+Chamfer
+
+WITH_END_CUT
+End cut
+End cut
+
+BRACING_PLATE_RECTANGULAR
+BRACING PLATE RECTANGULAR
+BRACING PLATE RECTANGULAR
+
+BRACING_PLATE_TRIANGULAR
+BRACING PLATE TRIANGULAR
+BRACING PLATE TRIANGULAR
+
+BRACING_PLATE_DOUBLE
+BRACING PLATE DOUBLE
+BRACING PLATE DOUBLE
+
+BRACING_PLATE_CROSS
+BRACING PLATE CROSS
+BRACING PLATE CROSS
+
+aisc_standard
+AISC STANDARD
+AISC STANDARD
+
+single_shear_plate
+SINGLE SHEAR PLATE
+SINGLE SHEAR PLATE
+
+shear_endplate
+SHEAR END PLATE
+SHEAR END PLATE
+
+double_angles
+DOUBLE ANGLES
+DOUBLE ANGLES
+
+single_angle
+SINGLE ANGLE
+SINGLE ANGLE
+
+PROF_TOP
+Profile top
+Profile top
+
+OFFSET_FROM_TOP
+Offset from top
+Offset from top
+
+PROFILE_HOLES
+Profile holes
+Profile holes
+
+BOLT_DM
+Bolt diameter
+Bolt diameter
+
+N_HOLES
+No. of holes
+No. of holes
+
+N_ROWS
+No. of bolt rows
+No. of bolt rows
+
+PROFILE_SIZE
+Profile size
+Profile size
+
+SHEAR_PLATE
+SHEAR PLATE
+SHEAR PLATE
+
+SHEAR_ENDPLATE
+SHEAR END PLATE
+SHEAR END PLATE
+
+beam_endcaps
+BEAM END PLATES
+BEAM END PLATES
+
+endcap_square
+END PLATE SQUARE
+END PLATE SQUARE
+
+endcap_rect
+END PLATE RECT.
+END PLATE RECT.
+
+endcap_round
+END PLATE ROUND
+END PLATE ROUND
+
+WITH_CHAMFER
+With chamfer
+With chamfer
+
+ENDCAP_SQUARE
+END PLATE SQUARE
+END PLATE SQUARE
+
+ENDCAP RECTANGULAR
+END PLATE RECTANGULAR
+END PLATE RECTANGULAR
+
+ENDCAP_ROUND
+END PLATE ROUND
+END PLATE ROUND
+
+stairs
+STAIRS
+STAIRS
+
+rails
+RAILS
+RAILS
+
+stairs_1
+STAIRS_1
+STAIRS_1
+
+stairs_2
+STAIRS_2
+STAIRS_2
+
+CENTER_PLANE
+Center plane
+Center plane
+
+ATTACH_PLANE_2
+Attachment plane 2
+Attachment plane 2
+
+TOP_LEVEL_STEP
+Top level tread
+Top level tread
+
+BOTTOM_LEVEL_STEP
+Bottom level tread
+Bottom level tread
+
+BEAM_SIZE
+Beam size
+Beam size
+
+STEP_SIZE
+Tread size
+Tread size
+
+rails_1
+RAILS_1
+RAILS_1
+
+rails_2
+RAILS_2
+RAILS_2
+
+FRONT_PLANE
+Front plane
+Front plane
+
+FLOOR_PLANE
+Floor plane
+Floor plane
+
+HAND_RAIL_SIZE
+Hand rail size
+Hand rail size
+
+KNEE_RAIL_SIZE
+Knee rail size
+Knee rail size
+
+FOOT_RAIL_SIZE
+Foot rail size
+Foot rail size
+
+STUD_SIZE
+Post size
+Post size
+
+USE_ANGLE
+Use angle
+Use angle
+
+ANGLE
+Angle
+Angle
+
+N_POINT_ROWS
+No. of point rows
+No. of point rows
+
+N_POINT_COLUMNS
+No. of point columns
+No. of point columns
+
+ALIGN_FACE
+Align face
+Align face
+
+MATE_FACE
+Mate face
+Mate face
+
+ladders
+LADDERS
+LADDERS
+
+ladder_1
+LADDER_1
+LADDER_1
+
+ladder_cage_1
+LADDER_CAGE_1
+LADDER_CAGE_1
+
+LADDER_PART
+Ladder part
+Ladder part
+
+RING_BEAM_SIZE
+Ring beam size
+Ring beam size
+
+endplate_top
+ENDPLATE TOP
+ENDPLATE TOP
+
+endplate_align_size
+ENDPLATE ALIGN SIZE
+ENDPLATE ALIGN SIZE
+
+bracket_rect_corner_align
+ALIGN RECT CORNER PLATE
+ALIGN RECT CORNER PLATE
+
+bracket_rect_corner_mate
+MATED RECT CORNER PLATE
+MATED RECT CORNER PLATE
+
+bracket_angle_corner
+ANG CORNER PLATE
+ANG CORNER PLATE
+
+bracket_angle_corner_align
+ALIGN ANG CORNER PLATE
+ALIGN ANG CORNER PLATE
+
+bracket_angle_corner_mate
+MATED ANG CORNER PLATE
+MATED ANG CORNER PLATE
+
+i_beam_side_bracket_mate
+I-PROF MATED SIDE PLATE
+I-PROF MATED SIDE PLATE
+
+i_beam_narrow_side_brack_mate
+I-PROF NARROW MATED SIDE PLATE
+I-PROF NARROW MATED SIDE PLATE
+
+u_beam_side_bracket_mate
+U-PROF MATED SIDE PLATE
+U-PROF MATED SIDE PLATE
+
+u_beam_paral_side_brack_mate
+U-PROF PARALLEL MATED SIDE PLATE
+U-PROF PARAL. MATED SIDE PLATE
+
+weld_plate
+WELD PLATE
+WELD PLATE
+
+SYMMETRIC
+Symmetric
+Symmetric
+
+PROFILE_TOP
+Profile top
+Profile top
+
+WITH_CHAMFER_1
+With chamfer 1
+With chamfer 1
+
+WITH_CHAMFER_2
+With chamfer 2
+With chamfer 2
+
+WITH_CHAMFER_3
+With chamfer 3
+With chamfer 3
+
+SURFACE_1
+Face 1
+Face 1
+
+SURFACE_2
+Face 2
+Face 2
+
+WITH_HOLES
+Holes
+Holes
+
+WITH_AUTO_UDF_HOLES
+Auto UDF holes
+Auto UDF holes
+
+plate_3_points
+PLATE 3 POINTS
+PLATE 3 POINTS
+
+plate_3_lines
+PLATE 3 LINES
+PLATE 3 LINES
+
+plate_3_planes
+PLATE 3 PLANES
+PLATE 3 PLANES
+
+plate_4_points
+PLATE 4 POINTS
+PLATE 4 POINTS
+
+plate_4_lines
+PLATE 4 LINES
+PLATE 4 LINES
+
+plate_4_planes
+PLATE 4 PLANES
+PLATE 4 PLANES
+
+plate_5_points
+PLATE 5 POINTS
+PLATE 5 POINTS
+
+plate_5_lines
+PLATE 5 LINES
+PLATE 5 LINES
+
+plate_5_planes
+PLATE 5 PLANES
+PLATE 5 PLANES
+
+plate_6_points
+PLATE 6 POINTS
+PLATE 6 POINTS
+
+plate_6_lines
+PLATE 6 LINES
+PLATE 6 LINES
+
+plate_6_planes
+PLATE 6 PLANES
+PLATE 6 PLANES
+
+plate_8_points
+PLATE 8 POINTS
+PLATE 8 POINTS
+
+plate_8_lines
+PLATE 8 LINES
+PLATE 8 LINES
+
+plate_8_planes
+PLATE 8 PLANES
+PLATE 8 PLANES
+
+POINT_1
+Point 1
+Point 1
+
+POINT_2
+Point 2
+Point 2
+
+POINT_3
+Point 3
+Point 3
+
+POINT_4
+Point 4
+Point 4
+
+POINT_5
+Point 5
+Point 5
+
+POINT_6
+Point 6
+Point 6
+
+POINT_7
+Point 7
+Point 7
+
+POINT_8
+Point 8
+Point 8
+
+LINE_1
+Line 1
+Line 1
+
+LINE_2
+Line 2
+Line 2
+
+LINE_3
+Line 3
+Line 3
+
+LINE_4
+Line 4
+Line 4
+
+LINE_5
+Line 5
+Line 5
+
+LINE_6
+Line 6
+Line 6
+
+LINE_7
+Line 7
+Line 7
+
+LINE_8
+Line 8
+Line 8
+
+PLANE_1
+Plane 1
+Plane 1
+
+PLANE_2
+Plane 2
+Plane 2
+
+PLANE_3
+Plane 3
+Plane 3
+
+PLANE_4
+Plane 4
+Plane 4
+
+PLANE_5
+Plane 5
+Plane 5
+
+PLANE_6
+Plane 6
+Plane 6
+
+PLANE_7
+Plane 7
+Plane 7
+
+PLANE_8
+Plane 8
+Plane 8
+
+template_models_mm
+TEMPLATE MODELS MM
+TEMPLATE MODELS MM
+
+template_models_inch
+TEMPLATE MODELS INCH
+TEMPLATE MODELS INCH
+
+part_no_constraints
+PART NO CONSTRAINTS
+PART NO CONSTRAINTS
+
+part_csys
+PART COORDINATE SYSTEM
+PART COORDINATE SYSTEM
+
+part_3_points
+PART 3 POINTS
+PART 3 POINTS
+
+part_3_planes
+PART 3 PLANES
+PART 3 PLANES
+
+part_point_2_planes
+PART POINT 2 PLANES
+PART POINT 2 PLANES
+
+part_plane_point_plane
+PART PLANE POINT PLANE
+PART PLANE POINT PLANE
+
+part_2_planes_point
+PART 2 PLANES POINT
+PART 2 PLANES POINT
+
+assembly_no_constraints
+ASSEMBLY NO CONSTRAINTS
+ASSEMBLY NO CONSTRAINTS
+
+assembly_csys
+ASSEMBLY COORDINATE SYSTEM
+ASSEMBLY COORDINATE SYSTEM
+
+assembly_3_points
+ASSEMBLY 3 POINTS
+ASSEMBLY 3 POINTS
+
+assembly_3_planes
+ASSEMBLY 3 PLANES
+ASSEMBLY 3 PLANES
+
+assembly_point_2_planes
+ASSEMBLY POINT 2 PLANES
+ASSEMBLY POINT 2 PLANES
+
+assembly_plane_point_plane
+ASSEMBLY PLANE POINT PLANE
+ASSEMBLY PLANE POINT PLANE
+
+assembly_2_planes_point
+ASSEMBLY 2 PLANES POINT
+ASSEMBLY 2 PLANES POINT
+
+PLACEMENT_CSYS
+Placement coordinate system
+Placement coordinate system
+
+PLANE_XY
+Plane XY
+Plane XY
+
+PLANE_XZ
+Plane XZ
+Plane XZ
+
+PLANE_YZ
+Plane YZ
+Plane YZ
+
+SCREW_SIZE
+Screw size
+Screw size
+
+NUM_HOLES
+No. of holes
+No. of holes
+
+HOLE_DISTANCE
+Hole distance
+Hole distance
+
+u_beam_rolled
+CHANNEL BEAM ROLLED
+CHANNEL BEAM ROLLED
+
+U_BEAM_ROLLED
+CHANNEL BEAM ROLLED
+CHANNEL BEAM ROLLED
+
+c_beam
+C BEAM
+C BEAM
+
+C_BEAM
+C BEAM
+C BEAM
+
+PROFIL_GROESSE
+Profile size
+Profile size

@@ -1,0 +1,615 @@
+﻿BW#ADD_PROJSC#Y
+Add the project shortcut to connector or equipment elements.
+Add the project shortcut to connector or equipment elements.
+
+BW#ADD_PROJSC#N
+Shortcut will NOT be added to connector or equipment elements.
+Shortcut will NOT be added to connector or equipment elements.
+
+BW#USE_PROF_NUM_FOR_ALL#Y
+Use profile number for all AFX elements.
+Use profile number for all AFX elements.
+
+BW#USE_PROF_NUM_FOR_ALL#N
+Do not use profile number for all AFX elements.
+Do not use profile number for all AFX elements.
+
+BW#SEARCH_ELEM_NUM_IN_ALL#Y
+Search element number in all project subassemblies.
+Search element number in all project subassemblies.
+
+BW#SEARCH_ELEM_NUM_IN_ALL#N
+Search element number in current assembly only.
+Search element number in current assembly only.
+
+BW#CHANGE_REPRES#Y
+Changes in assembly simplified representation HAVE changed connector and equipment elements.
+Changes in assembly simplified representation HAVE changed connector and equipment elements.
+
+BW#CHANGE_REPRES#N
+Changes in assembly simp rep HAVE NOT changed connector and equipment elements.
+Changes in assembly simp rep HAVE NOT changed connector and equipment elements.
+
+BW#FOR_INTRALINK_33#Y
+Use AFX with Creo Intralink 3.3, 3.4, or Windchill.
+Use AFX with Creo Intralink 3.3, 3.4, or Windchill.
+
+BW#FOR_INTRALINK_33#N
+Use AFX without Creo Intralink or with version 3.2 or earlier.
+Use AFX without Creo Intralink or with version 3.2 or earlier.
+
+BW#LENGTH_STR_NUM_DIGITS
+Number of digits before the period in BUW_LENGTH_STR
+Number of digits before the period in BUW_LENGTH_STR
+
+BW#ELEM_NUMBER_DIGITS
+Number of digits of element number in model name
+Number of digits of element number in model name
+
+BW#REGEN_ASM#N
+Do not regenerate assembly after auto creating joint for connector or equipment element.
+Do not regenerate assembly after auto creating joint for connector or equipment element.
+
+BW#REGEN_ASM#Y
+Regenerate assembly after auto creating the joint for connector or equipment element
+Regenerate assembly after auto creating the joint for connector or equipment element
+
+BW#REMOVE_PROF_FILES#Y
+AFX part, assembly, and drawing files are deleted from disk after assembling part or assembly.
+AFX part, assembly, and drawing files are deleted from disk after assembling part or assembly.
+
+BW#REMOVE_PROF_FILES#N
+AFX part, assembly, and drawing files remain on the disk after assembling part or assembly.
+AFX part, assembly, and drawing files remain on the disk after assembling part or assembly.
+
+BW#COPY_STD_DRWS_FROM_LIB#Y
+Copy AFX standard drawing from library when assembling AFX component.
+Copy AFX standard drawing from library when assembling AFX component.
+
+BW#COPY_STD_DRWS_FROM_LIB#N
+Do not copy AFX standard drawing from library when assembling AFX component.
+Do not copy AFX standard drawing from library when assembling AFX component.
+
+BW#SHOW_PROFILE_SIZE_NOTES#Y
+The layer with notes on profile size appears after assembling a profile.
+The layer with notes on profile size appears after assembling a profile.
+
+BW#SHOW_PROFILE_SIZE_NOTES#N
+The layer with notes on profile size is not shown after assembling a profile.
+The layer with notes on profile size is not shown after assembling a profile.
+
+BW#REMOVE_0_SURFACE_CUT_UDFS#Y
+Remove the cut features without a solid surface.
+Remove the cut features without a solid surface.
+
+BW#REMOVE_0_SURFACE_CUT_UDFS#N
+Keep cut features that do not have a solid surface.
+Keep cut features that do not have a solid surface.
+
+BW#CURVED_BEAMS_USE_EDGE#Y
+Create curved beams with the Sketcher Use Edge command.
+Create curved beams with the Sketcher Use Edge command.
+
+BW#CURVED_BEAMS_USE_EDGE#N
+Do not create curved beams with the Sketcher Use Edge command.
+Do not create curved beams with the Sketcher Use Edge command.
+
+BW#LOAD_UDF_BY_COPY#Y
+Use a copy when loading UDFs from the library.
+Use a copy when loading UDFs from the library.
+
+BW#LOAD_UDF_BY_COPY#N
+Temporarily change the working directory when loading UDFs from the library.
+Temporarily change the working directory when loading UDFs from the library.
+
+BW#SDNF_IMPORT_NUM_LINES#6
+SDNF import file has 6 lines per profile.
+SDNF import file has 6 lines per profile.
+
+BW#SDNF_IMPORT_NUM_LINES#10
+SDNF import file has 10 lines per profile.
+SDNF import file has 10 lines per profile.
+
+BW#BROWSER_PATH
+Enter web browser path and the command to view documentation.
+Enter web browser path and the command to view documentation.
+
+BW#MAT_FILE_DIRECTORY
+Enter material file directory path.
+Enter material file directory path.
+
+BW#DEFAULT_MATERIAL_NAME
+Default material name.
+Default material name.
+
+BW#EFX_LIBRARY_PATH
+Enter AFX library path.
+Enter AFX library path.
+
+BW#COPY_ASM_BACKUP_PATH
+Enter backup path for new AFX assembly copy process.
+Enter backup path for new AFX assembly copy process.
+
+BW#COLOR_PARTS#Y
+Color AFX profile connector and equipment parts.
+Color AFX profile connector and equipment parts.
+
+BW#COLOR_PARTS#N
+Do not color AFX profile connector and equipment parts.
+Do not color AFX profile connector and equipment parts.
+
+BW#PROFILES_COLOR
+Color of profile parts.
+Color of profile parts.
+
+BW#CONNECTORS_COLOR
+Color of connector parts.
+Color of connector parts.
+
+BW#EQUIPMENT_COLOR
+Color of equipment parts.
+Color of equipment parts.
+
+BW#EFX_ITEM_NR_TEXT_HEIGHT
+Text height of item number in AFX item number notes (0 = standard text height).
+Text height of item number in AFX item number notes (0 = standard text height).
+
+BW#DEBUG_MODE#Y
+Print debug info in trail file while assembling of connector/equipment elements.
+Print debug info in trail file while assembling of connector/equipment elements.
+
+BW#DEBUG_MODE#N
+Do not print debug info in trail file during assembly of connector/equipment elements.
+Do not print debug info in trail file during assembly of connector/equipment elements.
+
+BW#YES
+Yes
+Yes
+
+BW#NO
+No
+No
+
+BW#USE_EXTERNAL_REFERENCES#N
+All screw and dowel pin hole features are placed without external references.
+All screw and dowel pin hole features are placed without external references.
+
+BW#USE_EXTERNAL_REFERENCES#Y
+All screw and dowel pin hole features are placed on the selected point/axis.
+All screw and dowel pin hole features are placed on the selected point/axis.
+
+BW#SELECT_POS_REFS#0
+Use an UDF as position reference for each surface.
+Use an UDF as position reference for each surface.
+
+BW#SELECT_POS_REFS#1
+For each surface you are prompted for two position references.
+For each surface you are prompted for two position references.
+
+BW#SELECT_POS_REFS#2
+Search for two surfaces, which are normal to the surface.
+Search for two surfaces, which are normal to the surface.
+
+BW#GEN_DIGITS
+Define number of decimals.
+Define number of decimals.
+
+BW#COLOR_STDPARTS#0
+Do not color standard parts.
+Do not color standard parts.
+
+BW#COLOR_STDPARTS#1
+Color new standard parts.
+Color new standard parts.
+
+BW#COLOR_STDPARTS#2
+Color standard parts.
+Color standard parts.
+
+BW#COLOR_HOLES#0
+Do not change the color of the hole surfaces.
+Do not change the color of the hole surfaces.
+
+BW#COLOR_HOLES#1
+Transparency of hole surfaces is set to opaque (0.00).
+Transparency of hole surfaces is set to opaque (0.00).
+
+BW#COLOR_HOLES#2
+Change color of hole surfaces as defined.
+Change color of hole surfaces as defined.
+
+BW#PATH_ABS_LIBRARY
+Complete path to the component library root directory.
+Complete path to the component library root directory.
+
+BW#PATH_ABS_ARCHIVES
+Complete path to the component archive.
+Complete path to the component archive.
+
+BW#USE_ARCHIVES#N
+Do not use the archive.
+Do not use the archive.
+
+BW#USE_ARCHIVES#Y
+Use the archive. Save new components to the PATH_ABS_ARCHIVES directory.
+Use the archive. Save new components to the PATH_ABS_ARCHIVES directory.
+
+BW#ENTER_DISTANCE_VALUES#N
+Do not enter the distance values.
+Do not enter the distance values.
+
+BW#ENTER_DISTANCE_VALUES#Y
+After placing a Screw or a Dowel Pin on a mouse click position enter the distance values.
+After placing a Screw or a Dowel Pin on a mouse click position enter the distance values.
+
+BW#LAYERNAME_DATUM
+Layer name for Datums. Leave blank for no layer.
+Layer name for Datums. Leave blank for no layer.
+
+BW#LAYERNAME_HOLE_NOTE
+Layer name for Hole Notes. Leave blank for no layer.
+Layer name for Hole Notes. Leave blank for no layer.
+
+BW#PROVIDE_LAST_REFERENCES#N
+Select all references while reassembling.
+Select all references while reassembling.
+
+BW#PROVIDE_LAST_REFERENCES#Y
+Provide the last selected references, while reassembling. Accept with MMB.
+Provide the last selected references, while reassembling. Accept with MMB.
+
+BW#FAMTAB_CHECK_LENGTH#Y
+Check if at least one length exists for the selected diameter.
+Check if at least one length exists for the selected diameter.
+
+BW#FAMTAB_CHECK_LENGTH#N
+Do not check the length.
+Do not check the length.
+
+BW#RUN_MAPKEY_CREATE#Y
+Use a mapkey to reset the hole note after creating the hole.
+Use a mapkey to reset the hole note after creating the hole.
+
+BW#RUN_MAPKEY_CREATE#N
+Do not use a mapkey to reset the hole note.
+Do not use a mapkey to reset the hole note.
+
+BW#RUN_MAPKEY_REDEFINE#Y
+Use a mapkey to reset the hole note after redefining the hole.
+Use a mapkey to reset the hole note after redefining the hole.
+
+BW#RUN_MAPKEY_REDEFINE#N
+Do not use a mapkey to reset the hole note.
+Do not use a mapkey to reset the hole note.
+
+BW#SCR_DIGITS
+Set the number of digits for the 'Screw Dialog'.
+Set the number of digits for the 'Screw Dialog'.
+
+BW#SCR_SUPPRESS_NEW#N
+Do not suppress screw fasteners after assembling.
+Do not suppress screw fasteners after assembling.
+
+BW#SCR_SUPPRESS_NEW#Y
+Suppress screw fasteners after assembling.
+Suppress screw fasteners after assembling.
+
+BW#CHECKSCREW_SHOWALL#N
+Show incorrect screw fasteners only in the 'Check Screw Fasteners' Dialog.
+Show incorrect screw fasteners only in the 'Check Screw Fasteners' Dialog.
+
+BW#CHECKSCREW_SHOWALL#Y
+Show all screw fasteners in the 'Check Screw Fasteners' Dialog.
+Show all screw fasteners in the 'Check Screw Fasteners' Dialog.
+
+BW#PATH_ABS_SAVESCREWS
+Complete path to the screw fasteners archive.
+Complete path to the screw fasteners archive.
+
+BW#SCR_COLOR_THREAD
+Color of the tapping drill hole.
+Color of the tapping drill hole.
+
+BW#SCR_COLOR_HOLE
+Color of the clearance hole.
+Color of the clearance hole.
+
+BW#SCR_COLOR_CB
+Color of the cylindrical counterbore.
+Color of the cylindrical counterbore.
+
+BW#SCR_COLOR_CON
+Color of the countersink.
+Color of the countersink.
+
+BW#SCR_COLOR_PLANE
+Color of the counterbore plane.
+Color of the counterbore plane.
+
+BW#COLOR_PARTSCREW
+Color of the screws.
+Color of the screws.
+
+BW#COLOR_PARTNUT
+Color of the nuts.
+Color of the nuts.
+
+BW#COLOR_PARTWASHER
+Color of the washers.
+Color of the washers.
+
+BW#COLOR_PARTINSERT
+Color of the inserts.
+Color of the inserts.
+
+BW#SCR_THREAD_SERIES_COUNTERBORE
+Hole chart for counterbores.
+Hole chart for counterbores.
+
+BW#SCR_THREAD_SERIES_COUNTERSINK
+Hole chart for countersinks.
+Hole chart for countersinks.
+
+BW#SCR_THREAD_SERIES_THREAD
+Hole chart for threaded holes.
+Hole chart for threaded holes.
+
+BW#SCR_THREAD_SERIES_CLEARANCE
+Hole chart for clearance hole.
+Hole chart for clearance hole.
+
+BW#SCR_REPLACE_PARAM_BY_DIM_IN_NOTE#N
+Do not modify the hole note.
+Do not modify the hole note.
+
+BW#SCR_REPLACE_PARAM_BY_DIM_IN_NOTE#Y
+Replace the parameter by the dimension symbol.
+Replace the parameter by the dimension symbol.
+
+BW#SCR_REPLACE_DIAMETER#N
+Do not modify &DIAMETER[.x].
+Do not modify &DIAMETER[.x].
+
+BW#SCR_REPLACE_DIAMETER#Y
+Replace &DIAMETER[.x] by the dimension symbol.
+Replace &DIAMETER[.x] by the dimension symbol.
+
+BW#SCR_REPLACE_DRILL_DEPTH#N
+Do not modify &DRILL_DEPTH[.x].
+Do not modify &DRILL_DEPTH[.x].
+
+BW#SCR_REPLACE_DRILL_DEPTH#Y
+Replace &DRILL_DEPTH[.x] by the dimension symbol.
+Replace &DRILL_DEPTH[.x] by the dimension symbol.
+
+BW#SCR_REPLACE_CBORE_DIAMETER#N
+Do not modify &CBORE_DIAMETER[.x].
+Do not modify &CBORE_DIAMETER[.x].
+
+BW#SCR_REPLACE_CBORE_DIAMETER#Y
+Replace &CBORE_DIAMETER[.x] by the dimension symbol.
+Replace &CBORE_DIAMETER[.x] by the dimension symbol.
+
+BW#SCR_REPLACE_CBORE_DEPTH#N
+Do not modify &CBORE_DEPTH[.x].
+Do not modify &CBORE_DEPTH[.x].
+
+BW#SCR_REPLACE_CBORE_DEPTH#Y
+Replace &CBORE_DEPTH[.x] by the dimension symbol.
+Replace &CBORE_DEPTH[.x] by the dimension symbol.
+
+BW#SCR_REPLACE_CSINK_DIAMETER#N
+Do not modify &CSINK_DIAMETER[.x].
+Do not modify &CSINK_DIAMETER[.x].
+
+BW#SCR_REPLACE_CSINK_DIAMETER#Y
+Replace &CSINK_DIAMETER[.x] by the dimension symbol.
+Replace &CSINK_DIAMETER[.x] by the dimension symbol.
+
+BW#SCR_REPLACE_CSINK_ANGLE#N
+Do not modify &CSINK_ANGLE[.x].
+Do not modify &CSINK_ANGLE[.x].
+
+BW#SCR_REPLACE_CSINK_ANGLE#Y
+Replace &CSINK_ANGLE[.x] by the dimension symbol.
+Replace &CSINK_ANGLE[.x] by the dimension symbol.
+
+BW#SCR_REPLACE_THREAD_DEPTH#N
+Do not modify &THREAD_DEPTH[.x].
+Do not modify &THREAD_DEPTH[.x].
+
+BW#SCR_REPLACE_THREAD_DEPTH#Y
+Replace &THREAD_DEPTH[.x] by the dimension symbol.
+Replace &THREAD_DEPTH[.x] by the dimension symbol.
+
+BW#ANGLE_LIMIT
+If the angle exceeds this value, you are prompted to select an additional surface to define the direction of the screw fastener. If the ANGLE_LIMIT is less then 0.0°, always select the direction.
+If the angle exceeds this value, you are prompted to select an additional surface to define the direction of the screw fastener. If the ANGLE_LIMIT is less then 0.0°, always select the direction.
+
+BW#CLEARANCE_HOLE_FIT_DEFAULT#CLOSE
+Close fit for clearance hole.
+Close fit for clearance hole.
+
+BW#CLEARANCE_HOLE_FIT_DEFAULT#FREE
+Free fit for clearance hole.
+Free fit for clearance hole.
+
+BW#CLEARANCE_HOLE_FIT_DEFAULT#MEDIUM
+Medium fit for clearance hole.
+Medium fit for clearance hole.
+
+BW#CLEARANCE_HOLE_FIT_SELECT#INITIAL
+Select CLEARANCE_HOLE_FIT_DEFAULT only on the first opening of the screw dialog. Then always use the last setting.
+Select CLEARANCE_HOLE_FIT_DEFAULT only on the first opening of the screw dialog. Then always use the last setting.
+
+BW#CLEARANCE_HOLE_FIT_SELECT#ALWAYS
+Select CLEARANCE_HOLE_FIT_DEFAULT always on opening the screw dialog. 
+Select CLEARANCE_HOLE_FIT_DEFAULT always on opening the screw dialog. 
+
+BW#CREATE_CSYS_FOR_AUTO_UDF_CREATION#Y
+Create a coordinate system to apply automatic UDF definition.
+Create a coordinate system to apply automatic UDF definition.
+
+BW#CREATE_CSYS_FOR_AUTO_UDF_CREATION#N
+Do not create a coordinate system.
+Do not create a coordinate system.
+
+BW#ENABLE_POPUP_MENU_FOR_SCREW_NUT_OFFSET#N
+Disable shortcut menus.
+Disable shortcut menus.
+
+BW#ENABLE_POPUP_MENU_FOR_SCREW_NUT_OFFSET#Y
+Enable shortcut menus to set the offset.
+Enable shortcut menus to set the offset.
+
+BW#PIN_DIGITS
+Set the number of digits for the 'Dowel Pin Dialog'.
+Set the number of digits for the 'Dowel Pin Dialog'.
+
+BW#PIN_SUPPRESS_NEW#N
+Do not suppress dowel pin fasteners after assembling.
+Do not suppress dowel pin fasteners after assembling.
+
+BW#PIN_SUPPRESS_NEW#Y
+Suppress dowel pin fasteners after assembling.
+Suppress dowel pin fasteners after assembling.
+
+BW#PIN_COLOR_HOLE
+Color of the through hole.
+Color of the through hole.
+
+BW#PIN_COLOR_CB
+Color of the cylindrical counterbore surface.
+Color of the cylindrical counterbore surface.
+
+BW#PIN_COLOR_PLANE
+Color of the counterbore plane.
+Color of the counterbore plane.
+
+BW#COLOR_PARTPIN
+Color of the dowel pins.
+Color of the dowel pins.
+
+BW#PIN_THREAD_SERIES_COUNTERBORE
+Hole chart for counterbores.
+Hole chart for counterbores.
+
+BW#PIN_THREAD_SERIES_THRU
+Hole chart for through holes.
+Hole chart for through holes.
+
+BW#PIN_THREAD_SERIES_BLIND
+Hole chart for blind holes.
+Hole chart for blind holes.
+
+BW#PIN_REPLACE_PARAM_BY_DIM_IN_NOTE#N
+Do not modify the hole note.
+Do not modify the hole note.
+
+BW#PIN_REPLACE_PARAM_BY_DIM_IN_NOTE#Y
+Replace the parameter by the dimension symbol.
+Replace the parameter by the dimension symbol.
+
+BW#PIN_REPLACE_DIAMETER#N
+Do not modify &DIAMETER[.x].
+Do not modify &DIAMETER[.x].
+
+BW#PIN_REPLACE_DIAMETER#Y
+Replace &DIAMETER[.x] by the dimension symbol.
+Replace &DIAMETER[.x] by the dimension symbol.
+
+BW#PIN_REPLACE_DRILL_DEPTH#N
+Do not modify &DRILL_DEPTH[.x].
+Do not modify &DRILL_DEPTH[.x].
+
+BW#PIN_REPLACE_DRILL_DEPTH#Y
+Replace &DRILL_DEPTH[.x] by the dimension symbol.
+Replace &DRILL_DEPTH[.x] by the dimension symbol.
+
+BW#PIN_REPLACE_CBORE_DIAMETER#N
+Do not modify &CBORE_DIAMETER[.x].
+Do not modify &CBORE_DIAMETER[.x].
+
+BW#PIN_REPLACE_CBORE_DIAMETER#Y
+Replace &CBORE_DIAMETER[.x] by the dimension symbol.
+Replace &CBORE_DIAMETER[.x] by the dimension symbol.
+
+BW#PIN_REPLACE_CBORE_DEPTH#N
+Do not modify &CBORE_DEPTH[.x].
+Do not modify &CBORE_DEPTH[.x].
+
+BW#PIN_REPLACE_CBORE_DEPTH#Y
+Replace &CBORE_DEPTH[.x] by the dimension symbol.
+Replace &CBORE_DEPTH[.x] by the dimension symbol.
+
+BW#PIN_DIAMETER_FOR_HOLECHART#DN
+Use column DN from file 'ifx_pin_data.cfg' to get the hole chart.
+Use column DN from file 'ifx_pin_data.cfg' to get the hole chart.
+
+BW#PIN_DIAMETER_FOR_HOLECHART#NOM
+Use column NOM from file 'ifx_pin_data.cfg' to get the hole chart.
+Use column NOM from file 'ifx_pin_data.cfg' to get the hole chart.
+
+BW#USE_NEW_LIBRARY_STRUCTURE#Y
+Use the new library structure.
+Use the new library structure.
+
+BW#USE_NEW_LIBRARY_STRUCTURE#N
+Use the old library structure.
+Use the old library structure.
+
+BW#READ_LIBRARY_DATA_ONCE_ONLY#N
+Read library data every time. Recommended for testing only.
+Read library data every time. Recommended for testing only.
+
+BW#READ_LIBRARY_DATA_ONCE_ONLY#Y
+Read library data once only. Reuse data on subsequent call.
+Read library data once only. Reuse data on subsequent call.
+
+BW#FOLDER_FOR_CATALOGS
+Name of the folder for the IFX catalogs.
+Name of the folder for the IFX catalogs.
+
+BW#PREFIX_FOR_CATALOG_FILES
+Prefix for the catalog file names. Can be empty.
+Prefix for the catalog file names. Can be empty.
+
+BW#FOLDER_FOR_FASTENER_DATA
+Name of the folder for the IFX fastener data.
+Name of the folder for the IFX fastener data.
+
+BW#LIBRARY_LOCATION#LOCAL
+Load library from PATH_ABS_LIBRARY.
+Load library from PATH_ABS_LIBRARY.
+
+BW#LIBRARY_LOCATION#WINDCHILL
+Update library from Windchill to PATH_ABS_WINDCHILL_DOWNLOAD and load it from there.
+Update library from Windchill to PATH_ABS_WINDCHILL_DOWNLOAD and load it from there.
+
+BW#PATH_ABS_WINDCHILL_DOWNLOAD
+Download the IFX-Windchill library to this folder and load it from there. If there is no folder specified, PATH_ABS_LIBRARY is used.
+Download the IFX-Windchill library to this folder and load it from there. If there is no folder specified, PATH_ABS_LIBRARY is used.
+
+BW#WTPUB_IFX_CATALOG_FOLDER
+Windchill URL to the IFX catalogs.
+Windchill URL to the IFX catalogs.
+
+BW#WTPUB_IFX_FASTENER_DATA_FOLDER
+Windchill URL to the IFX fastener data.
+Windchill URL to the IFX fastener data.
+
+BW#HOLE_VISIBILITY#SELECT
+Select hole visibility.
+Select hole visibility.
+
+BW#HOLE_VISIBILITY#PRT
+Create hole in part.
+Create hole in part.
+
+BW#HOLE_VISIBILITY#ASM
+Create hole in assembly.
+Create hole in assembly.
+
+BW#HOLE_VISIBILITY#NO
+Do not create a hole.
+Do not create a hole.

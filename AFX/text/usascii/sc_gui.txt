@@ -1,0 +1,32 @@
+﻿sc_gui_value
+Value
+Value
+
+sc_gui_tip_value
+Select or enter config-value.
+Select or enter config-value.
+
+sc_gui_search_file
+Select file
+Select file
+
+sc_gui_tip_search_file
+Select file in dialog.
+Select file in dialog.
+
+sc_gui_search_path
+Select path
+Select path
+
+sc_gui_tip_search_path
+Select path in dialog.
+Select path in dialog.
+
+sc_gui_select_color
+Select color
+Select color
+
+sc_gui_tip_select_color
+Select color in dialog.
+Select color in dialog.
+

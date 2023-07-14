@@ -1,0 +1,4212 @@
+﻿mm.Label
+mm
+mm
+
+screws.mm.HelpText
+Screws and Bolts
+Screws and Bolts
+
+mm-HV.Label
+mm-HV
+mm-HV
+
+mm-HV.HelpText
+EN 14399\nHigh-strenght structural bolting assemblies for preloading\nSystem HV
+EN 14399\nHigh-strenght structural bolting assemblies for preloading\nSystem HV
+
+mm-Fine.Label
+mm-Fine
+mm-Fine
+
+mm-Fine.HelpText
+Screws and Bolts - fine pitch thread
+Screws and Bolts - fine pitch thread
+
+inch.Label
+inch
+inch
+
+screws.inch.HelpText
+Screws and Bolts
+Screws and Bolts
+
+inch-structural.Label
+inch-structural
+inch-structural
+
+inch-structural.HelpText
+Fasteners for use in structural applications
+Fasteners for use in structural applications
+
+ANSI-ENGLISH.Label
+ANSI-ENGLISH
+ANSI-ENGLISH
+
+ANSI-ENGLISH.HelpText
+English Catalog\nCreo Standard Parts Library
+English Catalog\nCreo Standard Parts Library
+
+ANSI-METRIC.Label
+ANSI-METRIC
+ANSI-METRIC
+
+ANSI-METRIC.HelpText
+Metric Catalog\nCreo Standard Parts Library
+Metric Catalog\nCreo Standard Parts Library
+
+ISO.Label
+ISO
+ISO
+
+ISO.HelpText
+ISO Catalog\nCreo Standard Parts Library
+ISO Catalog\nCreo Standard Parts Library
+
+JIS.Label
+JIS
+JIS
+
+JIS.HelpText
+JIS Catalog\nCreo Standard Parts Library
+JIS Catalog\nCreo Standard Parts Library
+
+HoloKrome.Label
+HoloKrome
+HoloKrome
+
+screws.HoloKrome.HelpText
+Holo-Krome Company - Fastener 
+Holo-Krome Company - Fastener 
+
+pins.mm.HelpText
+Pins
+Pins
+
+pins.inch.HelpText
+Pins
+Pins
+
+pins.HoloKrome.HelpText
+Holo Krome Dowel Pins - ANSI
+Holo Krome Dowel Pins - ANSI
+
+ISO4014-5_6.Label
+ISO4014-5_6
+ISO4014-5_6
+
+ISO4014-5_6.HelpText
+ISO 4014-5.6 (DIN931) Hexagon head screw with shank\nproduct grades A and B
+ISO 4014-5.6 (DIN931) Hexagon head screw with shank\nproduct grades A and B
+
+ISO4014-8_8.Label
+ISO4014-8_8
+ISO4014-8_8
+
+ISO4014-8_8.HelpText
+ISO 4014-8.8 (DIN931) Hexagon head screw with shank\nproduct grades A and B
+ISO 4014-8.8 (DIN931) Hexagon head screw with shank\nproduct grades A and B
+
+ISO4014-10_9.Label
+ISO4014-10_9
+ISO4014-10_9
+
+ISO4014-10_9.HelpText
+ISO 4014-10.9 (DIN931) Hexagon head screw with shank\nproduct grades A and B
+ISO 4014-10.9 (DIN931) Hexagon head screw with shank\nproduct grades A and B
+
+ISO4016-4_6.Label
+ISO4016-4_6
+ISO4016-4_6
+
+ISO4016-4_6.HelpText
+ISO 4016-4.6 Hexagon head screw with shank\nproduct grade C
+ISO 4016-4.6 Hexagon head screw with shank\nproduct grade C
+
+ISO4016-4_8.Label
+ISO4016-4_8
+ISO4016-4_8
+
+ISO4016-4_8.HelpText
+ISO 4016-4.8 Hexagon head screw with shank\nproduct grade C
+ISO 4016-4.8 Hexagon head screw with shank\nproduct grade C
+
+ISO4017-5_6.Label
+ISO4017-5_6
+ISO4017-5_6
+
+ISO4017-5_6.HelpText
+ISO 4017-5.6 (DIN933) Hexagon head screw, fully threaded\nproduct grades A and B
+ISO 4017-5.6 (DIN933) Hexagon head screw, fully threaded\nproduct grades A and B
+
+ISO4017-8_8.Label
+ISO4017-8_8
+ISO4017-8_8
+
+ISO4017-8_8.HelpText
+ISO 4017-8.8 (DIN933) Hexagon head screw, fully threaded\nproduct grades A and B
+ISO 4017-8.8 (DIN933) Hexagon head screw, fully threaded\nproduct grades A and B
+
+ISO4017-10_9.Label
+ISO4017-10_9
+ISO4017-10_9
+
+ISO4017-10_9.HelpText
+ISO 4017-10.9 (DIN933) Hexagon head screw, fully threaded\nproduct grades A and B
+ISO 4017-10.9 (DIN933) Hexagon head screw, fully threaded\nproduct grades A and B
+
+ISO4018-4_6.Label
+ISO4018-4_6
+ISO4018-4_6
+
+ISO4018-4_6.HelpText
+ISO 4018-4.6 Hexagon head screw, fully threaded\nproduct grade C
+ISO 4018-4.6 Hexagon head screw, fully threaded\nproduct grade C
+
+ISO4018-4_8.Label
+ISO4018-4_8
+ISO4018-4_8
+
+ISO4018-4_8.HelpText
+ISO 4018-4.8 Hexagon head screw, fully threaded\nproduct grade C
+ISO 4018-4.8 Hexagon head screw, fully threaded\nproduct grade C
+
+ISO4762-8_8.Label
+ISO4762-8_8
+ISO4762-8_8
+
+ISO4762-8_8.HelpText
+ISO 4762-8.8 (DIN912) Hexagon socket head cap screw
+ISO 4762-8.8 (DIN912) Hexagon socket head cap screw
+
+ISO4762-10_9.Label
+ISO4762-10_9
+ISO4762-10_9
+
+ISO4762-10_9.HelpText
+ISO 4762-10.9 (DIN912) Hexagon socket head cap screw
+ISO 4762-10.9 (DIN912) Hexagon socket head cap screw
+
+ISO4762-12_9.Label
+ISO4762-12_9
+ISO4762-12_9
+
+ISO4762-12_9.HelpText
+ISO 4762-12.9 (DIN912) Hexagon socket head cap screw
+ISO 4762-12.9 (DIN912) Hexagon socket head cap screw
+
+DIN7984-8_8.Label
+DIN7984-8_8
+DIN7984-8_8
+
+DIN7984-8_8.HelpText
+DIN 7984-8.8 Hexagon socket head cap screw with low head
+DIN 7984-8.8 Hexagon socket head cap screw with low head
+
+DIN6912-8_8.Label
+DIN6912-8_8
+DIN6912-8_8
+
+DIN6912-8_8.HelpText
+DIN 6912-8.8 Hexagon socket head cap screw, low head and pilot recess
+DIN 6912-8.8 Hexagon socket head cap screw, low head and pilot recess
+
+ISO7380-1-8_8.Label
+ISO7380-1-8_8
+ISO7380-1-8_8
+
+ISO7380-1-8_8.HelpText
+ISO 7380-1 - 8.8 Hexagon socket button head screw
+ISO 7380-1 - 8.8 Hexagon socket button head screw
+
+ISO7380-1-10_9.Label
+ISO7380-1-10_9
+ISO7380-1-10_9
+
+ISO7380-1-10_9.HelpText
+ISO 7380-1 - 10.9 Hexagon socket button head screw
+ISO 7380-1 - 10.9 Hexagon socket button head screw
+
+ISO7380-1-12_9.Label
+ISO7380-1-12_9
+ISO7380-1-12_9
+
+ISO7380-1-12_9.HelpText
+ISO 7380-1 - 12.9 Hexagon socket button head screw
+ISO 7380-1 - 12.9 Hexagon socket button head screw
+
+ISO7380-2-8_8.Label
+ISO7380-2-8_8
+ISO7380-2-8_8
+
+ISO7380-2-8_8.HelpText
+ISO 7380-2 - 8.8 Hexagon socket button head screw with collar
+ISO 7380-2 - 8.8 Hexagon socket button head screw with collar
+
+ISO7380-2-10_9.Label
+ISO7380-2-10_9
+ISO7380-2-10_9
+
+ISO7380-2-10_9.HelpText
+ISO 7380-2 - 10.9 Hexagon socket button head screw with collar
+ISO 7380-2 - 10.9 Hexagon socket button head screw with collar
+
+ISO10642-8_8.Label
+ISO10642-8_8
+ISO10642-8_8
+
+ISO10642-8_8.HelpText
+ISO 10642-8.8 (DIN7991) Hexagon socket countersunk screw
+ISO 10642-8.8 (DIN7991) Hexagon socket countersunk screw
+
+ISO10642-10_9.Label
+ISO10642-10_9
+ISO10642-10_9
+
+ISO10642-10_9.HelpText
+ISO 10642-10.9 (DIN7991) Hexagon socket countersunk screw
+ISO 10642-10.9 (DIN7991) Hexagon socket countersunk screw
+
+ISO10642-12_9.Label
+ISO10642-12_9
+ISO10642-12_9
+
+ISO10642-12_9.HelpText
+ISO 10642-12.9 (DIN7991) Hexagon socket countersunk screw
+ISO 10642-12.9 (DIN7991) Hexagon socket countersunk screw
+
+ISO1207-4_8.Label
+ISO1207-4_8
+ISO1207-4_8
+
+ISO1207-4_8.HelpText
+ISO 1207-4.8 (DIN84) Slotted cheese head screw
+ISO 1207-4.8 (DIN84) Slotted cheese head screw
+
+ISO1207-5_8.Label
+ISO1207-5_8
+ISO1207-5_8
+
+ISO1207-5_8.HelpText
+ISO 1207-5.8 (DIN84) Slotted cheese head screw
+ISO 1207-5.8 (DIN84) Slotted cheese head screw
+
+ISO1580-4_8.Label
+ISO1580-4_8
+ISO1580-4_8
+
+ISO1580-4_8.HelpText
+ISO 1580-4.8 (DIN85) Slotted pan head screw
+ISO 1580-4.8 (DIN85) Slotted pan head screw
+
+ISO2009-4_8.Label
+ISO2009-4_8
+ISO2009-4_8
+
+ISO2009-4_8.HelpText
+ISO 2009-4.8 (DIN963) Slotted countersunk flat head screw
+ISO 2009-4.8 (DIN963) Slotted countersunk flat head screw
+
+ISO2009-5_8.Label
+ISO2009-5_8
+ISO2009-5_8
+
+ISO2009-5_8.HelpText
+ISO 2009-5.8 (DIN963) Slotted countersunk flat head screw
+ISO 2009-5.8 (DIN963) Slotted countersunk flat head screw
+
+DIN921-5_8.Label
+DIN921-5_8
+DIN921-5_8
+
+DIN921-5_8.HelpText
+DIN 921-5.8 Slotted pan head screw with large head
+DIN 921-5.8 Slotted pan head screw with large head
+
+ISO14579-8_8.Label
+ISO14579-8_8
+ISO14579-8_8
+
+ISO14579-8_8.HelpText
+ISO 14579-8.8 Hexalobular socket head cap screw
+ISO 14579-8.8 Hexalobular socket head cap screw
+
+ISO14579-9_8.Label
+ISO14579-9_8
+ISO14579-9_8
+
+ISO14579-9_8.HelpText
+ISO 14579-9.8 Hexalobular socket head cap screw
+ISO 14579-9.8 Hexalobular socket head cap screw
+
+ISO14579-10_9.Label
+ISO14579-10_9
+ISO14579-10_9
+
+ISO14579-10_9.HelpText
+ISO 14579-10.9 Hexalobular socket head cap screw
+ISO 14579-10.9 Hexalobular socket head cap screw
+
+ISO14579-12_9.Label
+ISO14579-12_9
+ISO14579-12_9
+
+ISO14579-12_9.HelpText
+ISO 14579-12.9 Hexalobular socket head cap screw
+ISO 14579-12.9 Hexalobular socket head cap screw
+
+ISO14580-4_8.Label
+ISO14580-4_8
+ISO14580-4_8
+
+ISO14580-4_8.HelpText
+ISO 14580-4.8 Hexalobular socket cheese head screw
+ISO 14580-4.8 Hexalobular socket cheese head screw
+
+ISO14580-5_8.Label
+ISO14580-5_8
+ISO14580-5_8
+
+ISO14580-5_8.HelpText
+ISO 14580-5.8 Hexalobular socket cheese head screw
+ISO 14580-5.8 Hexalobular socket cheese head screw
+
+ISO14581-4_8.Label
+ISO14581-4_8
+ISO14581-4_8
+
+ISO14581-4_8.HelpText
+ISO 14581-4.8 Hexalobular socket countersunk flat head screw
+ISO 14581-4.8 Hexalobular socket countersunk flat head screw
+
+ISO14581-8_8.Label
+ISO14581-8_8
+ISO14581-8_8
+
+ISO14581-8_8.HelpText
+ISO 14581-8.8 Hexalobular socket countersunk flat head screw
+ISO 14581-8.8 Hexalobular socket countersunk flat head screw
+
+ISO14582-4_8.Label
+ISO14582-4_8
+ISO14582-4_8
+
+ISO14582-4_8.HelpText
+ISO 14582-4.8 Hexalobular socket countersunk head screw, high head
+ISO 14582-4.8 Hexalobular socket countersunk head screw, high head
+
+ISO14582-8_8.Label
+ISO14582-8_8
+ISO14582-8_8
+
+ISO14582-8_8.HelpText
+ISO 14582-8.8 Hexalobular socket countersunk head screws, high head
+ISO 14582-8.8 Hexalobular socket countersunk head screws, high head
+
+ISO14582-10_9.Label
+ISO14582-10_9
+ISO14582-10_9
+
+ISO14582-10_9.HelpText
+ISO 14582-10.9 Hexalobular socket countersunk head screws, high head
+ISO 14582-10.9 Hexalobular socket countersunk head screws, high head
+
+ISO7045-4_8.Label
+ISO7045-4_8
+ISO7045-4_8
+
+ISO7045-4_8.HelpText
+ISO 7045-4.8 Pan head screw with cross recess
+ISO 7045-4.8 Pan head screw with cross recess
+
+DIN580-C15.Label
+DIN580-C15
+DIN580-C15
+
+DIN580-C15.HelpText
+DIN 580-C15 Lifting eye screw
+DIN 580-C15 Lifting eye screw
+
+ISO8765-5_6.Label
+ISO8765-5_6
+ISO8765-5_6
+
+ISO8765-5_6.HelpText
+ISO 8765-5.6 (DIN960) Hexagon screw with shank and fine pitch
+ISO 8765-5.6 (DIN960) Hexagon screw with shank and fine pitch
+
+ISO8765-8_8.Label
+ISO8765-8_8
+ISO8765-8_8
+
+ISO8765-8_8.HelpText
+ISO 8765-8.8 (DIN960) Hexagon screw with shank and fine pitch
+ISO 8765-8.8 (DIN960) Hexagon screw with shank and fine pitch
+
+ISO8765-10_9.Label
+ISO8765-10_9
+ISO8765-10_9
+
+ISO8765-10_9.HelpText
+ISO 8765-10.9 (DIN960) Hexagon screw with shank and fine pitch
+ISO 8765-10.9 (DIN960) Hexagon screw with shank and fine pitch
+
+ISO8676-5_6.Label
+ISO8676-5_6
+ISO8676-5_6
+
+ISO8676-5_6.HelpText
+ISO 8676-5.6 (DIN961) Hexagon head screw, fully threaded and fine pitch
+ISO 8676-5.6 (DIN961) Hexagon head screw, fully threaded and fine pitch
+
+ISO8676-8_8.Label
+ISO8676-8_8
+ISO8676-8_8
+
+ISO8676-8_8.HelpText
+ISO 8676-8.8 (DIN961) Hexagon head screw, fully threaded and fine pitch
+ISO 8676-8.8 (DIN961) Hexagon head screw, fully threaded and fine pitch
+
+ISO8676-10_9.Label
+ISO8676-10_9
+ISO8676-10_9
+
+ISO8676-10_9.HelpText
+ISO 8676-10.9 (DIN961) Hexagon head screw, fully threaded and fine pitch
+ISO 8676-10.9 (DIN961) Hexagon head screw, fully threaded and fine pitch
+
+DIN931-5_6.Label
+DIN931-5_6
+DIN931-5_6
+
+DIN931-5_6.HelpText
+DIN 931-5.6 (ISO4014) Hexagon cylindrical screw
+DIN 931-5.6 (ISO4014) Hexagon cylindrical screw
+
+DIN931-8_8.Label
+DIN931-8_8
+DIN931-8_8
+
+DIN931-8_8.HelpText
+DIN 931-8.8 (ISO4014) Hexagon cylindrical screw
+DIN 931-8.8 (ISO4014) Hexagon cylindrical screw
+
+DIN931-10_9.Label
+DIN931-10_9
+DIN931-10_9
+
+DIN931-10_9.HelpText
+DIN 931-10.9 (ISO4014) Hexagon cylindrical screw
+DIN 931-10.9 (ISO4014) Hexagon cylindrical screw
+
+DIN933-5_6.Label
+DIN933-5_6
+DIN933-5_6
+
+DIN933-5_6.HelpText
+DIN 933-5.6 (ISO4017) Hexagon head screw, fully threaded
+DIN 933-5.6 (ISO4017) Hexagon head screw, fully threaded
+
+DIN933-8_8.Label
+DIN933-8_8
+DIN933-8_8
+
+DIN933-8_8.HelpText
+DIN 933-8.8 (ISO4017) Hexagon head screw, fully threaded
+DIN 933-8.8 (ISO4017) Hexagon head screw, fully threaded
+
+DIN933-10_9.Label
+DIN933-10_9
+DIN933-10_9
+
+DIN933-10_9.HelpText
+DIN 933-10.9 (ISO4017) Hexagon head screw, fully threaded
+DIN 933-10.9 (ISO4017) Hexagon head screw, fully threaded
+
+DIN6914-10_9.Label
+DIN6914-10_9
+DIN6914-10_9
+
+DIN6914-10_9.HelpText
+DIN6914-10.9 Hexagon head screw with shank (HV)
+DIN6914-10.9 Hexagon head screw with shank (HV)
+
+DIN7990-4_6.Label
+DIN7990-4_6
+DIN7990-4_6
+
+DIN7990-4_6.HelpText
+DIN 7990-4.6 Hexagon head screw with shank
+DIN 7990-4.6 Hexagon head screw with shank
+
+DIN960-5_6.Label
+DIN960-5_6
+DIN960-5_6
+
+DIN960-5_6.HelpText
+DIN 960-5.6 (ISO8765) Hexagon screw with shank and fine pitch
+DIN 960-5.6 (ISO8765) Hexagon screw with shank and fine pitch
+
+DIN960-8_8.Label
+DIN960-8_8
+DIN960-8_8
+
+DIN960-8_8.HelpText
+DIN 960-8.8 (ISO8765) Hexagon screw with shank and fine pitch
+DIN 960-8.8 (ISO8765) Hexagon screw with shank and fine pitch
+
+DIN960-10_9.Label
+DIN960-10_9
+DIN960-10_9
+
+DIN960-10_9.HelpText
+DIN 960-10.9 (ISO8765) Hexagon screw with shank and fine pitch
+DIN 960-10.9 (ISO8765) Hexagon screw with shank and fine pitch
+
+DIN961-5_6.Label
+DIN961-5_6
+DIN961-5_6
+
+DIN961-5_6.HelpText
+DIN 961-5.6 (ISO8676) Hexagon head screw, fully threaded and fine pitch
+DIN 961-5.6 (ISO8676) Hexagon head screw, fully threaded and fine pitch
+
+DIN961-8_8.Label
+DIN961-8_8
+DIN961-8_8
+
+DIN961-8_8.HelpText
+DIN 961-8.8 (ISO8676) Hexagon head screw, fully threaded and fine pitch
+DIN 961-8.8 (ISO8676) Hexagon head screw, fully threaded and fine pitch
+
+DIN961-10_9.Label
+DIN961-10_9
+DIN961-10_9
+
+DIN961-10_9.HelpText
+DIN 961-10.9 (ISO8676) Hexagon head screw, fully threaded and fine pitch
+DIN 961-10.9 (ISO8676) Hexagon head screw, fully threaded and fine pitch
+
+DIN912-8_8.Label
+DIN912-8_8
+DIN912-8_8
+
+DIN912-8_8.HelpText
+DIN 912-8.8 (ISO4762) Hexagon socket head cap screw
+DIN 912-8.8 (ISO4762) Hexagon socket head cap screw
+
+DIN912-10_9.Label
+DIN912-10_9
+DIN912-10_9
+
+DIN912-10_9.HelpText
+DIN 912-10.9 (ISO4762) Hexagon socket head cap screw
+DIN 912-10.9 (ISO4762) Hexagon socket head cap screw
+
+DIN912-12_9.Label
+DIN912-12_9
+DIN912-12_9
+
+DIN912-12_9.HelpText
+DIN 912-12.9 (ISO4762) Hexagon socket head cap screw
+DIN 912-12.9 (ISO4762) Hexagon socket head cap screw
+
+DIN7991-8_8.Label
+DIN7991-8_8
+DIN7991-8_8
+
+DIN7991-8_8.HelpText
+DIN 7991-8.8 (ISO10642) Hexagon socket countersunk screw
+DIN 7991-8.8 (ISO10642) Hexagon socket countersunk screw
+
+DIN7991-10_9.Label
+DIN7991-10_9
+DIN7991-10_9
+
+DIN7991-10_9.HelpText
+DIN 7991-10.9 (ISO10642) Hexagon socket countersunk screw
+DIN 7991-10.9 (ISO10642) Hexagon socket countersunk screw
+
+DIN7991-12_9.Label
+DIN7991-12_9
+DIN7991-12_9
+
+DIN7991-12_9.HelpText
+DIN 7991-12.9 (ISO10642) Hexagon socket countersunk screw
+DIN 7991-12.9 (ISO10642) Hexagon socket countersunk screw
+
+DIN84-4_8.Label
+DIN84-4_8
+DIN84-4_8
+
+DIN84-4_8.HelpText
+DIN 84-4.8 (ISO1207) Slotted cheese head screw
+DIN 84-4.8 (ISO1207) Slotted cheese head screw
+
+DIN 84-5_8.Label
+DIN 84-5_8
+DIN 84-5_8
+
+DIN 84-5_8.HelpText
+DIN 84-5.8 (ISO1207) Slotted cheese head screw
+DIN 84-5.8 (ISO1207) Slotted cheese head screw
+
+DIN85-4_8.Label
+DIN85-4_8
+DIN85-4_8
+
+DIN85-4_8.HelpText
+DIN 85-4.8 (ISO1580) Slotted pan head screw
+DIN 85-4.8 (ISO1580) Slotted pan head screw
+
+DIN963-4_8.Label
+DIN963-4_8
+DIN963-4_8
+
+DIN963-4_8.HelpText
+DIN 963-4.8 (ISO2009) Slotted countersunk flat head screw
+DIN 963-4.8 (ISO2009) Slotted countersunk flat head screw
+
+DIN963-5_8.Label
+DIN963-5_8
+DIN963-5_8
+
+DIN963-5_8.HelpText
+DIN 963-5.8 (ISO2009) Slotted countersunk flat head screw
+DIN 963-5.8 (ISO2009) Slotted countersunk flat head screw
+
+DINENISO7090.Label
+DINENISO7090
+DINENISO7090
+
+DINENISO7090.HelpText
+Plain washers, chamfered - Normal series (DIN125)\nProduct grade A
+Plain washers, chamfered - Normal series (DIN125)\nProduct grade A
+
+DINENISO7092.Label
+DINENISO7092
+DINENISO7092
+
+DINENISO7092.HelpText
+Plain washers - Small series (DIN433)\nProduct grade A
+Plain washers - Small series (DIN433)\nProduct grade A
+
+DINENISO7091.Label
+DINENISO7091
+DINENISO7091
+
+DINENISO7091.HelpText
+Plain washers - Normal series\nProduct grade C
+Plain washers - Normal series\nProduct grade C
+
+ISO7093-1.Label
+ISO7093-1
+ISO7093-1
+
+ISO7093-1.HelpText
+ISO7093-1 Plain washers - Large series - Part 1\nProduct grade A
+ISO7093-1 Plain washers - Large series - Part 1\nProduct grade A
+
+DIN7989-A.Label
+DIN7989-A
+DIN7989-A
+
+DIN7989-A.HelpText
+Washer for steel constructions
+Washer for steel constructions
+
+DIN434.Label
+DIN434
+DIN434
+
+DIN434.HelpText
+Square taper washers for U-Sections
+Square taper washers for U-Sections
+
+DIN435.Label
+DIN435
+DIN435
+
+DIN435.HelpText
+Square taper washers for I-Sections
+Square taper washers for I-Sections
+
+DIN433-1.Label
+DIN433-1
+DIN433-1
+
+DIN433-1.HelpText
+DIN433-1 (ISO7092) washer designed for use with cylindrical screws
+DIN433-1 (ISO7092) washer designed for use with cylindrical screws
+
+DIN433-2.Label
+DIN433-2
+DIN433-2
+
+DIN433-2.HelpText
+DIN433-2 (ISO7092) washer designed for use with cylindrical screws
+DIN433-2 (ISO7092) washer designed for use with cylindrical screws
+
+DIN125-1A.Label
+DIN125-1A
+DIN125-1A
+
+DIN125-1A.HelpText
+DIN125-1-A (ISO7090) washer, designed for use with hexagon head bolts and nuts
+DIN125-1-A (ISO7090) washer, designed for use with hexagon head bolts and nuts
+
+DIN125-1B.Label
+DIN125-1B
+DIN125-1B
+
+DIN125-1B.HelpText
+DIN125-1-B (ISO7090) washer, designed for use with hexagon head bolts and nuts
+DIN125-1-B (ISO7090) washer, designed for use with hexagon head bolts and nuts
+
+DIN125-2A.Label
+DIN125-2A
+DIN125-2A
+
+DIN125-2A.HelpText
+DIN125-2-A (ISO7090) washer, designed for use with hexagon head bolts and nuts
+DIN125-2-A (ISO7090) washer, designed for use with hexagon head bolts and nuts
+
+DIN125-2B.Label
+DIN125-2B
+DIN125-2B
+
+DIN125-2B.HelpText
+DIN125-2-B (ISO7090) washer, designed for use with hexagon head bolts and nuts
+DIN125-2-B (ISO7090) washer, designed for use with hexagon head bolts and nuts
+
+DIN7980.Label
+DIN7980
+DIN7980
+
+DIN7980.HelpText
+DIN7980 Spring lock washer designed for use with cylindrical screws
+DIN7980 Spring lock washer designed for use with cylindrical screws
+
+DIN127-A.Label
+DIN127-A
+DIN127-A
+
+DIN127-A.HelpText
+DIN127-A Spring lock washer
+DIN127-A Spring lock washer
+
+DIN127-B.Label
+DIN127-B
+DIN127-B
+
+DIN127-B.HelpText
+DIN127-B Spring lock washer
+DIN127-B Spring lock washer
+
+DIN128-A.Label
+DIN128-A
+DIN128-A
+
+DIN128-A.HelpText
+DIN128-A Curved spring lock washer
+DIN128-A Curved spring lock washer
+
+nl.Label
+nl
+nl
+
+nl.HelpText
+Steel washers with zinc flake coating\nDelta Protekt® (zinc-flake coating)
+Steel washers with zinc flake coating\nDelta Protekt® (zinc-flake coating)
+
+nl_ss.Label
+nl_ss
+nl_ss
+
+nl_ss.HelpText
+Stainless steel (EN 1.4404 / AISI 316L) washers
+Stainless steel (EN 1.4404 / AISI 316L) washers
+
+nl_ss-254.Label
+nl_ss-254
+nl_ss-254
+
+nl_ss-254.HelpText
+254 SMO® washers
+254 SMO® washers
+
+DIN6916.Label
+DIN6916
+DIN6916
+
+DIN6916.HelpText
+Flat washers, for high-strength structural bolting
+Flat washers, for high-strength structural bolting
+
+DIN6917.Label
+DIN6917
+DIN6917
+
+DIN6917.HelpText
+Square tapered washer, for high-strength structural bolting for I-Sections
+Square tapered washer, for high-strength structural bolting for I-Sections
+
+DIN6918.Label
+DIN6918
+DIN6918
+
+DIN6918.HelpText
+Square tapered washer, for high-strength structural bolting for U-Sections
+Square tapered washer, for high-strength structural bolting for U-Sections
+
+ISO4032-6.Label
+ISO4032-6
+ISO4032-6
+
+ISO4032-6.HelpText
+ISO 4032-6 (DIN934) Hexagon nut, type 1
+ISO 4032-6 (DIN934) Hexagon nut, type 1
+
+ISO4032-8.Label
+ISO4032-8
+ISO4032-8
+
+ISO4032-8.HelpText
+ISO 4032-8 (DIN934) Hexagon nut, type 1
+ISO 4032-8 (DIN934) Hexagon nut, type 1
+
+ISO4032-10.Label
+ISO4032-10
+ISO4032-10
+
+ISO4032-10.HelpText
+ISO 4032-10 (DIN934) Hexagon nut, type 1
+ISO 4032-10 (DIN934) Hexagon nut, type 1
+
+ISO4033-9.Label
+ISO4033-9
+ISO4033-9
+
+ISO4033-9.HelpText
+ISO 4033-9 Hexagon nut, type 2
+ISO 4033-9 Hexagon nut, type 2
+
+ISO4033-10.Label
+ISO4033-10
+ISO4033-10
+
+ISO4033-10.HelpText
+ISO 4033-10 Hexagon nut, type 2
+ISO 4033-10 Hexagon nut, type 2
+
+ISO4033-12.Label
+ISO4033-12
+ISO4033-12
+
+ISO4033-12.HelpText
+ISO 4033-12 Hexagon nut, type 2
+ISO 4033-12 Hexagon nut, type 2
+
+ISO4035-14H.Label
+ISO4035-14H
+ISO4035-14H
+
+ISO4035-14H.HelpText
+ISO 4035-14H Hexagon thin nut
+ISO 4035-14H Hexagon thin nut
+
+ISO4035-04.Label
+ISO4035-04
+ISO4035-04
+
+ISO4035-04.HelpText
+ISO 4035-04 Hexagon thin nut
+ISO 4035-04 Hexagon thin nut
+
+ISO4035-05.Label
+ISO4035-05
+ISO4035-05
+
+ISO4035-05.HelpText
+ISO 4035-05 Hexagon thin nut
+ISO 4035-05 Hexagon thin nut
+
+ISO7040-5.Label
+ISO7040-5
+ISO7040-5
+
+ISO7040-5.HelpText
+DIN EN ISO 7040-5 (DIN982) Prevailing torque type hexagon nut
+DIN EN ISO 7040-5 (DIN982) Prevailing torque type hexagon nut
+
+ISO7040-8.Label
+ISO7040-8
+ISO7040-8
+
+ISO7040-8.HelpText
+DIN EN ISO 7040-8 (DIN982) Prevailing torque type hexagon nut
+DIN EN ISO 7040-8 (DIN982) Prevailing torque type hexagon nut
+
+ISO7040-10.Label
+ISO7040-10
+ISO7040-10
+
+ISO7040-10.HelpText
+DIN EN ISO 7040-10 (DIN982) Prevailing torque type hexagon nut
+DIN EN ISO 7040-10 (DIN982) Prevailing torque type hexagon nut
+
+ISO10511-5.Label
+ISO10511-5
+ISO10511-5
+
+ISO10511-5.HelpText
+DIN EN ISO 10511 - 5 (DIN985) Prevailing torque type hexagon\nthin nuts  (with non-metallic insert)
+DIN EN ISO 10511 - 5 (DIN985) Prevailing torque type hexagon\nthin nuts  (with non-metallic insert)
+
+ISO10511-8.Label
+ISO10511-8
+ISO10511-8
+
+ISO10511-8.HelpText
+DIN EN ISO 10511 - 8 (DIN985) Prevailing torque type hexagon\nthin nuts  (with non-metallic insert)
+DIN EN ISO 10511 - 8 (DIN985) Prevailing torque type hexagon\nthin nuts  (with non-metallic insert)
+
+ISO10511-10.Label
+ISO10511-10
+ISO10511-10
+
+ISO10511-10.HelpText
+DIN EN ISO 10511 - 10 (DIN985) Prevailing torque type hexagon\nthin nuts  (with non-metallic insert)
+DIN EN ISO 10511 - 10 (DIN985) Prevailing torque type hexagon\nthin nuts  (with non-metallic insert)
+
+DINEN1661-8.Label
+DINEN1661-8
+DINEN1661-8
+
+DINEN1661-8.HelpText
+DINEN1661-8 (DIN6923) Hexagon nut with flange
+DINEN1661-8 (DIN6923) Hexagon nut with flange
+
+DINEN1661-10.Label
+DINEN1661-10
+DINEN1661-10
+
+DINEN1661-10.HelpText
+DINEN1661-10 (DIN6923) Hexagon nut with flange
+DINEN1661-10 (DIN6923) Hexagon nut with flange
+
+DINEN1661-12.Label
+DINEN1661-12
+DINEN1661-12
+
+DINEN1661-12.HelpText
+DINEN1661-12 (DIN6923) Hexagon nut with flange
+DINEN1661-12 (DIN6923) Hexagon nut with flange
+
+DIN1587-6.Label
+DIN1587-6
+DIN1587-6
+
+DIN1587-6.HelpText
+DIN 1587-6 Hexagon domed cap nut, high type
+DIN 1587-6 Hexagon domed cap nut, high type
+
+DIN6915-10.Label
+DIN6915-10
+DIN6915-10
+
+DIN6915-10.HelpText
+DIN 6915-10 Hexagon nut with large widths
+DIN 6915-10 Hexagon nut with large widths
+
+DIN934-6.Label
+DIN934-6
+DIN934-6
+
+DIN934-6.HelpText
+DIN934-6 (ISO4032) Hexagon nut, type 1
+DIN934-6 (ISO4032) Hexagon nut, type 1
+
+DIN934-8.Label
+DIN934-8
+DIN934-8
+
+DIN934-8.HelpText
+DIN934-8 (ISO4032) Hexagon nut, type 1
+DIN934-8 (ISO4032) Hexagon nut, type 1
+
+DIN934-10.Label
+DIN934-10
+DIN934-10
+
+DIN934-10.HelpText
+DIN934-10 (ISO4032) Hexagon nut, type 1
+DIN934-10 (ISO4032) Hexagon nut, type 1
+
+DIN555.Label
+DIN555
+DIN555
+
+DIN555.HelpText
+DIN 555 Hexagon nut
+DIN 555 Hexagon nut
+
+DIN439-14H.Label
+DIN439-14H
+DIN439-14H
+
+DIN439-14H.HelpText
+DIN439-14H Hexagon thin nut
+DIN439-14H Hexagon thin nut
+
+DIN439-04.Label
+DIN439-04
+DIN439-04
+
+DIN439-04.HelpText
+DIN439-04 Hexagon thin nut
+DIN439-04 Hexagon thin nut
+
+DIN439-05.Label
+DIN439-05
+DIN439-05
+
+DIN439-05.HelpText
+DIN439-05 Hexagon thin nut
+DIN439-05 Hexagon thin nut
+
+PEM-AC-1.Label
+PEM-AC-1
+PEM-AC-1
+
+PEM-AC-1.HelpText
+Non-Locking - ShankCode 1\nMin. Sheet Thickness .040 inches\nStainless Steel
+Non-Locking - ShankCode 1\nMin. Sheet Thickness .040 inches\nStainless Steel
+
+PEM-AC-2.Label
+PEM-AC-2
+PEM-AC-2
+
+PEM-AC-2.HelpText
+Non-Locking - ShankCode 2\nMin. Sheet Thickness .056 inches\nStainless Steel
+Non-Locking - ShankCode 2\nMin. Sheet Thickness .056 inches\nStainless Steel
+
+PEM-AS-1.Label
+PEM-AS-1
+PEM-AS-1
+
+PEM-AS-1.HelpText
+Non-Locking - ShankCode 1\nMin. Sheet Thickness .040 inches\nSteel
+Non-Locking - ShankCode 1\nMin. Sheet Thickness .040 inches\nSteel
+
+PEM-AS-2.Label
+PEM-AS-2
+PEM-AS-2
+
+PEM-AS-2.HelpText
+Non-Locking - ShankCode 2\nMin. Sheet Thickness .056 inches\nSteel
+Non-Locking - ShankCode 2\nMin. Sheet Thickness .056 inches\nSteel
+
+PEM-LAC-1.Label
+PEM-LAC-1
+PEM-LAC-1
+
+PEM-LAC-1.HelpText
+Self-Locking - ShankCode 1\nMin. Sheet Thickness .040 inches\nStainless Steel
+Self-Locking - ShankCode 1\nMin. Sheet Thickness .040 inches\nStainless Steel
+
+PEM-LAC-2.Label
+PEM-LAC-2
+PEM-LAC-2
+
+PEM-LAC-2.HelpText
+Self-Locking - ShankCode 2\nMin. Sheet Thickness .056 inches\nStainless Steel
+Self-Locking - ShankCode 2\nMin. Sheet Thickness .056 inches\nStainless Steel
+
+PEM-LAS-1.Label
+PEM-LAS-1
+PEM-LAS-1
+
+PEM-LAS-1.HelpText
+Self-Locking - ShankCode 1\nMin. Sheet Thickness .040 inches\nSteel
+Self-Locking - ShankCode 1\nMin. Sheet Thickness .040 inches\nSteel
+
+PEM-LAS-2.Label
+PEM-LAS-2
+PEM-LAS-2
+
+PEM-LAS-2.HelpText
+Self-Locking - ShankCode 2\nMin. Sheet Thickness .056 inches\nSteel
+Self-Locking - ShankCode 2\nMin. Sheet Thickness .056 inches\nSteel
+
+DIN982-5.Label
+DIN982-5
+DIN982-5
+
+DIN982-5.HelpText
+DIN982-5 (ISO7040) Prevailing torque type hexagon nut
+DIN982-5 (ISO7040) Prevailing torque type hexagon nut
+
+DIN982-8.Label
+DIN982-8
+DIN982-8
+
+DIN982-8.HelpText
+DIN982-8 (ISO7040) Prevailing torque type hexagon nut
+DIN982-8 (ISO7040) Prevailing torque type hexagon nut
+
+DIN982-10.Label
+DIN982-10
+DIN982-10
+
+DIN982-10.HelpText
+DIN982-10 (ISO7040) Prevailing torque type hexagon nut
+DIN982-10 (ISO7040) Prevailing torque type hexagon nut
+
+DIN6923-8.Label
+DIN6923-8
+DIN6923-8
+
+DIN6923-8.HelpText
+DIN6923-8 (DINEN1661) Hexagon nut with flange
+DIN6923-8 (DINEN1661) Hexagon nut with flange
+
+DIN6923-10.Label
+DIN6923-10
+DIN6923-10
+
+DIN6923-10.HelpText
+DIN6923-10 (DINEN1661) Hexagon nut with flange
+DIN6923-10 (DINEN1661) Hexagon nut with flange
+
+DIN6923-12.Label
+DIN6923-12
+DIN6923-12
+
+DIN6923-12.HelpText
+DIN6923-12 (DINEN1661) Hexagon nut with flange
+DIN6923-12 (DINEN1661) Hexagon nut with flange
+
+DIN982f-6.Label
+DIN982f-6
+DIN982f-6
+
+DIN982f-6.HelpText
+DIN982-6 (ISO 10512) Prevailing torque type hexagon nut with fine pitch thread
+DIN982-6 (ISO 10512) Prevailing torque type hexagon nut with fine pitch thread
+
+DIN982f-8.Label
+DIN982f-8
+DIN982f-8
+
+DIN982f-8.HelpText
+DIN982-8 (ISO 10512) Prevailing torque type hexagon nut with fine pitch thread
+DIN982-8 (ISO 10512) Prevailing torque type hexagon nut with fine pitch thread
+
+DIN982f-10.Label
+DIN982f-10
+DIN982f-10
+
+DIN982f-10.HelpText
+DIN982-10 (ISO 10512) Prevailing torque type hexagon nut with fine pitch thread
+DIN982-10 (ISO 10512) Prevailing torque type hexagon nut with fine pitch thread
+
+ISO8673-6.Label
+ISO8673-6
+ISO8673-6
+
+ISO8673-6.HelpText
+ISO8673-6 (DIN934) Hexagon Nut with fine pitch thread, Type 1
+ISO8673-6 (DIN934) Hexagon Nut with fine pitch thread, Type 1
+
+ISO8673-8.Label
+ISO8673-8
+ISO8673-8
+
+ISO8673-8.HelpText
+ISO8673-8 (DIN934) Hexagon Nut with fine pitch thread, Type 1
+ISO8673-8 (DIN934) Hexagon Nut with fine pitch thread, Type 1
+
+ISO8673-10.Label
+ISO8673-10
+ISO8673-10
+
+ISO8673-10.HelpText
+ISO8673-10 (DIN934) Hexagon Nut with fine pitch thread, Type 1
+ISO8673-10 (DIN934) Hexagon Nut with fine pitch thread, Type 1
+
+ISO8674-8.Label
+ISO8674-8
+ISO8674-8
+
+ISO8674-8.HelpText
+ISO8674-8 (DIN971) Hexagon Nut with fine pitch thread, Type 2
+ISO8674-8 (DIN971) Hexagon Nut with fine pitch thread, Type 2
+
+ISO8674-10.Label
+ISO8674-10
+ISO8674-10
+
+ISO8674-10.HelpText
+ISO8674-10 (DIN971) Hexagon Nut with fine pitch thread, Type 2
+ISO8674-10 (DIN971) Hexagon Nut with fine pitch thread, Type 2
+
+ISO8674-12.Label
+ISO8674-12
+ISO8674-12
+
+ISO8674-12.HelpText
+ISO8674-12 (DIN971) Hexagon Nut with fine pitch thread, Type 2
+ISO8674-12 (DIN971) Hexagon Nut with fine pitch thread, Type 2
+
+ISO8675-04.Label
+ISO8675-04
+ISO8675-04
+
+ISO8675-04.HelpText
+ISO8675-04 (DIN439) Hexagon thin nut with fine pitch thread
+ISO8675-04 (DIN439) Hexagon thin nut with fine pitch thread
+
+ISO8675-05.Label
+ISO8675-05
+ISO8675-05
+
+ISO8675-05.HelpText
+ISO8675-05 (DIN439) Hexagon thin nut with fine pitch thread
+ISO8675-05 (DIN439) Hexagon thin nut with fine pitch thread
+
+ISO10512-6.Label
+ISO10512-6
+ISO10512-6
+
+ISO10512-6.HelpText
+DIN EN ISO 10512-6 (DIN982) Prevailing torque type hexagon nut with fine pitch thread
+DIN EN ISO 10512-6 (DIN982) Prevailing torque type hexagon nut with fine pitch thread
+
+ISO10512-8.Label
+ISO10512-8
+ISO10512-8
+
+ISO10512-8.HelpText
+DIN EN ISO 10512-8 (DIN982) Prevailing torque type hexagon nut with fine pitch thread
+DIN EN ISO 10512-8 (DIN982) Prevailing torque type hexagon nut with fine pitch thread
+
+ISO10512-10.Label
+ISO10512-10
+ISO10512-10
+
+ISO10512-10.HelpText
+DIN EN ISO 10512-10 (DIN982) Prevailing torque type hexagon nut with fine pitch thread
+DIN EN ISO 10512-10 (DIN982) Prevailing torque type hexagon nut with fine pitch thread
+
+DIN1587x1-6.Label
+DIN1587x1-6
+DIN1587x1-6
+
+DIN1587x1-6.HelpText
+DIN 1587-6 Hexagon domed cap nut, high type with fine pitch thread
+DIN 1587-6 Hexagon domed cap nut, high type with fine pitch thread
+
+DIN934f-6.Label
+DIN934f-6
+DIN934f-6
+
+DIN934f-6.HelpText
+DIN934-6 (ISO8673) Hexagon nut, fine pitch, type 1
+DIN934-6 (ISO8673) Hexagon nut, fine pitch, type 1
+
+DIN934f-8.Label
+DIN934f-8
+DIN934f-8
+
+DIN934f-8.HelpText
+DIN934-8 (ISO8673) Hexagon nut, fine pitch, type 1
+DIN934-8 (ISO8673) Hexagon nut, fine pitch, type 1
+
+DIN934f-10.Label
+DIN934f-10
+DIN934f-10
+
+DIN934f-10.HelpText
+DIN934-10 (ISO8673) Hexagon nut, fine pitch, type 1
+DIN934-10 (ISO8673) Hexagon nut, fine pitch, type 1
+
+DIN971-8.Label
+DIN971-8
+DIN971-8
+
+DIN971-8.HelpText
+DIN971-8 (ISO8674) Hexagon Nut with fine pitch thread, Type 2
+DIN971-8 (ISO8674) Hexagon Nut with fine pitch thread, Type 2
+
+DIN971-10.Label
+DIN971-10
+DIN971-10
+
+DIN971-10.HelpText
+DIN971-10 (ISO8674) Hexagon Nut with fine pitch thread, Type 2
+DIN971-10 (ISO8674) Hexagon Nut with fine pitch thread, Type 2
+
+DIN971-12.Label
+DIN971-12
+DIN971-12
+
+DIN971-12.HelpText
+DIN971-12 (ISO8674) Hexagon Nut with fine pitch thread, Type 2
+DIN971-12 (ISO8674) Hexagon Nut with fine pitch thread, Type 2
+
+DIN439f-04.Label
+DIN439f-04
+DIN439f-04
+
+DIN439f-04.HelpText
+DIN439-04 (ISO8675) Hexagon thin nut with fine pitch thread
+DIN439-04 (ISO8675) Hexagon thin nut with fine pitch thread
+
+DIN439f-05.Label
+DIN439f-05
+DIN439f-05
+
+DIN439f-05.HelpText
+DIN439-05 (ISO8675) Hexagon thin nut with fine pitch thread
+DIN439-05 (ISO8675) Hexagon thin nut with fine pitch thread
+
+ISO2338-m6-St.Label
+ISO2338-m6-St
+ISO2338-m6-St
+
+ISO2338-m6-St.HelpText
+ISO 2338 m6-St Dowel Pin, unhardened
+ISO 2338 m6-St Dowel Pin, unhardened
+
+ISO2338-h8-St.Label
+ISO2338-h8-St
+ISO2338-h8-St
+
+ISO2338-h8-St.HelpText
+ISO 2338 h8-St Dowel Pin, unhardened
+ISO 2338 h8-St Dowel Pin, unhardened
+
+ISO8734-C1.Label
+ISO8734-C1
+ISO8734-C1
+
+ISO8734-C1.HelpText
+ISO 8734-C1 Dowel Pin, hardened
+ISO 8734-C1 Dowel Pin, hardened
+
+ISO8735.Label
+ISO8735
+ISO8735
+
+ISO8735.HelpText
+ISO8735 (DIN7979) Hardened Dowel Pin with internal thread
+ISO8735 (DIN7979) Hardened Dowel Pin with internal thread
+
+DINEN28740.Label
+DINEN28740
+DINEN28740
+
+DINEN28740.HelpText
+DIN EN 28740 Full-length parallel grooved pins, with chamfer
+DIN EN 28740 Full-length parallel grooved pins, with chamfer
+
+en14399_4-10_9-hv.Label
+en14399_4-10_9-hv
+en14399_4-10_9-hv
+
+en14399_4-10_9-hv.HelpText
+EN 14399-4 - 10.9 - HV, Hexagon bolts\nDIN 6914
+EN 14399-4 - 10.9 - HV, Hexagon bolts\nDIN 6914
+
+en14399_8-10_9-hv.Label
+en14399_8-10_9-hv
+en14399_8-10_9-hv
+
+en14399_8-10_9-hv.HelpText
+EN 14399-8 - 10.9 - HV, Hexagon fit bolts\nDIN 7999
+EN 14399-8 - 10.9 - HV, Hexagon fit bolts\nDIN 7999
+
+en14399_6.Label
+en14399_6
+en14399_6
+
+en14399_6.HelpText
+High-strength structural bolting assemblies for preloading\nPlain chamfered washers
+High-strength structural bolting assemblies for preloading\nPlain chamfered washers
+
+en14399_5.Label
+en14399_5
+en14399_5
+
+en14399_5.HelpText
+High-strength structural bolting assemblies for preloading\nPlain washers
+High-strength structural bolting assemblies for preloading\nPlain washers
+
+en14399_4-10-hv.Label
+en14399_4-10-hv
+en14399_4-10-hv
+
+en14399_4-10-hv.HelpText
+EN 14399-4 - 10 - HV, Hexagon nuts
+EN 14399-4 - 10 - HV, Hexagon nuts
+
+HexBolt.Label
+HexBolt
+HexBolt
+
+HexBolt.HelpText
+Hexagon Bolt\nANSI/ASME - B18.2.1-1996
+Hexagon Bolt\nANSI/ASME - B18.2.1-1996
+
+HeavyHexBolt.Label
+HeavyHexBolt
+HeavyHexBolt
+
+HeavyHexBolt.HelpText
+Heavy Hexagon Bolt\nANSI/ASME - B18.2.1-1996
+Heavy Hexagon Bolt\nANSI/ASME - B18.2.1-1996
+
+HexSocketScrew.Label
+HexSocketScrew
+HexSocketScrew
+
+HexSocketScrew.HelpText
+Hexagon Socket Head Cap Screw\nANSI/ASME
+Hexagon Socket Head Cap Screw\nANSI/ASME
+
+CSunkSockScrew.Label
+CSunkSockScrew
+CSunkSockScrew
+
+CSunkSockScrew.HelpText
+Countersunk Socket Cap Screw\nANSI/ASME
+Countersunk Socket Cap Screw\nANSI/ASME
+
+HexCapScrew.Label
+HexCapScrew
+HexCapScrew
+
+HexCapScrew.HelpText
+Hex Cap Screw\nANSI/ASME - B18.2.1-1996
+Hex Cap Screw\nANSI/ASME - B18.2.1-1996
+
+HeavyHexScrew.Label
+HeavyHexScrew
+HeavyHexScrew
+
+HeavyHexScrew.HelpText
+Heavy Hex Screw\nANSI/ASME - B18.2.1-1996
+Heavy Hex Screw\nANSI/ASME - B18.2.1-1996
+
+Washer_A.Label
+Washer_A
+Washer_A
+
+Washer_A.HelpText
+Type A Plain Washers
+Type A Plain Washers
+
+Washer_A_Narrow.Label
+Washer_A_Narrow
+Washer_A_Narrow
+
+Washer_A_Narrow.HelpText
+Type A Plain Washers - NARROW
+Type A Plain Washers - NARROW
+
+Washer_A_Wide.Label
+Washer_A_Wide
+Washer_A_Wide
+
+Washer_A_Wide.HelpText
+Type A Plain Washers - WIDE
+Type A Plain Washers - WIDE
+
+Springwasher_Regular.Label
+Springwasher_Regular
+Springwasher_Regular
+
+Springwasher_Regular.HelpText
+Helical Spring Lock Washers - REGULAR
+Helical Spring Lock Washers - REGULAR
+
+Springwasher_Heavy.Label
+Springwasher_Heavy
+Springwasher_Heavy
+
+Springwasher_Heavy.HelpText
+Helical Spring Lock Washers - HEAVY
+Helical Spring Lock Washers - HEAVY
+
+nl_in.Label
+nl_in
+nl_in
+
+nl_in.HelpText
+Steel washers with zinc flake coating\nDelta Protekt® (zinc-flake coating)
+Steel washers with zinc flake coating\nDelta Protekt® (zinc-flake coating)
+
+nl_ss_in.Label
+nl_ss_in
+nl_ss_in
+
+nl_ss_in.HelpText
+Stainless steel (EN 1.4404 / AISI 316L) washers
+Stainless steel (EN 1.4404 / AISI 316L) washers
+
+nl_ss-254_in.Label
+nl_ss-254_in
+nl_ss-254_in
+
+nl_ss-254_in.HelpText
+254 SMO® washers
+254 SMO® washers
+
+HexNut.Label
+HexNut
+HexNut
+
+HexNut.HelpText
+Hex Nut\nANSI/ASME B18.2.2-1987 (R1999)
+Hex Nut\nANSI/ASME B18.2.2-1987 (R1999)
+
+HeavyHexNut.Label
+HeavyHexNut
+HeavyHexNut
+
+HeavyHexNut.HelpText
+Heavy Hex Nut\nANSI/ASME B18.2.2-1987 (R1999)
+Heavy Hex Nut\nANSI/ASME B18.2.2-1987 (R1999)
+
+HexJamNut.Label
+HexJamNut
+HexJamNut
+
+HexJamNut.HelpText
+Hex Jam Nut\nANSI/ASME B18.2.2-1987 (R1999)
+Hex Jam Nut\nANSI/ASME B18.2.2-1987 (R1999)
+
+HeavyHexJamNut.Label
+HeavyHexJamNut
+HeavyHexJamNut
+
+HeavyHexJamNut.HelpText
+Heavy Hex Jam Nut\nANSI/ASME B18.2.2-1987 (R1999)
+Heavy Hex Jam Nut\nANSI/ASME B18.2.2-1987 (R1999)
+
+Hardened_Ground_Machine_Std.Label
+Hardened_Ground_Machine_Std
+Hardened_Ground_Machine_Std
+
+Hardened_Ground_Machine_Std.HelpText
+Hardened Ground Machine Dowel Pin (Standard Series) ANSI/ASME B18.8.2-1995
+Hardened Ground Machine Dowel Pin (Standard Series) ANSI/ASME B18.8.2-1995
+
+Hardened_Ground_Machine_OS.Label
+Hardened_Ground_Machine_OS
+Hardened_Ground_Machine_OS
+
+Hardened_Ground_Machine_OS.HelpText
+Hardened Ground Machine Dowel Pin (Oversize Series) ANSI/ASME B18.8.2-1995
+Hardened Ground Machine Dowel Pin (Oversize Series) ANSI/ASME B18.8.2-1995
+
+Hardened_Ground_Production.Label
+Hardened_Ground_Production
+Hardened_Ground_Production
+
+Hardened_Ground_Production.HelpText
+Hardened Ground Production Dowel Pin ANSI/ASME B18.8.2-1995
+Hardened Ground Production Dowel Pin ANSI/ASME B18.8.2-1995
+
+Unhardened_Ground.Label
+Unhardened_Ground
+Unhardened_Ground
+
+Unhardened_Ground.HelpText
+Unhardened Ground Dowel Pin ANSI/ASME B18.8.2-1995
+Unhardened Ground Dowel Pin ANSI/ASME B18.8.2-1995
+
+Chamfered_Straight.Label
+Chamfered_Straight
+Chamfered_Straight
+
+Chamfered_Straight.HelpText
+Chamfered Straight Pin ANSI/ASME B18.8.2-1995
+Chamfered Straight Pin ANSI/ASME B18.8.2-1995
+
+Square_End_Straight.Label
+Square_End_Straight
+Square_End_Straight
+
+Square_End_Straight.HelpText
+Square End Straight Pin ANSI/ASME B18.8.2-1995
+Square End Straight Pin ANSI/ASME B18.8.2-1995
+
+hhsb-a325-1.Label
+hhsb-a325-1
+hhsb-a325-1
+
+hhsb-a325-1.HelpText
+Heavy Hex Structural Bolt A325, Type 1\nASME - B18.2.6-2003
+Heavy Hex Structural Bolt A325, Type 1\nASME - B18.2.6-2003
+
+hhsb-a490-1.Label
+hhsb-a490-1
+hhsb-a490-1
+
+hhsb-a490-1.HelpText
+Heavy Hex Structural Bolt A490, Type 1\nASME - B18.2.6-2003
+Heavy Hex Structural Bolt A490, Type 1\nASME - B18.2.6-2003
+
+hscw-f436.Label
+hscw-f436
+hscw-f436
+
+hscw-f436.HelpText
+Hardened Steel Circular Washer - F436\nASME - B18.2.6-2003
+Hardened Steel Circular Washer - F436\nASME - B18.2.6-2003
+
+sbw-f436.Label
+sbw-f436
+sbw-f436
+
+sbw-f436.HelpText
+Hardened Square Beveled Washer - F436\nASME - B18.2.6-2003
+Hardened Square Beveled Washer - F436\nASME - B18.2.6-2003
+
+hhn-a563-c.Label
+hhn-a563-c
+hhn-a563-c
+
+hhn-a563-c.HelpText
+Heavy Hex Nut A563, Grade C\nASME B18.2.6-2003\nFor use with Structural Bolt A325
+Heavy Hex Nut A563, Grade C\nASME B18.2.6-2003\nFor use with Structural Bolt A325
+
+hhn-a563-dh.Label
+hhn-a563-dh
+hhn-a563-dh
+
+hhn-a563-dh.HelpText
+Heavy Hex Nut A563, Grade DH\nASME B18.2.6-2003\nFor use with Structural Bolt A490
+Heavy Hex Nut A563, Grade DH\nASME B18.2.6-2003\nFor use with Structural Bolt A490
+
+GROUP#ANSI B18-1981.Label
+GROUP#ANSI B18-1981
+GROUP#ANSI B18-1981
+
+GROUP#ANSI B18-1981.HelpText
+Square and Hex Bolts and Screws (Inch series)
+Square and Hex Bolts and Screws (Inch series)
+
+rhb.Label
+rhb
+rhb
+
+rhb.HelpText
+Hex Bolt\nANSI B18.2.1-1981
+Hex Bolt\nANSI B18.2.1-1981
+
+hhb.Label
+hhb
+hhb
+
+hhb.HelpText
+Heavy Hex Bolt\nANSI B18.2.1-1981
+Heavy Hex Bolt\nANSI B18.2.1-1981
+
+hhs.Label
+hhs
+hhs
+
+hhs.HelpText
+Heavy Hex Screw\nANSI B18.2.1-1981
+Heavy Hex Screw\nANSI B18.2.1-1981
+
+hcs.Label
+hcs
+hcs
+
+hcs.HelpText
+Hex Cap Screw (Finished Hex Bolt)\nANSI B18.2.1-1981
+Hex Cap Screw (Finished Hex Bolt)\nANSI B18.2.1-1981
+
+shb.Label
+shb
+shb
+
+shb.HelpText
+Heavy Hex Structural Bolt\nANSI B18.2.1-1981
+Heavy Hex Structural Bolt\nANSI B18.2.1-1981
+
+sqb.Label
+sqb
+sqb
+
+sqb.HelpText
+Square Bolt\nANSI B18.2.1-1981
+Square Bolt\nANSI B18.2.1-1981
+
+GROUP#ANSI B18978.Label
+GROUP#ANSI B18978
+GROUP#ANSI B18978
+
+GROUP#ANSI B18978.HelpText
+ANSI B18.5-1978
+ANSI B18.5-1978
+
+GROUP#ANSI B18-1972.Label
+GROUP#ANSI B18-1972
+GROUP#ANSI B18-1972
+
+GROUP#ANSI B18-1972.HelpText
+Machine Screws and Machine Screw Nuts
+Machine Screws and Machine Screw Nuts
+
+msaa.Label
+msaa
+msaa
+
+msaa.HelpText
+Slotted 100 Degree Flat Countersunk Head Machine Screw\nANSI B18.6.3-1972
+Slotted 100 Degree Flat Countersunk Head Machine Screw\nANSI B18.6.3-1972
+
+msax.Label
+msax
+msax
+
+msax.HelpText
+Type I Cross Recessed 100 Degree Flat Countersunk Head Machine Screw\nANSI B18.6.3-1972
+Type I Cross Recessed 100 Degree Flat Countersunk Head Machine Screw\nANSI B18.6.3-1972
+
+msbb.Label
+msbb
+msbb
+
+msbb.HelpText
+Slotted Flat Countersunk Head Screw\nANSI B18.6.3-1972
+Slotted Flat Countersunk Head Screw\nANSI B18.6.3-1972
+
+msbx.Label
+msbx
+msbx
+
+msbx.HelpText
+Type I Cross Recessed Flat Countersunk Head Machine Screw\nANSI B18.6.3-1972
+Type I Cross Recessed Flat Countersunk Head Machine Screw\nANSI B18.6.3-1972
+
+msdd.Label
+msdd
+msdd
+
+msdd.HelpText
+Slotted Undercut Flat Countersunk Head Machine Screw\nANSI B18.6.3-1972
+Slotted Undercut Flat Countersunk Head Machine Screw\nANSI B18.6.3-1972
+
+msdx.Label
+msdx
+msdx
+
+msdx.HelpText
+Type I Cross Recessed Undercut Flat Countersunk Head Machine Screw\nANSI B18.6.3-1972
+Type I Cross Recessed Undercut Flat Countersunk Head Machine Screw\nANSI B18.6.3-1972
+
+msee.Label
+msee
+msee
+
+msee.HelpText
+Plain Hex Washer Head Machine Screw\nANSI B18.6.3-1972
+Plain Hex Washer Head Machine Screw\nANSI B18.6.3-1972
+
+msff.Label
+msff
+msff
+
+msff.HelpText
+Slotted Truss Head Machine Screw\nANSI B18.6.3-1972
+Slotted Truss Head Machine Screw\nANSI B18.6.3-1972
+
+msfx.Label
+msfx
+msfx
+
+msfx.HelpText
+Type I Recessed Truss Head Machine Screw\nANSI B18.6.3-1972
+Type I Recessed Truss Head Machine Screw\nANSI B18.6.3-1972
+
+msgg.Label
+msgg
+msgg
+
+msgg.HelpText
+Plain Regular Hex Head Machine Screw\nANSI B18.6.3-1972
+Plain Regular Hex Head Machine Screw\nANSI B18.6.3-1972
+
+mshh.Label
+mshh
+mshh
+
+mshh.HelpText
+Slotted Pan Head Machine Screw\nANSI B18.6.3-1972
+Slotted Pan Head Machine Screw\nANSI B18.6.3-1972
+
+mshx.Label
+mshx
+mshx
+
+mshx.HelpText
+Type I Cross Recessed Pan Head Machine Screw\nANSI B18.6.3-1972
+Type I Cross Recessed Pan Head Machine Screw\nANSI B18.6.3-1972
+
+msii.Label
+msii
+msii
+
+msii.HelpText
+Slotted Fillister Head Machine Screw\nANSI B18.6.3-1972
+Slotted Fillister Head Machine Screw\nANSI B18.6.3-1972
+
+msix.Label
+msix
+msix
+
+msix.HelpText
+Type I Cross Recessed Fillister Head Machine Screw\nANSI B18.6.3-1972
+Type I Cross Recessed Fillister Head Machine Screw\nANSI B18.6.3-1972
+
+msjj.Label
+msjj
+msjj
+
+msjj.HelpText
+Slotted Drilled Fillister Head Machine Screw\nANSI B18.6.3-1972
+Slotted Drilled Fillister Head Machine Screw\nANSI B18.6.3-1972
+
+mskk.Label
+mskk
+mskk
+
+mskk.HelpText
+Slotted Oval Countersunk Head Machine Screw\nANSI B18.6.3-1972
+Slotted Oval Countersunk Head Machine Screw\nANSI B18.6.3-1972
+
+mskx.Label
+mskx
+mskx
+
+mskx.HelpText
+Type I Recessed Oval Countersunk Head Machine Screw\nANSI B18.6.3-1972
+Type I Recessed Oval Countersunk Head Machine Screw\nANSI B18.6.3-1972
+
+msll.Label
+msll
+msll
+
+msll.HelpText
+Slotted Binding Head Machine Screw\nANSI B18.6.3-1972
+Slotted Binding Head Machine Screw\nANSI B18.6.3-1972
+
+mslx.Label
+mslx
+mslx
+
+mslx.HelpText
+Type I Cross Recessed Binding Head Machine Screw\nANSI B18.6.3-1972
+Type I Cross Recessed Binding Head Machine Screw\nANSI B18.6.3-1972
+
+msmm.Label
+msmm
+msmm
+
+msmm.HelpText
+Slotted Undercut Oval Countersunk Head Machine Screw\nANSI B18.6.3-1972
+Slotted Undercut Oval Countersunk Head Machine Screw\nANSI B18.6.3-1972
+
+msmx.Label
+msmx
+msmx
+
+msmx.HelpText
+Type I Recessed Undercut Oval Countersunk Head Machine Screw\nANSI B18.6.3-1972
+Type I Recessed Undercut Oval Countersunk Head Machine Screw\nANSI B18.6.3-1972
+
+GROUP#ANSI B18976.Label
+GROUP#ANSI B18976
+GROUP#ANSI B18976
+
+GROUP#ANSI B18976.HelpText
+Socket Cap, Shoulder and Set Screws (Inch Series)
+Socket Cap, Shoulder and Set Screws (Inch Series)
+
+csdd.Label
+csdd
+csdd
+
+csdd.HelpText
+Hexagon Socket Head Cap Screws\nANSI B18.3-1976
+Hexagon Socket Head Cap Screws\nANSI B18.3-1976
+
+csee.Label
+csee
+csee
+
+csee.HelpText
+Hexagon Socket Flat Countersunk Head Cap Screw\nANSI B18.3-1976
+Hexagon Socket Flat Countersunk Head Cap Screw\nANSI B18.3-1976
+
+csff.Label
+csff
+csff
+
+csff.HelpText
+Hexagon Socket Button Head Cap Screw\nANSI B18.3-1976
+Hexagon Socket Button Head Cap Screw\nANSI B18.3-1976
+
+acsn.Label
+acsn
+acsn
+
+acsn.HelpText
+Standard 114 Degree Countersunk Square Neck Bolt\nANSI B18.5-1978
+Standard 114 Degree Countersunk Square Neck Bolt\nANSI B18.5-1978
+
+afnb.Label
+afnb
+afnb
+
+afnb.HelpText
+Standard Round Head Fin Neck Bolt\nANSI B18.5-1978
+Standard Round Head Fin Neck Bolt\nANSI B18.5-1978
+
+alsn.Label
+alsn
+alsn
+
+alsn.HelpText
+Standard Round Head Square Neck Bolt\nANSI B18.5-1978
+Standard Round Head Square Neck Bolt\nANSI B18.5-1978
+
+arhb.Label
+arhb
+arhb
+
+arhb.HelpText
+Standard Round Head Bolt\nANSI B18.5-1978
+Standard Round Head Bolt\nANSI B18.5-1978
+
+arsb.Label
+arsb
+arsb
+
+arsb.HelpText
+Standard Step Bolts\nANSI B18.5-1978
+Standard Step Bolts\nANSI B18.5-1978
+
+arsn.Label
+arsn
+arsn
+
+arsn.HelpText
+Standard Round Head Ribbed Neck Bolt\nANSI B18.5-1978
+Standard Round Head Ribbed Neck Bolt\nANSI B18.5-1978
+
+assn.Label
+assn
+assn
+
+assn.HelpText
+Standard Round Head Short Square Neck Bolt\nANSI B18.5-1978
+Standard Round Head Short Square Neck Bolt\nANSI B18.5-1978
+
+athb.Label
+athb
+athb
+
+athb.HelpText
+Standard T-Head Bolts\nANSI B18.5-1978
+Standard T-Head Bolts\nANSI B18.5-1978
+
+csaa.Label
+csaa
+csaa
+
+csaa.HelpText
+Standard Slotted Flat Countersunk Head Cap Screw\nANSI B18.6.2-1972
+Standard Slotted Flat Countersunk Head Cap Screw\nANSI B18.6.2-1972
+
+csbb.Label
+csbb
+csbb
+
+csbb.HelpText
+Standard Slotted Round Head Cap Screw\nANSI B18.6.2-1972
+Standard Slotted Round Head Cap Screw\nANSI B18.6.2-1972
+
+cscc.Label
+cscc
+cscc
+
+cscc.HelpText
+Standard Slotted Fillister Head Cap Screw\nANSI B18.6.2-1972
+Standard Slotted Fillister Head Cap Screw\nANSI B18.6.2-1972
+
+ssgg.Label
+ssgg
+ssgg
+
+ssgg.HelpText
+Square Head Set Screw (Flat Head Type), Flat Point\nANSI B18.6.2-1972
+Square Head Set Screw (Flat Head Type), Flat Point\nANSI B18.6.2-1972
+
+sshh.Label
+sshh
+sshh
+
+sshh.HelpText
+Square Head Set Screw (Flat Head Type), Dog Point\nANSI B18.6.2-1972
+Square Head Set Screw (Flat Head Type), Dog Point\nANSI B18.6.2-1972
+
+ssii.Label
+ssii
+ssii
+
+ssii.HelpText
+Square Head Set Screw (Flat Head Type), Half Dog Point\nANSI B18.6.2-1972
+Square Head Set Screw (Flat Head Type), Half Dog Point\nANSI B18.6.2-1972
+
+ssjj.Label
+ssjj
+ssjj
+
+ssjj.HelpText
+Square Head Set Screw (Flat Head Type), Cone Point\nANSI B18.6.2-1972
+Square Head Set Screw (Flat Head Type), Cone Point\nANSI B18.6.2-1972
+
+sskk.Label
+sskk
+sskk
+
+sskk.HelpText
+Square Head Set Screw (Flat Head Type), Oval Point\nANSI B18.6.2-1972
+Square Head Set Screw (Flat Head Type), Oval Point\nANSI B18.6.2-1972
+
+ssll.Label
+ssll
+ssll
+
+ssll.HelpText
+Square Head Set Screw (Flat Head Type), Cup Point\nANSI B18.6.2-1972
+Square Head Set Screw (Flat Head Type), Cup Point\nANSI B18.6.2-1972
+
+ssss.Label
+ssss
+ssss
+
+ssss.HelpText
+Square Head Set Screw (Cone Head Type), Flat Point\nANSI B18.6.2-1972
+Square Head Set Screw (Cone Head Type), Flat Point\nANSI B18.6.2-1972
+
+sstt.Label
+sstt
+sstt
+
+sstt.HelpText
+Square Head Set Screw (Cone Head Type), Dog Point\nANSI B18.6.2-1972
+Square Head Set Screw (Cone Head Type), Dog Point\nANSI B18.6.2-1972
+
+ssuu.Label
+ssuu
+ssuu
+
+ssuu.HelpText
+Square Head Set Screw (Cone Head Type), Half Dog Point\nANSI B18.6.2-1972
+Square Head Set Screw (Cone Head Type), Half Dog Point\nANSI B18.6.2-1972
+
+ssvv.Label
+ssvv
+ssvv
+
+ssvv.HelpText
+Square Head Set Screw (Cone Head Type), Cone Point\nANSI B18.6.2-1972
+Square Head Set Screw (Cone Head Type), Cone Point\nANSI B18.6.2-1972
+
+ssww.Label
+ssww
+ssww
+
+ssww.HelpText
+Square Head Set Screw (Cone Head Type), Oval Point\nANSI B18.6.2-1972
+Square Head Set Screw (Cone Head Type), Oval Point\nANSI B18.6.2-1972
+
+ssxx.Label
+ssxx
+ssxx
+
+ssxx.HelpText
+Square Head Set Screw (Cone Head Type), Cup Point\nANSI B18.6.2-1972
+Square Head Set Screw (Cone Head Type), Cup Point\nANSI B18.6.2-1972
+
+GROUP#ANSI/ASME B51985.Label
+GROUP#ANSI/ASME B51985
+GROUP#ANSI/ASME B51985
+
+GROUP#ANSI/ASME B51985.HelpText
+ANSI/ASME B5.1M-1985
+ANSI/ASME B5.1M-1985
+
+astb.Label
+astb
+astb
+
+astb.HelpText
+Standard T-Bolts\nANSI/ASME B5.1M-1985
+Standard T-Bolts\nANSI/ASME B5.1M-1985
+
+wa.Label
+wa
+wa
+
+wa.HelpText
+Type A Plain Washer\nANSI B18.22.1-1965 (R1975)
+Type A Plain Washer\nANSI B18.22.1-1965 (R1975)
+
+wa_n.Label
+wa_n
+wa_n
+
+wa_n.HelpText
+Type A Plain Washer NARROW\nANSI B18.22.1-1965 (R1975)
+Type A Plain Washer NARROW\nANSI B18.22.1-1965 (R1975)
+
+wa_w.Label
+wa_w
+wa_w
+
+wa_w.HelpText
+Type A Plain Washer WIDE\nANSI B18.22.1-1965 (R1975)
+Type A Plain Washer WIDE\nANSI B18.22.1-1965 (R1975)
+
+wb_r.Label
+wb_r
+wb_r
+
+wb_r.HelpText
+Type B Plain Washer REGULAR\nANSI B18.22.1-1965 (R1975)
+Type B Plain Washer REGULAR\nANSI B18.22.1-1965 (R1975)
+
+wb_n.Label
+wb_n
+wb_n
+
+wb_n.HelpText
+Type B Plain Washer NARROW\nANSI B18.22.1-1965 (R1975)
+Type B Plain Washer NARROW\nANSI B18.22.1-1965 (R1975)
+
+wb_w.Label
+wb_w
+wb_w
+
+wb_w.HelpText
+Type B Plain Washer WIDE\nANSI B18.22.1-1965 (R1975)
+Type B Plain Washer WIDE\nANSI B18.22.1-1965 (R1975)
+
+hfn.Label
+hfn
+hfn
+
+hfn.HelpText
+Hex Flat Nut\nASME/ANSI B18.2.2-1987
+Hex Flat Nut\nASME/ANSI B18.2.2-1987
+
+hfjn.Label
+hfjn
+hfjn
+
+hfjn.HelpText
+Hex Flat Jam Nut\nASME/ANSI B18.2.2-1987
+Hex Flat Jam Nut\nASME/ANSI B18.2.2-1987
+
+hhfn.Label
+hhfn
+hhfn
+
+hhfn.HelpText
+Heavy Hex Flat Nut\nASME/ANSI B18.2.2-1987
+Heavy Hex Flat Nut\nASME/ANSI B18.2.2-1987
+
+hhfjn.Label
+hhfjn
+hhfjn
+
+hhfjn.HelpText
+Heavy Hex Flat Jam Nut\nASME/ANSI B18.2.2-1987
+Heavy Hex Flat Jam Nut\nASME/ANSI B18.2.2-1987
+
+rhn_dc.Label
+rhn_dc
+rhn_dc
+
+rhn_dc.HelpText
+Hex Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+Hex Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+
+rhn_ww.Label
+rhn_ww
+rhn_ww
+
+rhn_ww.HelpText
+Hex Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+Hex Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+
+hhn_dc.Label
+hhn_dc
+hhn_dc
+
+hhn_dc.HelpText
+Heavy Hex Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+Heavy Hex Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+
+hhn_ww.Label
+hhn_ww
+hhn_ww
+
+hhn_ww.HelpText
+Heavy Hex Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+Heavy Hex Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+
+hjn_dc.Label
+hjn_dc
+hjn_dc
+
+hjn_dc.HelpText
+Hex Jam Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+Hex Jam Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+
+hjn_ww.Label
+hjn_ww
+hjn_ww
+
+hjn_ww.HelpText
+Hex Jam Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+Hex Jam Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+
+hsn_dc.Label
+hsn_dc
+hsn_dc
+
+hsn_dc.HelpText
+Hex Slotted Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+Hex Slotted Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+
+hsn_ww.Label
+hsn_ww
+hsn_ww
+
+hsn_ww.HelpText
+Hex Slotted Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+Hex Slotted Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+
+hstn_dc.Label
+hstn_dc
+hstn_dc
+
+hstn_dc.HelpText
+Hex Thick Slotted Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+Hex Thick Slotted Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+
+hstn_ww.Label
+hstn_ww
+hstn_ww
+
+hstn_ww.HelpText
+Hex Thick Slotted Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+Hex Thick Slotted Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+
+htn_dc.Label
+htn_dc
+htn_dc
+
+htn_dc.HelpText
+Hex Thick Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+Hex Thick Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+
+htn_ww.Label
+htn_ww
+htn_ww
+
+htn_ww.HelpText
+Hex Thick Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+Hex Thick Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+
+hhsn_dc.Label
+hhsn_dc
+hhsn_dc
+
+hhsn_dc.HelpText
+Heavy Hex Slotted Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+Heavy Hex Slotted Nut\nDouble Chamfered\nASME/ANSI B18.2.2-1987
+
+hhsn_ww.Label
+hhsn_ww
+hhsn_ww
+
+hhsn_ww.HelpText
+Heavy Hex Slotted Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+Heavy Hex Slotted Nut\nWasher Faced Bearing Surface\nASME/ANSI B18.2.2-1987
+
+sqn_cb.Label
+sqn_cb
+sqn_cb
+
+sqn_cb.HelpText
+Square Nut\nChamfered Bottom\nASME/ANSI B18.2.2-1987
+Square Nut\nChamfered Bottom\nASME/ANSI B18.2.2-1987
+
+sqn_fb.Label
+sqn_fb
+sqn_fb
+
+sqn_fb.HelpText
+Square Nut\nFlat Bottom\nASME/ANSI B18.2.2-1987
+Square Nut\nFlat Bottom\nASME/ANSI B18.2.2-1987
+
+hsqn_cb.Label
+hsqn_cb
+hsqn_cb
+
+hsqn_cb.HelpText
+Heavy Square Nut\nChamfered Bottom\nASME/ANSI B18.2.2-1987
+Heavy Square Nut\nChamfered Bottom\nASME/ANSI B18.2.2-1987
+
+hsqn_fb.Label
+hsqn_fb
+hsqn_fb
+
+hsqn_fb.HelpText
+Heavy Square Nut\nFlat Bottom\nASME/ANSI B18.2.2-1987
+Heavy Square Nut\nFlat Bottom\nASME/ANSI B18.2.2-1987
+
+hmsn_dc.Label
+hmsn_dc
+hmsn_dc
+
+hmsn_dc.HelpText
+Hex Machine Screw Nut\nDouble Chamfered\nANSI B18.6.3-1972
+Hex Machine Screw Nut\nDouble Chamfered\nANSI B18.6.3-1972
+
+hmsn_fb.Label
+hmsn_fb
+hmsn_fb
+
+hmsn_fb.HelpText
+Hex Machine Screw Nut\nFlat Bottomed\nANSI B18.6.3-1972
+Hex Machine Screw Nut\nFlat Bottomed\nANSI B18.6.3-1972
+
+sqmsn.Label
+sqmsn
+sqmsn
+
+sqmsn.HelpText
+Square Machine Screw Nut\nANSI B18.6.3-1972
+Square Machine Screw Nut\nANSI B18.6.3-1972
+
+astn.Label
+astn
+astn
+
+astn.HelpText
+Standard T-Nut\nANSI/ASME B5.1M-1985
+Standard T-Nut\nANSI/ASME B5.1M-1985
+
+mhcs.Label
+mhcs
+mhcs
+
+mhcs.HelpText
+Hex Cap Screw\nANSI B18.2.3.1M-1979
+Hex Cap Screw\nANSI B18.2.3.1M-1979
+
+mfhs.Label
+mfhs
+mfhs
+
+mfhs.HelpText
+Formed Hex Screw\nANSI/ASME B18.2.3.2M - 1979
+Formed Hex Screw\nANSI/ASME B18.2.3.2M - 1979
+
+mhhs.Label
+mhhs
+mhhs
+
+mhhs.HelpText
+Heavy Hex Screw\nANSI/ASME B18.2.3.3M - 1979
+Heavy Hex Screw\nANSI/ASME B18.2.3.3M - 1979
+
+mhfs.Label
+mhfs
+mhfs
+
+mhfs.HelpText
+Hex Flange Screw\nANSI/ASME B18.2.3.4M - 1984
+Hex Flange Screw\nANSI/ASME B18.2.3.4M - 1984
+
+mhb.Label
+mhb
+mhb
+
+mhb.HelpText
+Hex Bolt\nANSI/ASME B18.2.3.5M - 1979
+Hex Bolt\nANSI/ASME B18.2.3.5M - 1979
+
+mhhb.Label
+mhhb
+mhhb
+
+mhhb.HelpText
+Heavy Hex Bolt\nANSI/ASME B18.2.3.6M - 1979 (1989)
+Heavy Hex Bolt\nANSI/ASME B18.2.3.6M - 1979 (1989)
+
+mhsb.Label
+mhsb
+mhsb
+
+mhsb.HelpText
+Heavy Hex Structural Bolt\nANSI/ASME N18.2.3.7M - 1979 (1989)
+Heavy Hex Structural Bolt\nANSI/ASME N18.2.3.7M - 1979 (1989)
+
+mhhf.Label
+mhhf
+mhhf
+
+mhhf.HelpText
+Heavy Hex Flange Screw\nANSI/ASME 18.2.3.9M - 1984
+Heavy Hex Flange Screw\nANSI/ASME 18.2.3.9M - 1984
+
+msms.Label
+msms
+msms
+
+msms.HelpText
+Slotted Flat Countersunk Head\nANSI/ASME B18.6.7M - 1985
+Slotted Flat Countersunk Head\nANSI/ASME B18.6.7M - 1985
+
+mcms.Label
+mcms
+mcms
+
+mcms.HelpText
+Type I Cross Recessed Flat Countersunk Head Machine Screw\nANSI/ASME B18.6.7M - 1985
+Type I Cross Recessed Flat Countersunk Head Machine Screw\nANSI/ASME B18.6.7M - 1985
+
+moms.Label
+moms
+moms
+
+moms.HelpText
+Slotted Oval Countersunk Head\nANSI/ASME B18.6.7M - 1985
+Slotted Oval Countersunk Head\nANSI/ASME B18.6.7M - 1985
+
+mrms.Label
+mrms
+mrms
+
+mrms.HelpText
+Type 1 Cross Recessed Oval Countersunk Head\nANSI/ASME B18.6.7M - 1985
+Type 1 Cross Recessed Oval Countersunk Head\nANSI/ASME B18.6.7M - 1985
+
+mpms.Label
+mpms
+mpms
+
+mpms.HelpText
+Slotted Pan Head\nANSI/ASME B18.6.7M - 1985
+Slotted Pan Head\nANSI/ASME B18.6.7M - 1985
+
+mtms.Label
+mtms
+mtms
+
+mtms.HelpText
+Type 1 Cross Recessed Pan Head\nANSI/ASME B18.6.7M - 1985
+Type 1 Cross Recessed Pan Head\nANSI/ASME B18.6.7M - 1985
+
+mhms.Label
+mhms
+mhms
+
+mhms.HelpText
+Hex Head\nANSI/ASME B18.6.7M - 1985
+Hex Head\nANSI/ASME B18.6.7M - 1985
+
+mfms.Label
+mfms
+mfms
+
+mfms.HelpText
+Hex Flange Head\nANSI/ASME B18.6.7M - 1985
+Hex Flange Head\nANSI/ASME B18.6.7M - 1985
+
+mscs.Label
+mscs
+mscs
+
+mscs.HelpText
+Socket Head Cap Screw\nANSI/ASME B18.3.1M - 1986
+Socket Head Cap Screw\nANSI/ASME B18.3.1M - 1986
+
+msbs.Label
+msbs
+msbs
+
+msbs.HelpText
+Hexagon Socket Button Head Cap Screws\nANSI/ASME B18.3.4M - 1986
+Hexagon Socket Button Head Cap Screws\nANSI/ASME B18.3.4M - 1986
+
+msfs.Label
+msfs
+msfs
+
+msfs.HelpText
+Hexagon Socket Flat Countersunk Head Cap Screw\nANSI/ASME B18.3.5M - 1986
+Hexagon Socket Flat Countersunk Head Cap Screw\nANSI/ASME B18.3.5M - 1986
+
+mtb.Label
+mtb
+mtb
+
+mtb.HelpText
+Metric T-Bolt\nANSI/ASME B5.1M - 1985
+Metric T-Bolt\nANSI/ASME B5.1M - 1985
+
+masb.Label
+masb
+masb
+
+masb.HelpText
+Spline Wrenched Bolt\nSAE MA 1518 and SAE MA 1549
+Spline Wrenched Bolt\nSAE MA 1518 and SAE MA 1549
+
+mahb.Label
+mahb
+mahb
+
+mahb.HelpText
+Hexagon Head Bolt\nSAE MA 1518 and SAE MA 1549
+Hexagon Head Bolt\nSAE MA 1518 and SAE MA 1549
+
+mpw_r.Label
+mpw_r
+mpw_r
+
+mpw_r.HelpText
+Metric Plain Washer, Regular\nANSI B18.22M-1981
+Metric Plain Washer, Regular\nANSI B18.22M-1981
+
+mpw_n.Label
+mpw_n
+mpw_n
+
+mpw_n.HelpText
+Metric Plain Washer, Narrow\nANSI B18.22M-1981
+Metric Plain Washer, Narrow\nANSI B18.22M-1981
+
+mpw_w.Label
+mpw_w
+mpw_w
+
+mpw_w.HelpText
+Metric Plain Washer, Wide\nANSI B18.22M-1981
+Metric Plain Washer, Wide\nANSI B18.22M-1981
+
+mhn1.Label
+mhn1
+mhn1
+
+mhn1.HelpText
+Hex Nut, Style 1\nANSI B18 2.4 1M-1979(1989)
+Hex Nut, Style 1\nANSI B18 2.4 1M-1979(1989)
+
+mhn2.Label
+mhn2
+mhn2
+
+mhn2.HelpText
+Hex Nut, Style 2\nANSI B18 2.4 2M-1979(1989)
+Hex Nut, Style 2\nANSI B18 2.4 2M-1979(1989)
+
+mshn.Label
+mshn
+mshn
+
+mshn.HelpText
+Slotted Hex Nut\nANSI B18 2.4 3M-1979(1989)
+Slotted Hex Nut\nANSI B18 2.4 3M-1979(1989)
+
+mhfn.Label
+mhfn
+mhfn
+
+mhfn.HelpText
+Hex Flange Nut\nANSI B18 2.4 4M-1979(1989)
+Hex Flange Nut\nANSI B18 2.4 4M-1979(1989)
+
+mhjn.Label
+mhjn
+mhjn
+
+mhjn.HelpText
+Hex Jam Nut\nANSI B18 2.4 5M-1979(1989)
+Hex Jam Nut\nANSI B18 2.4 5M-1979(1989)
+
+mhhn.Label
+mhhn
+mhhn
+
+mhhn.HelpText
+Heavy Hex Nut\nANSI B18 2.4 6M-1979(1989)
+Heavy Hex Nut\nANSI B18 2.4 6M-1979(1989)
+
+mtn.Label
+mtn
+mtn
+
+mtn.HelpText
+Metric T-Nut\nANSI/ASME B5.1M - 1985
+Metric T-Nut\nANSI/ASME B5.1M - 1985
+
+masn.Label
+masn
+masn
+
+masn.HelpText
+Spline Drive Nut\nSAE MA 1518 and SAE MA 1549
+Spline Drive Nut\nSAE MA 1518 and SAE MA 1549
+
+mahn.Label
+mahn
+mahn
+
+mahn.HelpText
+Plain Hexagon Nut\nSAE MA 1518
+Plain Hexagon Nut\nSAE MA 1518
+
+macn.Label
+macn
+macn
+
+macn.HelpText
+Castellated Nut\nSAE MA 1518
+Castellated Nut\nSAE MA 1518
+
+ihba.Label
+ihba
+ihba
+
+ihba.HelpText
+Hex Head Bolt\nGrades A & B\nISO 4014
+Hex Head Bolt\nGrades A & B\nISO 4014
+
+ihbr.Label
+ihbr
+ihbr
+
+ihbr.HelpText
+Hex Head Bolt\nReduced Shank\nISO 4015
+Hex Head Bolt\nReduced Shank\nISO 4015
+
+ihbc.Label
+ihbc
+ihbc
+
+ihbc.HelpText
+Hex Head Bolt\nGrade C\nISO 4016
+Hex Head Bolt\nGrade C\nISO 4016
+
+ihsa.Label
+ihsa
+ihsa
+
+ihsa.HelpText
+Hex Head Screw\nGrades A & B\nISO 4017
+Hex Head Screw\nGrades A & B\nISO 4017
+
+ihsc.Label
+ihsc
+ihsc
+
+ihsc.HelpText
+Hex Head Screw\nGrade C\nISO 4018
+Hex Head Screw\nGrade C\nISO 4018
+
+ihfbs.Label
+ihfbs
+ihfbs
+
+ihfbs.HelpText
+Hex Flange Bolt\nSmall Series\nISO 4162
+Hex Flange Bolt\nSmall Series\nISO 4162
+
+ihbhl.Label
+ihbhl
+ihbhl
+
+ihbhl.HelpText
+Hex High-Strength Bolt\nRegular Thread Length\nISO 7411
+Hex High-Strength Bolt\nRegular Thread Length\nISO 7411
+
+ihbhs.Label
+ihbhs
+ihbhs
+
+ihbhs.HelpText
+Hex High-Strength Bolt\nShort Thread Length\nISO 7412
+Hex High-Strength Bolt\nShort Thread Length\nISO 7412
+
+ihsf.Label
+ihsf
+ihsf
+
+ihsf.HelpText
+Hex Head Screw\nMetric Fine Pitch Thread, Grades A & B\nISO 8676
+Hex Head Screw\nMetric Fine Pitch Thread, Grades A & B\nISO 8676
+
+ihbf.Label
+ihbf
+ihbf
+
+ihbf.HelpText
+Hex Head Bolt\nMetric Fine Pitch Thread, Grades A & B\nISO 8765
+Hex Head Bolt\nMetric Fine Pitch Thread, Grades A & B\nISO 8765
+
+ishcs.Label
+ishcs
+ishcs
+
+ishcs.HelpText
+Hex Socket Head Cap Screw\nGrade A\nISO 4762
+Hex Socket Head Cap Screw\nGrade A\nISO 4762
+
+ishbs.Label
+ishbs
+ishbs
+
+ishbs.HelpText
+Hex Socket Button Head Screw\nMetric Series\nISO 7380
+Hex Socket Button Head Screw\nMetric Series\nISO 7380
+
+islgs.Label
+islgs
+islgs
+
+islgs.HelpText
+Slotted Cheese Head Screw\nGrade A\nISO 1207
+Slotted Cheese Head Screw\nGrade A\nISO 1207
+
+islps.Label
+islps
+islps
+
+islps.HelpText
+Slotted Pan Head Screw\nGrade A\nISO 1580
+Slotted Pan Head Screw\nGrade A\nISO 1580
+
+islcs.Label
+islcs
+islcs
+
+islcs.HelpText
+Slotted Countersunk Head Screw\nGrade A\nISO 2009
+Slotted Countersunk Head Screw\nGrade A\nISO 2009
+
+islrs.Label
+islrs
+islrs
+
+islrs.HelpText
+Slotted Raised Countersunk Head Screw\nGrade A\nISO 2010
+Slotted Raised Countersunk Head Screw\nGrade A\nISO 2010
+
+icrps.Label
+icrps
+icrps
+
+icrps.HelpText
+Cross Recessed Pan Head Screws\nGrade A\nISO 7045
+Cross Recessed Pan Head Screws\nGrade A\nISO 7045
+
+icrfc.Label
+icrfc
+icrfc
+
+icrfc.HelpText
+Countersunk Flat Head Screw\nProperty Class 4.8\nISO 7046
+Countersunk Flat Head Screw\nProperty Class 4.8\nISO 7046
+
+icrfs.Label
+icrfs
+icrfs
+
+icrfs.HelpText
+Countersunk Flat Head Screw\nProperty Class 8.8\nISO 7046 - 2
+Countersunk Flat Head Screw\nProperty Class 8.8\nISO 7046 - 2
+
+icrrs.Label
+icrrs
+icrrs
+
+icrrs.HelpText
+Raised Countersunk Head Screw\nGrade A\nISO 7047
+Raised Countersunk Head Screw\nGrade A\nISO 7047
+
+isnbl.Label
+isnbl
+isnbl
+
+isnbl.HelpText
+Cup Head Square Neck Bolt\nGrade C, Large Head\nISO 8677
+Cup Head Square Neck Bolt\nGrade C, Large Head\nISO 8677
+
+isnbs.Label
+isnbs
+isnbs
+
+isnbs.HelpText
+Cup Head Square Neck Bolt\nGrade B, Small Head\nISO 8678
+Cup Head Square Neck Bolt\nGrade B, Small Head\nISO 8678
+
+iwpna.Label
+iwpna
+iwpna
+
+iwpna.HelpText
+Plain Washers, Normal Series, Grade A\nISO 7089
+Plain Washers, Normal Series, Grade A\nISO 7089
+
+iwcna.Label
+iwcna
+iwcna
+
+iwcna.HelpText
+Plain Washers, Chamfered, Normal Series, Grade A\nISO 7090
+Plain Washers, Chamfered, Normal Series, Grade A\nISO 7090
+
+iwpnc.Label
+iwpnc
+iwpnc
+
+iwpnc.HelpText
+Plain Washers, Normal Series, Grade C\nISO 7091
+Plain Washers, Normal Series, Grade C\nISO 7091
+
+iwpsa.Label
+iwpsa
+iwpsa
+
+iwpsa.HelpText
+Plain Washers, Small Series, Grade A\nISO 7092.
+Plain Washers, Small Series, Grade A\nISO 7092.
+
+iwpla.Label
+iwpla
+iwpla
+
+iwpla.HelpText
+Plain Washers, Large Series, Grade A & C\nISO 7093
+Plain Washers, Large Series, Grade A & C\nISO 7093
+
+iwpec.Label
+iwpec
+iwpec
+
+iwpec.HelpText
+Plain Washers, Extra Large Series, Grade C\nISO 7094
+Plain Washers, Extra Large Series, Grade C\nISO 7094
+
+iwphs.Label
+iwphs
+iwphs
+
+iwphs.HelpText
+Plain Washers, Structural, Hardened\nISO 7415
+Plain Washers, Structural, Hardened\nISO 7415
+
+iwchs.Label
+iwchs
+iwchs
+
+iwchs.HelpText
+Plain Washers, Chamfered, Structural, Hardened\nISO 7416
+Plain Washers, Chamfered, Structural, Hardened\nISO 7416
+
+iwcpa.Label
+iwcpa
+iwcpa
+
+iwcpa.HelpText
+Plain Washers for Clevis Pins, Grade A\nISO 8738
+Plain Washers for Clevis Pins, Grade A\nISO 8738
+
+inhs1.Label
+inhs1
+inhs1
+
+inhs1.HelpText
+Hex Nut, ISO 4032\nStyle 1, Grade A & B
+Hex Nut, ISO 4032\nStyle 1, Grade A & B
+
+inhs2.Label
+inhs2
+inhs2
+
+inhs2.HelpText
+Hex Nut, ISO 4033\nStyle 2, Grade A & B
+Hex Nut, ISO 4033\nStyle 2, Grade A & B
+
+inhgc.Label
+inhgc
+inhgc
+
+inhgc.HelpText
+Hex Nut, ISO 4034\nGrade C
+Hex Nut, ISO 4034\nGrade C
+
+inhtc.Label
+inhtc
+inhtc
+
+inhtc.HelpText
+Hex Thin Nut, ISO 4035\nGrade A & B (Chamfered)
+Hex Thin Nut, ISO 4035\nGrade A & B (Chamfered)
+
+inhtu.Label
+inhtu
+inhtu
+
+inhtu.HelpText
+Hex Thin Nut, ISO 4036\nGrade B (Unchamfered)
+Hex Thin Nut, ISO 4036\nGrade B (Unchamfered)
+
+inhfa.Label
+inhfa
+inhfa
+
+inhfa.HelpText
+Hex Nut with Flange, ISO 4161\nGrade A
+Hex Nut with Flange, ISO 4161\nGrade A
+
+inhfm.Label
+inhfm
+inhfm
+
+inhfm.HelpText
+Hex Nut, ISO 4166\nHex Nut for Fine Mechanics, Grade F
+Hex Nut, ISO 4166\nHex Nut for Fine Mechanics, Grade F
+
+inslw.Label
+inslw
+inslw
+
+inslw.HelpText
+Hex Structural Nut, ISO 4775\nLarge Flats, Grade B
+Hex Structural Nut, ISO 4775\nLarge Flats, Grade B
+
+inss1.Label
+inss1
+inss1
+
+inss1.HelpText
+Hex Structural Nut, ISO 7413\nStyle 1, Grade A & B
+Hex Structural Nut, ISO 7413\nStyle 1, Grade A & B
+
+inslb.Label
+inslb
+inslb
+
+inslb.HelpText
+Hex Structural Nut, ISO 7414\nLarge Flats, Style 1, Grade B
+Hex Structural Nut, ISO 7414\nLarge Flats, Style 1, Grade B
+
+inss2.Label
+inss2
+inss2
+
+inss2.HelpText
+Hex Structural Nut, ISO 7417\nStyle 2, Grade A
+Hex Structural Nut, ISO 7417\nStyle 2, Grade A
+
+inhf1.Label
+inhf1
+inhf1
+
+inhf1.HelpText
+Hex Nut, ISO 8673\nStyle 1, Metric Fine Pitch Thread, Grade A & B
+Hex Nut, ISO 8673\nStyle 1, Metric Fine Pitch Thread, Grade A & B
+
+inhf2.Label
+inhf2
+inhf2
+
+inhf2.HelpText
+Hex Nut, ISO 8674\nStyle 2, Metric Fine Pitch Thread, Grade A & B
+Hex Nut, ISO 8674\nStyle 2, Metric Fine Pitch Thread, Grade A & B
+
+inhtf.Label
+inhtf
+inhtf
+
+inhtf.HelpText
+Hex Thin Nut, ISO 8675\nMetric Fine Pitch Thread, Grade A & B
+Hex Thin Nut, ISO 8675\nMetric Fine Pitch Thread, Grade A & B
+
+inps1.Label
+inps1
+inps1
+
+inps1.HelpText
+Prevailing Torque Hex Nut, ISO 7040\nStyle 1, with Non-Metal Inserts
+Prevailing Torque Hex Nut, ISO 7040\nStyle 1, with Non-Metal Inserts
+
+inps2.Label
+inps2
+inps2
+
+inps2.HelpText
+Prevailing Torque Hex Nut, ISO 7041\nStyle 2, with Non-Metal Inserts
+Prevailing Torque Hex Nut, ISO 7041\nStyle 2, with Non-Metal Inserts
+
+inpm2.Label
+inpm2
+inpm2
+
+inpm2.HelpText
+Prevailing Torque All-Metal Nut, ISO 7042\nStyle 2, Property Class 5, 8, 10, 12
+Prevailing Torque All-Metal Nut, ISO 7042\nStyle 2, Property Class 5, 8, 10, 12
+
+inpfn.Label
+inpfn
+inpfn
+
+inpfn.HelpText
+Prevailing Torque Hex Nut, ISO 7043\nwith Flange and Non-Metal Inserts
+Prevailing Torque Hex Nut, ISO 7043\nwith Flange and Non-Metal Inserts
+
+inpfm.Label
+inpfm
+inpfm
+
+inpfm.HelpText
+Prevailing Torque All-Metal Hex Nut, ISO 7044\nwith Flange
+Prevailing Torque All-Metal Hex Nut, ISO 7044\nwith Flange
+
+inpm1.Label
+inpm1
+inpm1
+
+inpm1.HelpText
+Prevailing Torque All-Metal Nuts, ISO 7719\nStyle 1, Property Class 5, 8, 10
+Prevailing Torque All-Metal Nuts, ISO 7719\nStyle 1, Property Class 5, 8, 10
+
+inpm9.Label
+inpm9
+inpm9
+
+inpm9.HelpText
+Prevailing Torque All-Metal Nut, ISO 7720\nStyle 2, Property Class 9
+Prevailing Torque All-Metal Nut, ISO 7720\nStyle 2, Property Class 9
+
+ippuc.Label
+ippuc
+ippuc
+
+ippuc.HelpText
+Parallel Pins, Unhardened\nISO 2338 - 1986
+Parallel Pins, Unhardened\nISO 2338 - 1986
+
+ipput.Label
+ipput
+ipput
+
+ipput.HelpText
+Parallel Pins with Internal Thread, Unhardened\nISO 8733 - 1986
+Parallel Pins with Internal Thread, Unhardened\nISO 8733 - 1986
+
+ipphd.Label
+ipphd
+ipphd
+
+ipphd.HelpText
+Parallel Pins, Hardened (Dowel Pins)\nISO 8734 - 1987
+Parallel Pins, Hardened (Dowel Pins)\nISO 8734 - 1987
+
+ippht.Label
+ippht
+ippht
+
+ippht.HelpText
+Parallel Pins with Internal Thread, Hardened\nISO 8735 - 1987
+Parallel Pins with Internal Thread, Hardened\nISO 8735 - 1987
+
+ipgpg.Label
+ipgpg
+ipgpg
+
+ipgpg.HelpText
+Grooved Pins, Full-Length Parallel Grooved with Pilot\nISO 8739 - 1986
+Grooved Pins, Full-Length Parallel Grooved with Pilot\nISO 8739 - 1986
+
+ipgpc.Label
+ipgpc
+ipgpc
+
+ipgpc.HelpText
+Grooved Pins, Full-Length Parallel Grooved with Chamfer\nISO 8740 - 1986
+Grooved Pins, Full-Length Parallel Grooved with Chamfer\nISO 8740 - 1986
+
+ipsch.Label
+ipsch
+ipsch
+
+ipsch.HelpText
+Spring-Type Straight Pins, Coiled and Heavy Duty\nISO 8748 - 1987
+Spring-Type Straight Pins, Coiled and Heavy Duty\nISO 8748 - 1987
+
+ipscs.Label
+ipscs
+ipscs
+
+ipscs.HelpText
+Spring-Type Straight Pins, Coiled and Standard Duty\nISO 8750 - 1987
+Spring-Type Straight Pins, Coiled and Standard Duty\nISO 8750 - 1987
+
+ipscl.Label
+ipscl
+ipscl
+
+ipscl.HelpText
+Spring-Type Straight Pins, Coiled and Light Duty\nISO 8751 - 1987
+Spring-Type Straight Pins, Coiled and Light Duty\nISO 8751 - 1987
+
+ipsss.Label
+ipsss
+ipsss
+
+ipsss.HelpText
+Spring-Type Straight Pins, Slotted\nISO 8752 - 1987
+Spring-Type Straight Pins, Slotted\nISO 8752 - 1987
+
+jhhba.Label
+jhhba
+jhhba
+
+jhhba.HelpText
+HEX HEAD BOLT, GRADE A\nNOMINAL DIAMETER BODY\nJIS B 1180
+HEX HEAD BOLT, GRADE A\nNOMINAL DIAMETER BODY\nJIS B 1180
+
+jhhbb.Label
+jhhbb
+jhhbb
+
+jhhbb.HelpText
+HEX HEAD BOLT, GRADE B\nNOMINAL DIAMETER BODY\nJIS B 1180
+HEX HEAD BOLT, GRADE B\nNOMINAL DIAMETER BODY\nJIS B 1180
+
+jhhbc.Label
+jhhbc
+jhhbc
+
+jhhbc.HelpText
+HEX HEAD BOLT, GRADE C\nNOMINAL DIAMETER BODY\nJIS B 1180
+HEX HEAD BOLT, GRADE C\nNOMINAL DIAMETER BODY\nJIS B 1180
+
+jhhbr.Label
+jhhbr
+jhhbr
+
+jhhbr.HelpText
+HEX HEAD BOLT\nPITCH DIAMETER BODY\nJIS B 1180
+HEX HEAD BOLT\nPITCH DIAMETER BODY\nJIS B 1180
+
+jhtba.Label
+jhtba
+jhtba
+
+jhtba.HelpText
+HEX HEAD BOLT, GRADE A\nTOTALLY THREADED SHANK\nJIS B 1180
+HEX HEAD BOLT, GRADE A\nTOTALLY THREADED SHANK\nJIS B 1180
+
+jhtbb.Label
+jhtbb
+jhtbb
+
+jhtbb.HelpText
+HEX HEAD BOLT, GRADE B\nTOTALLY THREADED SHANK\nJIS B 1180
+HEX HEAD BOLT, GRADE B\nTOTALLY THREADED SHANK\nJIS B 1180
+
+jhtbc.Label
+jhtbc
+jhtbc
+
+jhtbc.HelpText
+HEX HEAD BOLT, GRADE C\nTOTALLY THREADED SHANK\nJIS B 1180
+HEX HEAD BOLT, GRADE C\nTOTALLY THREADED SHANK\nJIS B 1180
+
+jhbre.Label
+jhbre
+jhbre
+
+jhbre.HelpText
+HEX HEAD BOLT, REGULAR\nJIS B 1180
+HEX HEAD BOLT, REGULAR\nJIS B 1180
+
+jhbre_f.Label
+jhbre_f
+jhbre_f
+
+jhbre_f.HelpText
+HEX HEAD BOLT, REGULAR\nJIS B 1180
+HEX HEAD BOLT, REGULAR\nJIS B 1180
+
+jhbsf.Label
+jhbsf
+jhbsf
+
+jhbsf.HelpText
+HEX HEAD BOLT, SEMI-FINISHED\nJIS B 1180
+HEX HEAD BOLT, SEMI-FINISHED\nJIS B 1180
+
+jhbsf_f.Label
+jhbsf_f
+jhbsf_f
+
+jhbsf_f.HelpText
+HEX HEAD BOLT, SEMI-FINISHED\nJIS B 1180
+HEX HEAD BOLT, SEMI-FINISHED\nJIS B 1180
+
+jhhbf.Label
+jhhbf
+jhhbf
+
+jhhbf.HelpText
+HEX HEAD BOLT, FINISHED\nJIS B 1180
+HEX HEAD BOLT, FINISHED\nJIS B 1180
+
+jhhbf_f.Label
+jhhbf_f
+jhhbf_f
+
+jhhbf_f.HelpText
+HEX HEAD BOLT, FINISHED\nJIS B 1180
+HEX HEAD BOLT, FINISHED\nJIS B 1180
+
+jhsmf.Label
+jhsmf
+jhsmf
+
+jhsmf.HelpText
+SMALL HEX HEAD BOLT, FINISHED\nJIS B 1180
+SMALL HEX HEAD BOLT, FINISHED\nJIS B 1180
+
+jhsmf_f.Label
+jhsmf_f
+jhsmf_f
+
+jhsmf_f.HelpText
+SMALL HEX HEAD BOLT, FINISHED\nJIS B 1180
+SMALL HEX HEAD BOLT, FINISHED\nJIS B 1180
+
+jhssf.Label
+jhssf
+jhssf
+
+jhssf.HelpText
+SMALL HEX HEAD BOLT, SEMI-FINISHED\nJIS B 1180
+SMALL HEX HEAD BOLT, SEMI-FINISHED\nJIS B 1180
+
+jhssf_f.Label
+jhssf_f
+jhssf_f
+
+jhssf_f.HelpText
+SMALL HEX HEAD BOLT, SEMI-FINISHED\nJIS B 1180
+SMALL HEX HEAD BOLT, SEMI-FINISHED\nJIS B 1180
+
+jhskc.Label
+jhskc
+jhskc
+
+jhskc.HelpText
+HEX SOCKET HEAD CAP SCREW\nJIS B 1176
+HEX SOCKET HEAD CAP SCREW\nJIS B 1176
+
+jhskb.Label
+jhskb
+jhskb
+
+jhskb.HelpText
+HEX SOCKET BUTTON HEAD SCREW\nJIS B 1174
+HEX SOCKET BUTTON HEAD SCREW\nJIS B 1174
+
+jslgs.Label
+jslgs
+jslgs
+
+jslgs.HelpText
+SLOTTED CHEESE HEAD MACHINE SCREW\nJIS B 1101 - 1987
+SLOTTED CHEESE HEAD MACHINE SCREW\nJIS B 1101 - 1987
+
+jslps.Label
+jslps
+jslps
+
+jslps.HelpText
+SLOTTED PAN HEAD MACHINE SCREW\nJIS B 1101 - 1987
+SLOTTED PAN HEAD MACHINE SCREW\nJIS B 1101 - 1987
+
+jsacs.Label
+jsacs
+jsacs
+
+jsacs.HelpText
+COUNTERSUNK HEAD MACHINE SCREW\nJIS B 1101
+COUNTERSUNK HEAD MACHINE SCREW\nJIS B 1101
+
+jsaps.Label
+jsaps
+jsaps
+
+jsaps.HelpText
+PAN HEAD MACHINE SCREW\nJIS B 1101
+PAN HEAD MACHINE SCREW\nJIS B 1101
+
+jsars.Label
+jsars
+jsars
+
+jsars.HelpText
+RAISED COUNTERSUNK HEAD MACHINE SCREW\nJIS B 1101
+RAISED COUNTERSUNK HEAD MACHINE SCREW\nJIS B 1101
+
+jsats.Label
+jsats
+jsats
+
+jsats.HelpText
+TRUSS HEAD MACHINE SCREW\nJIS B 1101
+TRUSS HEAD MACHINE SCREW\nJIS B 1101
+
+jsabs.Label
+jsabs
+jsabs
+
+jsabs.HelpText
+BINDING HEAD MACHINE SCREW\nJIS B 1101
+BINDING HEAD MACHINE SCREW\nJIS B 1101
+
+jsarn.Label
+jsarn
+jsarn
+
+jsarn.HelpText
+ROUND HEAD MACHINE SCREW\nJIS B 1101
+ROUND HEAD MACHINE SCREW\nJIS B 1101
+
+jsafs.Label
+jsafs
+jsafs
+
+jsafs.HelpText
+FLAT FILLISTER HEAD MACHINE SCREW\nJIS B 1101
+FLAT FILLISTER HEAD MACHINE SCREW\nJIS B 1101
+
+jsaof.Label
+jsaof
+jsaof
+
+jsaof.HelpText
+OVAL FILLISTER HEAD MACHINE SCREW\nJIS B 1101
+OVAL FILLISTER HEAD MACHINE SCREW\nJIS B 1101
+
+jacrp.Label
+jacrp
+jacrp
+
+jacrp.HelpText
+PAN HEAD MACHINE SCREWS\nJIS B 1111
+PAN HEAD MACHINE SCREWS\nJIS B 1111
+
+jacrt.Label
+jacrt
+jacrt
+
+jacrt.HelpText
+TRUSS HEAD MACHINE SCREWS\nJIS B 1111
+TRUSS HEAD MACHINE SCREWS\nJIS B 1111
+
+jacrn.Label
+jacrn
+jacrn
+
+jacrn.HelpText
+ROUND HEAD MACHINE SCREW\nJIS B 1111
+ROUND HEAD MACHINE SCREW\nJIS B 1111
+
+jsqbf.Label
+jsqbf
+jsqbf
+
+jsqbf.HelpText
+SQUARE HEAD BOLTS, FINISHED\nJIS B 1182
+SQUARE HEAD BOLTS, FINISHED\nJIS B 1182
+
+jsqsf.Label
+jsqsf
+jsqsf
+
+jsqsf.HelpText
+SQUARE HEAD BOLTS, SEMI-FINISHED\nJIS B 1182
+SQUARE HEAD BOLTS, SEMI-FINISHED\nJIS B 1182
+
+jsqre.Label
+jsqre
+jsqre
+
+jsqre.HelpText
+SQUARE HEAD BOLTS, REGULAR\nJIS B 1182
+SQUARE HEAD BOLTS, REGULAR\nJIS B 1182
+
+jsqrl.Label
+jsqrl
+jsqrl
+
+jsqrl.HelpText
+LARGE-SIZE SQUARE HEAD BOLT, REGULAR\nJIS B 1182
+LARGE-SIZE SQUARE HEAD BOLT, REGULAR\nJIS B 1182
+
+jhfb1.Label
+jhfb1
+jhfb1
+
+jhfb1.HelpText
+HEX BOLT WITH FLANGE, TYPE 1\nJIS B 1189
+HEX BOLT WITH FLANGE, TYPE 1\nJIS B 1189
+
+jhfb1_f.Label
+jhfb1_f
+jhfb1_f
+
+jhfb1_f.HelpText
+HEX BOLT WITH FLANGE, TYPE 1\nJIS B 1189
+HEX BOLT WITH FLANGE, TYPE 1\nJIS B 1189
+
+jhfb2.Label
+jhfb2
+jhfb2
+
+jhfb2.HelpText
+HEX BOLT WITH FLANGE, CLASS 2\nJIS B 1189
+HEX BOLT WITH FLANGE, CLASS 2\nJIS B 1189
+
+jhfb2_f.Label
+jhfb2_f
+jhfb2_f
+
+jhfb2_f.HelpText
+HEX BOLT WITH FLANGE, CLASS 2\nJIS B 1189
+HEX BOLT WITH FLANGE, CLASS 2\nJIS B 1189
+
+jfhbf.Label
+jfhbf
+jfhbf
+
+jfhbf.HelpText
+SLOTTED FLAT HEAD BOLT\nFINE FINISHED\nJIS B 1179
+SLOTTED FLAT HEAD BOLT\nFINE FINISHED\nJIS B 1179
+
+jfhbr.Label
+jfhbr
+jfhbr
+
+jfhbr.HelpText
+SLOTTED FLAT HEAD BOLT\nROUGH FINISHED\nJIS B 1179
+SLOTTED FLAT HEAD BOLT\nROUGH FINISHED\nJIS B 1179
+
+jfhbk.Label
+jfhbk
+jfhbk
+
+jfhbk.HelpText
+FLAT HEAD BOLT\nWITH REVERSE KEY, ROUGH FINISHED\nJIS B 1179
+FLAT HEAD BOLT\nWITH REVERSE KEY, ROUGH FINISHED\nJIS B 1179
+
+jsnbl.Label
+jsnbl
+jsnbl
+
+jsnbl.HelpText
+CUP HEAD SQUARE NECK BOLT\nLARGE-SIZE HEAD\nJIS B 1171
+CUP HEAD SQUARE NECK BOLT\nLARGE-SIZE HEAD\nJIS B 1171
+
+jsnbs.Label
+jsnbs
+jsnbs
+
+jsnbs.HelpText
+CUP HEAD SQUARE NECK BOLT\nSMALL-SIZE HEAD\nJIS B 1171
+CUP HEAD SQUARE NECK BOLT\nSMALL-SIZE HEAD\nJIS B 1171
+
+jsnbg.Label
+jsnbg
+jsnbg
+
+jsnbg.HelpText
+CUP HEAD SQUARE NECK BOLT\nGROOVED HEAD\nJIS B 1171
+CUP HEAD SQUARE NECK BOLT\nGROOVED HEAD\nJIS B 1171
+
+jwbc1.Label
+jwbc1
+jwbc1
+
+jwbc1.HelpText
+WING BOLT, CLASS 1\nJIS B 1184
+WING BOLT, CLASS 1\nJIS B 1184
+
+jwbc2.Label
+jwbc2
+jwbc2
+
+jwbc2.HelpText
+WING BOLT, CLASS 2\nJIS B 1184
+WING BOLT, CLASS 2\nJIS B 1184
+
+jwbc3.Label
+jwbc3
+jwbc3
+
+jwbc3.HelpText
+WING BOLT, CLASS 3\nJIS B 1184
+WING BOLT, CLASS 3\nJIS B 1184
+
+jeyeb.Label
+jeyeb
+jeyeb
+
+jeyeb.HelpText
+Eye Bolt\nJIS B 1168
+Eye Bolt\nJIS B 1168
+
+jsqfp.Label
+jsqfp
+jsqfp
+
+jsqfp.HelpText
+SQUARE HEAD SET SCREW WITH FLAT POINT\nJIS B 1118
+SQUARE HEAD SET SCREW WITH FLAT POINT\nJIS B 1118
+
+jsqsc.Label
+jsqsc
+jsqsc
+
+jsqsc.HelpText
+SQUARE HEAD SET SCREW WITH CONE POINT\nJIS B 1118
+SQUARE HEAD SET SCREW WITH CONE POINT\nJIS B 1118
+
+jsqsd.Label
+jsqsd
+jsqsd
+
+jsqsd.HelpText
+SQUARE HEAD SET SCREW WITH LONG DOG POINT\nJIS B 1118
+SQUARE HEAD SET SCREW WITH LONG DOG POINT\nJIS B 1118
+
+jsqsp.Label
+jsqsp
+jsqsp
+
+jsqsp.HelpText
+SQUARE HEAD SET SCREW WITH CUP POINT\nJIS B 1118
+SQUARE HEAD SET SCREW WITH CUP POINT\nJIS B 1118
+
+jsqsr.Label
+jsqsr
+jsqsr
+
+jsqsr.HelpText
+SQUARE HEAD SET SCREW WITH ROUND POINT\nJIS B 1118
+SQUARE HEAD SET SCREW WITH ROUND POINT\nJIS B 1118
+
+jwsmc.Label
+jwsmc
+jwsmc
+
+jwsmc.HelpText
+PLAIN SMALL CIRCULAR WASHER\nJIS B 1256
+PLAIN SMALL CIRCULAR WASHER\nJIS B 1256
+
+jwpcf.Label
+jwpcf
+jwpcf
+
+jwpcf.HelpText
+PLAIN FINISHED CIRCULAR WASHER\nJIS B 1256
+PLAIN FINISHED CIRCULAR WASHER\nJIS B 1256
+
+jwpcr.Label
+jwpcr
+jwpcr
+
+jwpcr.HelpText
+PLAIN REGULAR CIRCULAR WASHER\nJIS B 1256
+PLAIN REGULAR CIRCULAR WASHER\nJIS B 1256
+
+jwpss.Label
+jwpss
+jwpss
+
+jwpss.HelpText
+PLAIN SMALL SQUARE WASHER\nJIS B 1256
+PLAIN SMALL SQUARE WASHER\nJIS B 1256
+
+jwpsl.Label
+jwpsl
+jwpsl
+
+jwpsl.HelpText
+PLAIN LARGE SQUARE WASHER\nJIS B 1256
+PLAIN LARGE SQUARE WASHER\nJIS B 1256
+
+jnhs1.Label
+jnhs1
+jnhs1
+
+jnhs1.HelpText
+HEX NUT, STYLE 1, GRADE A & B\nJIS B 1181\nISO 4032 - 1986
+HEX NUT, STYLE 1, GRADE A & B\nJIS B 1181\nISO 4032 - 1986
+
+jnhs2.Label
+jnhs2
+jnhs2
+
+jnhs2.HelpText
+HEX NUT, STYLE 2, GRADE A & B\nJIS B 1181\nISO 4033 - 1979
+HEX NUT, STYLE 2, GRADE A & B\nJIS B 1181\nISO 4033 - 1979
+
+jnhgc.Label
+jnhgc
+jnhgc
+
+jnhgc.HelpText
+HEX NUT, GRADE C\nJIS B 1181\nISO 4034 - 1986
+HEX NUT, GRADE C\nJIS B 1181\nISO 4034 - 1986
+
+jnhtc.Label
+jnhtc
+jnhtc
+
+jnhtc.HelpText
+HEX THIN NUT, GRADE A & B\nCHAMFERED\nJIS B 1181\nISO 4035 - 1986
+HEX THIN NUT, GRADE A & B\nCHAMFERED\nJIS B 1181\nISO 4035 - 1986
+
+jnhtu.Label
+jnhtu
+jnhtu
+
+jnhtu.HelpText
+HEX THIN NUT, GRADE B\nUNCHAMFERED\nJIS B 1181\nISO 4036 - 1979
+HEX THIN NUT, GRADE B\nUNCHAMFERED\nJIS B 1181\nISO 4036 - 1979
+
+jnnf1.Label
+jnnf1
+jnnf1
+
+jnnf1.HelpText
+HEX NUT, FINISHED, CLASS 1\nJIS B 1181
+HEX NUT, FINISHED, CLASS 1\nJIS B 1181
+
+jnnf2.Label
+jnnf2
+jnnf2
+
+jnnf2.HelpText
+HEX NUT, FINISHED, CLASS 2\nJIS B 1181
+HEX NUT, FINISHED, CLASS 2\nJIS B 1181
+
+jnnf3.Label
+jnnf3
+jnnf3
+
+jnnf3.HelpText
+HEX NUT, FINISHED, CLASS 3\nJIS B 1181
+HEX NUT, FINISHED, CLASS 3\nJIS B 1181
+
+jnnf4.Label
+jnnf4
+jnnf4
+
+jnnf4.HelpText
+HEX NUT, FINISHED, CLASS 4\nJIS B 1181
+HEX NUT, FINISHED, CLASS 4\nJIS B 1181
+
+jnsf1.Label
+jnsf1
+jnsf1
+
+jnsf1.HelpText
+HEX NUT, SEMI-FINISHED, CLASS 1\nJIS B 1181
+HEX NUT, SEMI-FINISHED, CLASS 1\nJIS B 1181
+
+jnsf2.Label
+jnsf2
+jnsf2
+
+jnsf2.HelpText
+HEX NUT, SEMI-FINISHED, CLASS 2\nJIS B 1181
+HEX NUT, SEMI-FINISHED, CLASS 2\nJIS B 1181
+
+jnsf3.Label
+jnsf3
+jnsf3
+
+jnsf3.HelpText
+HEX NUT, SEMI-FINISHED, CLASS 3\nJIS B 1181
+HEX NUT, SEMI-FINISHED, CLASS 3\nJIS B 1181
+
+jnsf4.Label
+jnsf4
+jnsf4
+
+jnsf4.HelpText
+HEX NUT, SEMI-FINISHED, CLASS 4\nJIS B 1181
+HEX NUT, SEMI-FINISHED, CLASS 4\nJIS B 1181
+
+jnnr1.Label
+jnnr1
+jnnr1
+
+jnnr1.HelpText
+HEX NUT, REGULAR, CLASS 1\nJIS B 1181
+HEX NUT, REGULAR, CLASS 1\nJIS B 1181
+
+jnnr2.Label
+jnnr2
+jnnr2
+
+jnnr2.HelpText
+HEX NUT, REGULAR, CLASS 2\nJIS B 1181
+HEX NUT, REGULAR, CLASS 2\nJIS B 1181
+
+jnnr3.Label
+jnnr3
+jnnr3
+
+jnnr3.HelpText
+HEX NUT, REGULAR, CLASS 3\nJIS B 1181
+HEX NUT, REGULAR, CLASS 3\nJIS B 1181
+
+jnmf1.Label
+jnmf1
+jnmf1
+
+jnmf1.HelpText
+SMALL HEX NUT, FINISHED, CLASS 1\nJIS B 1181
+SMALL HEX NUT, FINISHED, CLASS 1\nJIS B 1181
+
+jnmf2.Label
+jnmf2
+jnmf2
+
+jnmf2.HelpText
+SMALL HEX NUT, FINISHED, CLASS 2\nJIS B 1181
+SMALL HEX NUT, FINISHED, CLASS 2\nJIS B 1181
+
+jnmf3.Label
+jnmf3
+jnmf3
+
+jnmf3.HelpText
+SMALL HEX NUT, FINISHED, CLASS 3\nJIS B 1181
+SMALL HEX NUT, FINISHED, CLASS 3\nJIS B 1181
+
+jnmf4.Label
+jnmf4
+jnmf4
+
+jnmf4.HelpText
+SMALL HEX NUT, FINISHED, CLASS 4\nJIS B 1181
+SMALL HEX NUT, FINISHED, CLASS 4\nJIS B 1181
+
+jnms1.Label
+jnms1
+jnms1
+
+jnms1.HelpText
+SMALL HEX NUT, SEMI-FINISHED, CLASS 1\nJIS B 1181
+SMALL HEX NUT, SEMI-FINISHED, CLASS 1\nJIS B 1181
+
+jnms2.Label
+jnms2
+jnms2
+
+jnms2.HelpText
+SMALL HEX NUT, SEMI-FINISHED, CLASS 2\nJIS B 1181
+SMALL HEX NUT, SEMI-FINISHED, CLASS 2\nJIS B 1181
+
+jnms3.Label
+jnms3
+jnms3
+
+jnms3.HelpText
+SMALL HEX NUT, SEMI-FINISHED, CLASS 3\nJIS B 1181
+SMALL HEX NUT, SEMI-FINISHED, CLASS 3\nJIS B 1181
+
+jnms4.Label
+jnms4
+jnms4
+
+jnms4.HelpText
+SMALL HEX NUT, SEMI-FINISHED, CLASS 4\nJIS B 1181
+SMALL HEX NUT, SEMI-FINISHED, CLASS 4\nJIS B 1181
+
+jndc1.Label
+jndc1
+jndc1
+
+jndc1.HelpText
+DOMED CAP NUT, TYPE 1\nJIS B 1183
+DOMED CAP NUT, TYPE 1\nJIS B 1183
+
+jndc2.Label
+jndc2
+jndc2
+
+jndc2.HelpText
+DOMED CAP NUT, TYPE 2\nJIS B 1183
+DOMED CAP NUT, TYPE 2\nJIS B 1183
+
+jndc3.Label
+jndc3
+jndc3
+
+jndc3.HelpText
+DOMED CAP NUT, TYPE 3\nJIS B 1183
+DOMED CAP NUT, TYPE 3\nJIS B 1183
+
+jnds1.Label
+jnds1
+jnds1
+
+jnds1.HelpText
+SMALL SIZE DOMED CAP NUT, TYPE 1\nJIS B 1183
+SMALL SIZE DOMED CAP NUT, TYPE 1\nJIS B 1183
+
+jnds2.Label
+jnds2
+jnds2
+
+jnds2.HelpText
+SMALL SIZE DOMED CAP NUT, TYPE 2\nJIS B 1183
+SMALL SIZE DOMED CAP NUT, TYPE 2\nJIS B 1183
+
+jnds3.Label
+jnds3
+jnds3
+
+jnds3.HelpText
+SMALL SIZE DOMED CAP NUT, TYPE 3\nJIS B 1183
+SMALL SIZE DOMED CAP NUT, TYPE 3\nJIS B 1183
+
+jnhfa.Label
+jnhfa
+jnhfa
+
+jnhfa.HelpText
+HEX NUT WITH FLANGE\nJIS B 1190
+HEX NUT WITH FLANGE\nJIS B 1190
+
+jsqrn.Label
+jsqrn
+jsqrn
+
+jsqrn.HelpText
+SQUARE NUT\nJIS B 1163
+SQUARE NUT\nJIS B 1163
+
+jsn1h.Label
+jsn1h
+jsn1h
+
+jsn1h.HelpText
+HEX SLOTTED NUT, CLASS 1, HIGH TYPE\nJIS B 1170
+HEX SLOTTED NUT, CLASS 1, HIGH TYPE\nJIS B 1170
+
+jsn1l.Label
+jsn1l
+jsn1l
+
+jsn1l.HelpText
+HEX SLOTTED NUT, CLASS 1, LOW TYPE\nJIS B 1170
+HEX SLOTTED NUT, CLASS 1, LOW TYPE\nJIS B 1170
+
+jcn2h.Label
+jcn2h
+jcn2h
+
+jcn2h.HelpText
+HEX CASTLE NUT, CLASS 2, HIGH TYPE\nJIS B 1170
+HEX CASTLE NUT, CLASS 2, HIGH TYPE\nJIS B 1170
+
+jcn2l.Label
+jcn2l
+jcn2l
+
+jcn2l.HelpText
+HEX CASTLE NUT, CLASS 2, LOW TYPE\nJIS B 1170
+HEX CASTLE NUT, CLASS 2, LOW TYPE\nJIS B 1170
+
+jsn3h.Label
+jsn3h
+jsn3h
+
+jsn3h.HelpText
+HEX SLOTTED NUT, CLASS 3, HIGH TYPE\nJIS B 1170
+HEX SLOTTED NUT, CLASS 3, HIGH TYPE\nJIS B 1170
+
+jsn3l.Label
+jsn3l
+jsn3l
+
+jsn3l.HelpText
+HEX SLOTTED NUT, CLASS 3, LOW TYPE\nJIS B 1170
+HEX SLOTTED NUT, CLASS 3, LOW TYPE\nJIS B 1170
+
+jcn4h.Label
+jcn4h
+jcn4h
+
+jcn4h.HelpText
+HEX CASTLE NUT, CLASS 4, HIGH TYPE\nJIS B 1170
+HEX CASTLE NUT, CLASS 4, HIGH TYPE\nJIS B 1170
+
+jcn4l.Label
+jcn4l
+jcn4l
+
+jcn4l.HelpText
+HEX CASTLE NUT, CLASS 4, LOW TYPE\nJIS B 1170
+HEX CASTLE NUT, CLASS 4, LOW TYPE\nJIS B 1170
+
+jss1h.Label
+jss1h
+jss1h
+
+jss1h.HelpText
+SMALL HEX SLOTTED NUT, CLASS 1, HIGH TYPE\nJIS B 1170
+SMALL HEX SLOTTED NUT, CLASS 1, HIGH TYPE\nJIS B 1170
+
+jss1l.Label
+jss1l
+jss1l
+
+jss1l.HelpText
+SMALL HEX SLOTTED NUT, CLASS 1, LOW TYPE\nJIS B 1170
+SMALL HEX SLOTTED NUT, CLASS 1, LOW TYPE\nJIS B 1170
+
+jcs2h.Label
+jcs2h
+jcs2h
+
+jcs2h.HelpText
+SMALL HEX CASTLE NUT, CLASS 2, HIGH TYPE\nJIS B 1170
+SMALL HEX CASTLE NUT, CLASS 2, HIGH TYPE\nJIS B 1170
+
+jcs2l.Label
+jcs2l
+jcs2l
+
+jcs2l.HelpText
+SMALL HEX CASTLE NUT, CLASS 2, LOW TYPE\nJIS B 1170
+SMALL HEX CASTLE NUT, CLASS 2, LOW TYPE\nJIS B 1170
+
+jss3h.Label
+jss3h
+jss3h
+
+jss3h.HelpText
+SMALL HEX SLOTTED NUT, CLASS 3, HIGH TYPE\nJIS B 1170
+SMALL HEX SLOTTED NUT, CLASS 3, HIGH TYPE\nJIS B 1170
+
+jss3l.Label
+jss3l
+jss3l
+
+jss3l.HelpText
+SMALL HEX SLOTTED NUT, CLASS 3, LOW TYPE\nJIS B 1170
+SMALL HEX SLOTTED NUT, CLASS 3, LOW TYPE\nJIS B 1170
+
+jcs4h.Label
+jcs4h
+jcs4h
+
+jcs4h.HelpText
+SMALL HEX CASTLE NUT, CLASS 4, HIGH TYPE\nJIS B 1170
+SMALL HEX CASTLE NUT, CLASS 4, HIGH TYPE\nJIS B 1170
+
+jcs4l.Label
+jcs4l
+jcs4l
+
+jcs4l.HelpText
+SMALL HEX CASTLE NUT, CLASS 4, LOW TYPE\nJIS B 1170
+SMALL HEX CASTLE NUT, CLASS 4, LOW TYPE\nJIS B 1170
+
+jnwc1.Label
+jnwc1
+jnwc1
+
+jnwc1.HelpText
+WING NUT, CLASS 1\nJIS B 1185
+WING NUT, CLASS 1\nJIS B 1185
+
+jnwc2.Label
+jnwc2
+jnwc2
+
+jnwc2.HelpText
+WING NUT, CLASS 2\nJIS B 1185
+WING NUT, CLASS 2\nJIS B 1185
+
+jnwc3.Label
+jnwc3
+jnwc3
+
+jnwc3.HelpText
+WING NUT, CLASS 3\nJIS B 1185
+WING NUT, CLASS 3\nJIS B 1185
+
+jeyen.Label
+jeyen
+jeyen
+
+jeyen.HelpText
+EYE NUT\nJIS B 1169
+EYE NUT\nJIS B 1169
+
+jppuc.Label
+jppuc
+jppuc
+
+jppuc.HelpText
+PARALLEL PIN, CLASS A\nJIS B 1354\nISO 2338 - 1986
+PARALLEL PIN, CLASS A\nJIS B 1354\nISO 2338 - 1986
+
+jpphd.Label
+jpphd
+jpphd
+
+jpphd.HelpText
+PARALLEL PIN, HARDENED (DOWEL PIN)\NJIS B 1355\nISO 8734 - 1987
+PARALLEL PIN, HARDENED (DOWEL PIN)\NJIS B 1355\nISO 8734 - 1987
+
+jpput.Label
+jpput
+jpput
+
+jpput.HelpText
+PARALLEL PIN WITH INTERNAL THREAD\nCLASS 1\nJIS B 1359\nISO 8733 - 1986
+PARALLEL PIN WITH INTERNAL THREAD\nCLASS 1\nJIS B 1359\nISO 8733 - 1986
+
+jppht.Label
+jppht
+jppht
+
+jppht.HelpText
+PARALLEL PINS WITH INTERNAL THREAD\nCLASS 2B\nJIS B 1359\nISO 8735 - 1986
+PARALLEL PINS WITH INTERNAL THREAD\nCLASS 2B\nJIS B 1359\nISO 8735 - 1986
+
+jpsss.Label
+jpsss
+jpsss
+
+jpsss.HelpText
+PARALLEL PIN, HARDENED (DOWEL PIN)\nJIS B 2808
+PARALLEL PIN, HARDENED (DOWEL PIN)\nJIS B 2808
+
+HK-SHCS-UNRC.Label
+HK-SHCS-UNRC
+HK-SHCS-UNRC
+
+HK-SHCS-UNRC.HelpText
+Holo-Krome Socket Head Cap Screw-Coarse Thread (UNRC) - 1960 Series
+Holo-Krome Socket Head Cap Screw-Coarse Thread (UNRC) - 1960 Series
+
+HK-SHCS-UNRF.Label
+HK-SHCS-UNRF
+HK-SHCS-UNRF
+
+HK-SHCS-UNRF.HelpText
+Holo-Krome Socket Head Cap Screw-Fine Thread (UNRF) - 1960 Series
+Holo-Krome Socket Head Cap Screw-Fine Thread (UNRF) - 1960 Series
+
+HK-FHSCS-UNRC.Label
+HK-FHSCS-UNRC
+HK-FHSCS-UNRC
+
+HK-FHSCS-UNRC.HelpText
+Holo-Krome Flat Head Socket Cap Screw-Coarse Thread (UNRC)
+Holo-Krome Flat Head Socket Cap Screw-Coarse Thread (UNRC)
+
+HK-FHSCS-UNRF.Label
+HK-FHSCS-UNRF
+HK-FHSCS-UNRF
+
+HK-FHSCS-UNRF.HelpText
+Holo-Krome Flat Head Socket Cap Screw-Fine Thread (UNRF)
+Holo-Krome Flat Head Socket Cap Screw-Fine Thread (UNRF)
+
+HK-BHSCS-UNRC.Label
+HK-BHSCS-UNRC
+HK-BHSCS-UNRC
+
+HK-BHSCS-UNRC.HelpText
+Holo-Krome Button Head Socket Cap Screw-Coarse Thread (UNRC)
+Holo-Krome Button Head Socket Cap Screw-Coarse Thread (UNRC)
+
+HK-BHSCS-UNRF.Label
+HK-BHSCS-UNRF
+HK-BHSCS-UNRF
+
+HK-BHSCS-UNRF.HelpText
+Holo-Krome Button Head Socket Cap Screw-Fine Thread (UNRF)
+Holo-Krome Button Head Socket Cap Screw-Fine Thread (UNRF)
+
+HK-LHSCS-UNRC.Label
+HK-LHSCS-UNRC
+HK-LHSCS-UNRC
+
+HK-LHSCS-UNRC.HelpText
+Holo-Krome Low Head Socket Cap Screw-Coarse Thread (UNRC)
+Holo-Krome Low Head Socket Cap Screw-Coarse Thread (UNRC)
+
+HK-LHSCS-UNRF.Label
+HK-LHSCS-UNRF
+HK-LHSCS-UNRF
+
+HK-LHSCS-UNRF.HelpText
+Holo-Krome Low Head Socket Cap Screw-Fine Thread (UNRF)
+Holo-Krome Low Head Socket Cap Screw-Fine Thread (UNRF)
+
+DowelPin-Std.Label
+DowelPin-Std
+DowelPin-Std
+
+DowelPin-Std.HelpText
+HoloKrome - Dowel Pins-Standard ASME/ANSI B18.8.2
+HoloKrome - Dowel Pins-Standard ASME/ANSI B18.8.2
+
+DowelPin-OS.Label
+DowelPin-OS
+DowelPin-OS
+
+DowelPin-OS.HelpText
+HoloKrome - Dowel Pins-Oversize ASME/ANSI B18.8.2
+HoloKrome - Dowel Pins-Oversize ASME/ANSI B18.8.2
+

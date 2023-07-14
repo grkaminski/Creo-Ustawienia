@@ -1,0 +1,1468 @@
+﻿USER buw_prof_allg_Stringausgabe %0s
+%0s
+%0s
+
+USER buw_prof_lic_option_not_avail
+AFX license not available.
+AFX license not available.
+
+USER buw_prof_lizenz_ok
+AFX started successfully.
+AFX started successfully.
+
+USER buw_prof_lizenz_ok_rand
+AFX is for PTC use only. 
+AFX is for PTC use only.
+
+USER buw_prof_demo_laufzeit %0s
+Your demo license of AFX will last %0s more days.
+Your demo license of AFX will last %0s more days.
+
+USER buw_prof_passwort
+Enter the password for AFX:
+Enter the password for AFX:
+
+USER buw_prof_passwort_falsch
+Enter the password for AFX:
+Enter the password for AFX:
+
+USER buw_prof_lizenz_passwort_falsch
+Password incorrect. Please contact PTC.
+Password incorrect. Please contact PTC.
+
+USER buw_prof_license_old
+AFX demo license is no longer valid. Please contact PTC for a new one.
+AFX demo license is no longer valid. Please contact PTC for a new one.
+
+USER buw_prof_time_wrong
+Your system date has been changed. Please check.
+Your system date has been changed. Please check.
+
+USER buw_prof_udfeinbaufehler
+UDF cannot be placed. Check DEFAULT_EXT_REF_SCOPE (ALL!) parameter.
+UDF cannot be placed. Check DEFAULT_EXT_REF_SCOPE (ALL!) parameter.
+
+USER buw_prof_benutzerabbruch
+Input canceled.
+Input canceled.
+
+USER buw_prof_rayfehler
+Ray intersection failure.
+Ray intersection failure.
+
+USER buw_prof_einbau_str_error
+ERROR in: %0s
+ERROR in: %0s
+
+USER buw_prof_kopierfehler
+An error occurred while copying data.
+An error occurred while copying data.
+
+USER buw_prof_ladefehler
+An error occurred while loading the model.
+An error occurred while loading the model.
+
+USER buw_prof_modelitemfehler
+Model item not found.
+Model item not found.
+
+USER buw_prof_referenzfehler
+Reference not found.
+Reference not found.
+
+USER buw_prof_referenzfehler_ref_name
+Reference not found: %0s
+Reference not found: %0s
+
+USER buw_prof_einbaufehler
+Assembly error.
+Assembly error.
+
+USER buw_prof_falsche_profilreferenzen
+References for the profile assembly are invalid.
+References for the profile assembly are invalid.
+
+USER buw_prof_dateifehler
+File open error.
+File open error.
+
+USER buw_prof_kein_elementverzeichnis_listing
+No element directory listing file.
+No element directory listing file.
+
+USER buw_prof_tmpdateifehler
+Temporary file open error.
+Temporary file open error.
+
+USER buw_prof_lizenzzahl
+Maximum number of %0s licenses reached.
+Maximum number of %0s licenses reached.
+
+USER buw_prof_lesefehler
+Read data error.
+Read data error.
+
+USER buw_prof_fertig
+Done
+Done
+
+USER buw_prof_kein_textpfad
+Text path not found.
+Text path not found.
+
+USER buw_prof_kein_modell
+Valid model not found.
+Valid model not found.
+
+USER buw_prof_parameter_fehler
+Parameter error.
+Parameter error.
+
+USER buw_prof_kein_profil
+Profile not found.
+Profile not found.
+
+USER buw_prof_keine_profil_eop_datei
+Profile end option file not found.
+Profile end option file not found.
+
+USER buw_prof_keine_baugruppe
+No assembly found.
+No assembly found.
+
+USER buw_prof_proj_unter_bg_sel
+Select the subassembly as the current project assembly.
+Select the subassembly as the current project assembly.
+
+USER buw_prof_proj_haupt_bg_sel
+Select project assembly (Cancel=current assembly).
+Select project assembly (Cancel=current assembly).
+
+USER buw_prof_unter_bg_sel
+Select dependent project subassemblies.
+Select dependent project subassemblies.
+
+USER buw_prof_bg_bereits_projektbg
+Project already defined. Overwrite (y/n)?
+Project already defined. Overwrite (y/n)?
+
+USER buw_prof_unterbginstanz_selektieren
+Select an existing project assembly subassembly.
+Select an existing project assembly subassembly.
+
+USER buw_prof_einbau_bg
+Select subassembly for assembling component (Cancel=current assembly).
+Select subassembly for assembling component (Cancel=current assembly).
+
+USER buw_prof_sel_nicht_aus_proj_asm
+Selection not from current project assembly.
+Selection not from current project assembly.
+
+USER buw_prof_projekt_bereits_definiert
+Project already defined.
+Project already defined.
+
+USER buw_prof_projekt_kuerzel
+Enter project shortcut:
+Enter project shortcut:
+
+USER buw_prof_projekt_kuerzel_zu_lang
+Project shortcut too long (>25 characters).
+Project shortcut too long (>25 characters).
+
+USER buw_prof_noch_kein_projekt_definiert
+No project defined (define project first).
+No project defined (define project first).
+
+USER buw_prof_kein_verzeichnis_listing
+No directory listing possible.
+No directory listing possible.
+
+USER buw_prof_problem_beim_umbenennen
+Renaming problems: Check model names and rename.
+Renaming problems: Check model names and rename.
+
+USER buw_prof_tcltk_fehler
+Tcl/Tk problems.
+Tcl/Tk problems.
+
+%CP USER buw_prof_punkt1_selektieren
+Select first point for profile assembly.
+Select first point for profile assembly.
+
+%CP USER buw_prof_punkt2_selektieren
+Select second point for profile assembly.
+Select second point for profile assembly.
+
+USER buw_prof_ueberlapp_profil_selektieren
+Select first overlapping profile.
+Select first overlapping profile.
+
+USER buw_prof_nicht_profilsystem_einbau
+AFX not used to assemble profile. Action canceled.
+AFX not used to assemble profile. Action canceled.
+
+USER buw_prof_profil_bereits_knoten
+Profile end has already defined joint. Overwrite (y/n)? 
+Profile end has already defined joint. Overwrite (y/n)?
+
+USER buw_prof_anstoss_profil2_selektieren
+Select second adjoining profile.
+Select second adjoining profile.
+
+USER buw_prof_knoten_fehler
+Joint creation error.
+Joint creation error.
+
+USER buw_prof_profil1_selektieren
+Select first miter joint profile.
+Select first miter joint profile.
+
+%CP USER buw_prof_anstoss_flaeche_selektieren
+Select profile attachment surface.
+Select profile attachment surface.
+
+USER buw_prof_ende_offset
+Enter profile end offset:
+Enter profile end offset:
+
+USER buw_prof_profil2_selektieren
+Select second miter joint profile.
+Select second miter joint profile.
+
+%CP USER buw_prof_ausschneid_prof_selektieren
+Select model to cut.
+Select model to cut.
+
+%CP USER buw_prof_auschneid_ref_profil_selektieren
+Select reference profile for cut.
+Select reference profile for cut.
+
+USER buw_prof_ausschneid_udf_selektieren
+Select UDF profile cutout to delete.
+Select UDF profile cutout to delete.
+
+%CP USER buw_prof_trim_prof_selektieren
+Select model to trim.
+Select model to trim.
+
+%CP USER buw_prof_trim_ebene_selektieren
+Select reference plane for trim operation.
+Select reference plane for trim operation.
+
+USER buw_prof_trim_udf_selektieren
+Select trim UDF to delete.
+Select trim UDF to delete.
+
+USER buw_prof_gehrung_fehler
+Miter joint creation error.
+Miter joint creation error.
+
+USER buw_prof_anstoss_profil1_selektieren
+Select first adjoining profile.
+Select first adjoining profile.
+
+USER buw_prof_gleich_profil_selektieren
+Select second unchanged profile.
+Select second unchanged profile.
+
+USER buw_prof_t_stoss_fehler
+T-joint creation error.
+T-joint creation error.
+
+USER buw_prof_loesch_knoten_profilende_selektieren
+Select profile end joint to delete.
+Select profile end joint to delete.
+
+%CP USER buw_prof_select_existing_joint
+Select existing joint.
+Select existing joint.
+
+USER buw_prof_kein_knoten
+No profile end joint defined.
+No profile end joint defined.
+
+USER buw_prof_kein_profilverzeichnis_listing
+No profile directory listing possible.
+No profile directory listing possible.
+
+USER buw_prof_profilinstanz_selektieren
+Select existing current project assembly profile.
+Select existing current project assembly profile.
+
+%CP USER buw_prof_komponenteninstanz_selektieren
+Select existing current project assembly component.
+Select existing current project assembly component.
+
+USER buw_prof_profil_selektieren
+Select current project assembly profile.
+Select current project assembly profile.
+
+%CP USER buw_prof_kurve_selektieren
+Select profile assembly curve.
+Select profile assembly curve.
+
+%CP USER buw_prof_start_kurve_selektieren
+Select bend profile start curve.
+Select bend profile start curve.
+
+USER buw_prof_end_kurve_selektieren
+Select bend profile end curve.
+Select bend profile end curve.
+
+USER buw_prof_highlite_start_kurve_selekt
+Select highlighted bend profile start curve.
+Select highlighted bend profile start curve.
+
+%CP USER buw_prof_orient_ebene_selektieren
+Select plane to orient profile.
+Select plane to orient profile.
+
+USER buw_prof_entity_selektieren
+Select geometry element of a profile.
+Select geometry element of a profile.
+
+%CP USER buw_prof_ausricht_entity_selekt
+Select geometry element of any part to align profile.
+Select geometry element of any part to align profile.
+
+USER buw_prof_profil_mass_selektieren
+Select a profile or a dimension.
+Select a profile or a dimension.
+
+USER buw_prof_proj_ubg_mass_selektieren
+Select a project subassembly or a dimension.
+Select a project subassembly or a dimension.
+
+USER buw_prof_proj_ubg_selektieren
+Select a project subassembly.
+Select a project subassembly.
+
+USER buw_prof_wert_eingabe
+Enter new value:
+Enter new value:
+
+USER buw_prof_dreh_profil_selektieren
+Select profile to rotate.
+Select profile to rotate.
+
+USER buw_prof_profil_rot_winkel
+Enter rotation angle:
+Enter rotation angle:
+
+USER buw_prof_austausch_profil_selektieren
+Select profile to replace.
+Select profile to replace.
+
+USER buw_prof_austausch_baugruppe_selektieren
+Select subassembly to replace.
+Select subassembly to replace.
+
+%CP USER buw_prof_austausch_komponente_selektieren
+Select component to replace.
+Select component to replace.
+
+USER buw_prof_kopie_sub_komponente_selektieren
+Select subcomponents to be copied.
+Select subcomponents to be copied.
+
+USER buw_prof_kopiename %0s
+Enter copy name (default: %0s):
+Enter copy name (default: %0s):
+
+USER buw_prof_ubg_name %0s
+Enter subassembly name (default: %0s):
+Enter subassembly name (default: %0s):
+
+USER buw_prof_aender_profil_ende_selektieren
+Select profile end to modify.
+Select profile end to modify.
+
+USER buw_prof_komponenten_fuer_simprep
+Select components for simplified representation.
+Select components for simplified representation.
+
+USER buw_prof_comp_ref_achse_select
+Select axis as component reference: %0s 
+Select axis as component reference: %0s
+
+USER buw_prof_comp_ref_face_select
+Select face as component reference: %0s 
+Select face as component reference: %0s
+
+USER buw_prof_comp_ref_faceaxis_sel
+Select axis or face as component reference: %0s
+Select axis or face as component reference: %0s
+
+USER buw_prof_comp_ref_point_sel
+Select datum point as component reference: %0s
+Select datum point as component reference: %0s
+
+USER buw_prof_comp_ref_axispoint_sel
+Select axis or datum point as component reference: %0s
+Select axis or datum point as component reference: %0s
+
+USER buw_prof_comp_ref_curve_sel
+Select curve as component reference: %0s
+Select curve as component reference: %0s
+
+USER buw_prof_comp_ref_curve_edge_sel
+Select curve or edge as component reference: %0s
+Select curve or edge as component reference: %0s
+
+USER buw_prof_comp_ref_csys_sel
+Select coordinate system as component reference: %0s
+Select coordinate system as component reference: %0s
+
+USER buw_prof_comp_param_input
+Enter parameter value: %0s
+Enter parameter value: %0s
+
+USER buw_prof_loesch_comp_selektieren
+Select the connector or equipment component to delete.
+Select the connector or equipment component to delete.
+
+USER buw_prof_aender_comp_selektieren
+Select the connector or equipment component to modify.
+Select the connector or equipment component to modify.
+
+%CP USER buw_prof_exist_elem_sel
+Select connector or equipment element.
+Select connector or equipment element.
+
+USER buw_prof_elem_on_other_feat_datums
+Create element at all other points/axis of feature (y/n):
+Create element at all other points/axis of feature (y/n):
+
+USER buw_prof_change_elem_on_all_occurances
+Element has multiple occurrences. Modify all (y/n)?:
+Element has multiple occurrences. Modify all (y/n)?:
+
+USER buw_prof_copy_subcomps_automatically
+Element will be copied. Automatically copy subcomponents  (y/n)?:
+Element will be copied. Automatically copy subcomponents  (y/n)?:
+
+USER buw_prof_export_option
+Export trimmed profile ends(1), untrimmed profile ends(2), ref curve(3):
+Export trimmed profile ends(1), untrimmed profile ends(2), ref curve(3):
+
+USER buw_prof_section_modified_fix
+Profile section is modified. Do not fix(0), fix this instance(1), fix all(2):
+Profile section is modified. Do not fix(0), fix this instance(1), fix all(2):
+
+USER buw_prof_weld_group_enter_name
+Enter name of new weld group:
+Enter name of new weld group:
+
+USER buw_prof_weld_group_exist_enter_name
+A weld group with this name already exists. Enter new name:
+A weld group with this name already exists. Enter new name:
+
+USER buw_prof_selekt_weld_group_to_add_member
+Select component of weld group to which to add members.
+Select component of weld group to which to add members.
+
+USER buw_prof_not_weld_group_member
+The selected component is not a member of this weld group.
+The selected component is not a member of this weld group.
+
+USER buw_prof_selekt_weld_group_members_to_add_to_def
+Select components to add to weld group.
+Select components to add to weld group.
+
+USER buw_prof_selekt_weld_group_member_reuse_instance
+Select highlighted component to reuse in the weld group.
+Select highlighted component to reuse in the weld group.
+
+USER buw_prof_selekt_weld_group_member_reuse_instance_different
+Selected component is not same as instance at definition location. Reselect.
+Selected component is not same as instance at definition location. Reselect.
+
+USER buw_prof_selekt_weld_group_to_remove_member
+Select a weld group from which to remove members.
+Select a weld group from which to remove members.
+
+USER buw_prof_selekt_weld_group_members_to_remove_from_def
+Select components to remove from weld group.
+Select components to remove from weld group.
+
+USER buw_prof_not_weld_group_def_member
+The selected component is not a member of this weld group.
+The selected component is not a member of this weld group.
+
+USER buw_prof_selekt_weld_group_to_reuse
+Select a weld group to define for reuse.
+Select a weld group to define for reuse.
+
+USER buw_prof_selekt_weld_group_member_delete_reuse
+Delete the reused instance from weld group.
+Delete the reused instance from weld group.
+
+USER buw_prof_selekt_weld_group_instance_member_delete
+Select component of weld group instance to be deleted.
+Select component of weld group instance to be deleted.
+
+USER buw_prof_selekt_weld_group_no_instance_member
+The selected component is not reused in the weld group.
+The selected component is not reused in the weld group.
+
+USER buw_prof_selekt_weld_group_member_show
+Select the weld group to display.
+Select the weld group to display.
+
+USER buw_prof_selekt_weld_group_delete
+Select the weld group to delete.
+Select the weld group to delete.
+
+USER buw_prof_weld_group_delete_accept
+Do you really want to delete this weld group (y/n)?
+Do you really want to delete this weld group (y/n)?
+
+USER buw_prof_keine_zeichnung
+No drawing found.
+No drawing found.
+
+USER buw_prof_select_autodim_profile_view
+Select the profile view to auto dimension.
+Select the profile view to auto dimension.
+
+USER buw_prof_scale_for_detail_views_enter
+Enter detail view scale:
+Enter detail view scale:
+
+USER buw_prof_mdl_for_detail_views_sel
+Select detail view model.
+Select detail view model.
+
+USER buw_profil_view_not_found
+View name not found in model.
+View name not found in model.
+
+USER buw_prof_pick_view_position
+Select detail view position on drawing.
+Select detail view position on drawing.
+
+USER buw_prof_mdl_for_drawing_save_sel
+Select drawing model to save.
+Select drawing model to save.
+
+USER buw_prof_pick_stocklength_table_position
+Select the stock length table position.
+Select the stock length table position.
+
+USER buw_prof_about_efx
+Creo Advanced Framework Extension 4.0 %0s
+Creo Advanced Framework Extension 4.0 %0s
+
+USER buw_prof_enter_view_counting_letter
+Enter letter to label detail view. 
+Enter letter to label detail view.
+
+USER buw_prof_enter_view_scale
+Enter detail view scale [default 1:20].
+Enter detail view scale [default 1:20].
+
+USER buw_prof_select_assembly_for_detail_views
+Select assembly to create detail views.
+Select assembly to create detail views.
+
+USER buw_prof_import_ref_csys_selektieren
+Select import data reference coordinate system.
+Select import data reference coordinate system.
+
+USER buw_prof_import_errors_appeared
+Please check ambiguous or problematic imported data. Continue (y/n)?
+Please check ambiguous or problematic imported data. Continue (y/n)?
+
+USER buw_prof_delete_element_selektieren
+Select AFX element to delete.
+Select AFX element to delete.
+
+USER buw_prof_delete_elem_on_all_occurrences
+Delete element instances(y/n)?
+Delete element instances(y/n)?
+
+USER buw_prof_copy_element_before_change
+Copy element before changing it (y/n)?
+Copy element before changing it (y/n)?
+
+USER buw_prof_kopie_sub_komponente_selektieren_presel
+Select subcomponents to be copied (Middle-click = automatic preselection).
+Select subcomponents to be copied (Middle-click = automatic preselection).
+
+USER buw_prof_select_comps_include_pos_nr
+Select components to include in item number generation.
+Select components to include in item number generation.
+
+USER buw_prof_select_comps_exclude_pos_nr
+Select components to exclude from item number generation.
+Select components to exclude from item number generation.
+
+USER buw_prof_select_note_component
+Select component to place component's item number note.
+Select component to place component's item number note.
+
+USER buw_prof_select_note_position
+Select position for the item number note.
+Select position for the item number note.
+
+USER buw_prof_export_staad_with_offset
+Export member offset information (y/n)?
+Export member offset information (y/n)?
+
+%CP USER buw_prof_replace_surf_selektieren
+Select the surface to replace.
+Select the surface to replace.
+
+USER buw_prof_replace_surface_udf_selektieren
+Select "Replace Surface" user-defined feature to be deleted.
+Select "Replace Surface" user-defined feature to be deleted.
+
+%CP USER buw_prof_bohrmuster_platzierungsfl_selektieren
+Select the placement plane for point pattern.
+Select the placement plane for point pattern.
+
+USER buw_prof_bohrmuster_y_ref_selektieren_opt
+Optionally select plane to define y-direction (Cancel for symmetric pattern).
+Optionally select plane to define y-direction (Cancel for symmetric pattern).
+
+%CP USER buw_prof_bohrmuster_y_ref_selektieren
+Select reference plane to define the y-direction of the pattern.
+Select reference plane to define the y-direction of the pattern.
+
+%CP USER buw_prof_bohrmuster_x_ref_selektieren
+Select reference plane to define the x-direction of the pattern.
+Select reference plane to define the x-direction of the pattern.
+
+USER buw_prof_press_ok_to_continue
+Press OK to continue pattern creation.
+Press OK to continue pattern creation.
+
+USER buw_prof_bohrmuster_weitere_platzierungsfl_selektieren
+Select additional placement planes for point pattern.
+Select additional placement planes for point pattern.
+
+%CP USER buw_prof_bohrmuster_muster_selektieren
+Select the point pattern.
+Select the point pattern.
+
+USER buw_prof_bohrmuster_weitere_muster_selektieren
+Select additional point pattern to apply modifications.
+Select additional point pattern to apply modifications.
+
+USER buw_prof_drawing_create_error
+An error occurred while creating the drawing: %0s
+An error occurred while creating the drawing: %0s
+
+USER buw_prof_select_autodim_view
+Select the part view to auto dimension.
+Select the part view to auto dimension.
+
+buw_prof_select_stocklength_asm_view
+Select the assembly view to create a stock length table.
+Select the assembly view to create a stock length table.
+
+USER buw_prof_select_stocklength_asm_view
+Select the assembly view to create a stock length table.
+Select the assembly view to create a stock length table.
+
+USER buw_prof_enter_number_table_columns
+Enter the number of table columns:
+Enter the number of table columns:
+
+USER buw_prof_select_cutlist_asm_view
+Select the assembly view to create a cut list table.
+Select the assembly view to create a cut list table.
+
+USER buw_prof_seperate_tables_for_sections
+Create a separate table for each section size (y/n)?
+Create a separate table for each section size (y/n)?
+
+USER buw_prof_pick_cutlist_table_position
+Select the cut list table position.
+Select the cut list table position.
+
+USER buw_prof_sdnf_section_select
+Section not found: %0s. Choose a section from the library.
+Section not found: %0s. Choose a section from the library.
+
+USER buw_prof_update_sdnf_section_translation_dictionary
+Update SDNF section translation dictionary (y/n)?
+Update SDNF section translation dictionary (y/n)?
+
+USER buw_prof_overwrite_existing_item_numbers
+Overwrite existing item numbers (y/n)?
+Overwrite existing item numbers (y/n)?
+
+%CP USER buw_prof_bohrmuster_hole_end_plane_selektieren
+Select the end plane for the hole in the point pattern.
+Select the end plane for the hole in the point pattern.
+
+%CP USER buw_prof_normal_flaeche_selektieren
+Select a surface to set the intersection line and the normal direction.
+Select a surface to set the intersection line and the normal direction.
+
+USER buw_prof_select_auto_udf_ref_csys_define
+Select a coordinate system to apply automatic UDF definition.
+Select a coordinate system to apply automatic UDF definition.
+
+USER buw_prof_auto_udf_ok_to_continue
+Click OK to enable automatic UDF definition on coordinate system.
+Click OK to enable automatic UDF definition on coordinate system.
+
+USER buw_prof_select_auto_udf_ref_csys_delete
+Select a coordinate system to remove automatic UDF definition.
+Select a coordinate system to remove automatic UDF definition.
+
+USER buw_prof_copy_comp_include_select
+Select components on model to include in copy process.
+Select components on model to include in copy process.
+
+USER buw_prof_copy_comp_exclude_select
+Select components on model to exclude from copy process.
+Select components on model to exclude from copy process.
+
+USER buw_prof_delete_warning
+Delete selected framework elements?
+Delete selected framework elements?
+
+USER buw_prof_delete_children_warning
+Selected framework elements have children. Delete anyway?
+Selected framework elements have children! Delete anyway?
+
+USER buw_prof_exist_prof_different_length_warning
+Existing profile has different length than curve. Assemble anyway?
+Existing profile has different length than curve. Assemble anyway?
+
+USER buw_prof_exist_subasm_different_length_warning
+Existing project subassembly has different length than curve. Assemble anyway?
+Existing project subassembly has different length than curve! Assemble anyway?
+
+USER buw_prof_really_replace_profile
+Do you really want to replace the profile?
+Do you really want to replace profile?
+
+USER buw_prof_really_move_profile
+Do you really want to move the profile?
+Do you really want to move profile?
+
+USER buw_prof_edges_to_measure_select
+Select one or two points, edges or curves to measure
+Select one or two points, edges or curves to measure
+
+USER buw_prof_diameter_output %0s
+Diameter: %0s
+Diameter: %0s
+
+USER buw_prof_length_output %0s
+Length: %0s
+Length: %0s
+
+USER buw_prof_distance_output %0s
+Distance: %0s
+Distance: %0s
+
+USER buw_prof_action_not_possible_on_unite_mdl
+Action incomplete. Convert non-Creo to Creo models first.
+Action incomplete. Convert non-Creo to Creo models first.
+
+USER buw_prof_update_move_profiles_question %0s
+Position of %0s profiles requires an update. Do you want to update?
+Position of %0s profiles requires an update. Do you want to update?
+
+USER buw_prof_orient_plane_invalid_search_new
+Orientation plane invalid. Searching for valid orientation plane.
+Orientation plane invalid. Searching for valid orientation plane.
+
+USER buw_prof_bore_end_plane_not_found
+Bore end plane not found. Select manually.
+Bore end plane not found. Select manually.
+
+mainmenutext
+Creo Advanced Framework Extension 4.0 
+Creo Advanced Framework Extension 4.0 
+
+lizensmenutext
+Licensing
+Licensing
+
+labeltext01
+Get AFX license
+Get AFX license
+
+hilfetext01
+Get AFX floating option license
+Get AFX floating option license
+
+labeltext02
+Release AFX license
+Release AFX license
+
+hilfetext02
+Release AFX floating option license
+Release AFX floating option license
+
+projektmenutext
+Project
+Project
+
+labeltext13
+Create new project
+Create new project
+
+hilfetext13
+Define new AFX assembly project
+Define new AFX assembly project
+
+labeltext14
+Rename project
+Rename project
+
+hilfetext14
+Rename AFX project
+Rename AFX project
+
+profil_export_menutext
+Export
+Export
+
+labeltext15
+Export DSTV profile
+Export DSTV profile
+
+hilfetext15
+Use Produktschnittstelle Stahlbau (PSS) format for profile export
+Use Produktschnittstelle Stahlbau (PSS) format for profile export
+
+labeltext18
+Export SDNF profile
+Export SDNF profile
+
+hilfetext18
+Use SDNF format to export profile
+Use SDNF format to export profile
+
+profil_import_menutext
+Import
+Import
+
+labeltext19
+Import SDNF profile
+Import SDNF profile
+
+hilfetext19
+Use SDNF format to import profile
+Use SDNF format to import profile
+
+labeltext16
+Define ordering info
+Define ordering info
+
+hilfetext16
+Define aluminum beam ordering info
+Define aluminum beam ordering info
+
+labeltext17
+Run Pro/E trail file
+Run Pro/E Trail File
+
+hilfetext17
+Runs Pro/E trail file
+Runs Pro/E Trail File
+
+labeltext27
+Profiles
+Profiles
+
+hilfetext27
+Profile commands
+Profile commands
+
+labeltext37
+Joints
+Joints
+
+hilfetext37
+Profile joint commands
+Profile joint commands
+
+labeltext56
+Connector Elements
+Connector Elements
+
+hilfetext56
+Connector element commands
+Connector element commands
+
+labeltext66
+Equipment Elements
+Equipment Elements
+
+hilfetext66
+Equipment element commands
+Equipment element commands
+
+labeltext70
+Simplified Representations
+Simplified Representations
+
+hilfetext70
+Simplified representation commands
+Simplified representation commands
+
+labeltext86
+Project Subassemblies
+Project Subassemblies
+
+hilfetext86
+Subassemblies commands
+Subassemblies commands
+
+info_menutext
+Info
+Info
+
+labeltext91
+Open online help
+Open online help
+
+hilfetext91
+Open AFX online help in a web browser
+Open AFX online help in a web browser
+
+labeltext92
+Edit installation configuration 
+Edit installation configuration 
+
+hilfetext92
+Edit AFX installation configuration parameters
+Edit AFX installation configuration parameters
+
+labeltext93
+Edit configuration session
+Edit configuration session
+
+hilfetext93
+Edit AFX session configuration parameters
+Edit AFX session configuration parameters
+
+labeltext94
+About AFX
+About AFX
+
+hilfetext94
+Show current AFX date code information
+Show current AFX date code information
+
+labeltext95
+Record or play an AFX trail file
+Record or play an AFX trail file
+
+hilfetext95
+Record and play an AFX trail file
+Record and play an AFX trail file
+
+labeltext96
+Component Info
+Component Info
+
+hilfetext96
+Component Info
+Component Info
+
+labeltext100
+Weld Groups
+Weld Groups
+
+hilfetext100
+Weld group commands
+Weld group commands
+
+zeichnung_menutext
+Drawing Tools
+Drawing Tools
+
+labeltext111
+Auto dimension profile
+Auto dimension profile
+
+hilfetext111
+Automatically create profile dimensions
+Automatically create profile dimensions
+
+labeltext112
+Create component views
+Create component views
+
+hilfetext112
+Creates selected component views
+Creates selected component views
+
+labeltext113
+Save all component drawings
+Save all component drawings
+
+hilfetext113
+Saves all component drawings in session
+Saves all component drawings in session
+
+labeltext114
+Save selected component drawings
+Save selected component drawings
+
+hilfetext114
+Save selected component drawings in session
+Save selected component drawings in session
+
+labeltext115
+Create a stock length table
+Create a stock length table
+
+hilfetext115
+Create a stock length table on drawing
+Create a stock length table on drawing
+
+labeltext117
+Create item number note
+Create item number note
+
+hilfetext117
+Creates item number note
+Creates an item number note
+
+labeltext118
+Create cut list
+Create a cut list
+
+hilfetext118
+Creates an optimized cut list
+Creates an optimized cut list
+
+labeltext119
+Create component drawings
+Create component drawings
+
+hilfetext119
+Create drawings for subcomponents of current assembly
+Create drawings of the subcomponents in the current assembly
+
+labeltext1110
+Dimension the part automatically
+Dimension the part automatically
+
+hilfetext1110
+Automatically creates part dimensioning
+Automatically creates part dimensioning 
+
+labeltext130
+Delete
+Delete
+
+hilfetext130
+Delete AFX element
+Delete AFX element
+
+buw_prof_sl_menu_screws
+Screws
+Screws
+
+buw_prof_sl_menu_pin
+Dowel Pins
+Dowel Pins
+
+labeltext_tetra1
+... show Tetra-Pak beam dimensions
+... show Tetra-Pak beam dimensions
+
+hilfetext_tetra1
+Show Tetra-Pak beam dimensions
+Show Tetra-Pak beam dimensions
+
+labeltext_tetra2
+... update Tetra-Pak beam layers
+... update Tetra-Pak beam layers
+
+hilfetext_tetra2
+Update Tetra-Pak beam drawing layers
+Update Tetra-Pak beam drawing layers
+
+labeltext191
+STAAD profile export
+STAAD profile export
+
+hilfetext191
+Exports profiles in STAAD format
+Exports profiles in STAAD format
+
+labeltext192
+Project Parameters
+Project Parameters
+
+hilfetext192
+Project parameter commands
+Project parameter commands
+
+labeltext140
+Automatic UDFs
+Automatic UDFs
+
+hilfetext140
+Automatic-UDFs commands
+Automatic-UDFs commands
+
+efx_popupmenu_text
+Framework
+Framework
+
+efx_popupmenu_helptext
+Framework specific commands
+Framework specific commands
+
+labeltext_connector_new
+New Connector Element
+New Connector Element
+
+hilfetext_connector_new
+Create a new connector element
+Create a new connector element
+
+labeltext_equipment_new
+New Equipment Element
+New Equipment Element
+
+hilfetext_equipment_new
+Create a new equipment element
+Create a new equipment element
+
+labeltext_component_reuse
+Reuse
+Reuse
+
+hilfetext_component_reuse
+Reuse connector or equipment element
+Reuse connector or equipment element
+
+labeltext_component_replace
+Replace
+Replace
+
+hilfetext_component_replace
+Replace connector or equipment element
+Replace connector or equipment element
+
+labeltext_component_modify
+Modify
+Modify
+
+hilfetext_component_modify
+Modify connector or equipment element
+Modify connector or equipment element
+
+labeltext_profile_new
+New Profile
+New Profile
+
+hilfetext_profile_new
+Create a new profile
+Create a new profile
+
+labeltext_profile_reuse
+Reuse
+Reuse
+
+hilfetext_profile_reuse
+Reuse profile
+Reuse profile
+
+labeltext_profile_replace
+Replace
+Replace
+
+hilfetext_profile_replace
+Replace profile
+Replace profile
+
+labeltext_profile_move
+Move
+Move
+
+hilfetext_profile_move
+Move profiles
+Move profiles
+
+labeltext_profile_modify_size
+Modify Size
+Modify Size
+
+hilfetext_profile_modify_size
+Modify profile size
+Modify profile size
+
+labeltext_profile_modify_type
+Modify Type
+Modify Type
+
+hilfetext_profile_modify_type
+Modify profile type
+Modify profile type
+
+labeltext_profile_modify_ends
+Modify Ends
+Modify Ends
+
+hilfetext_profile_modify_ends
+Modify profile ends
+Modify profile ends
+
+labeltext_profile_point_pattern
+Point Pattern
+Point Pattern
+
+hilfetext_profile_point_pattern
+Point Pattern commands
+Point Pattern commands
+
+labeltext_profile_joint_basic
+Basic Joints
+Basic Joints
+
+hilfetext_profile_joint_basic
+Basic joint commands
+Basic joint commands
+
+labeltext_profile_joint_advanced
+Advanced Joints
+Advanced Joints
+
+hilfetext_profile_joint_advanced
+Advanced joint commands
+Advanced joint commands
+
+labeltext_subasm_new
+New Project Subassembly
+New Project Subassembly
+
+hilfetext_subasm_new
+Create a new project subassembly
+Create a new project subassembly
+
+labeltext_subasm_reuse
+Reuse
+Reuse
+
+hilfetext_subasm_reuse
+Reuse project subassembly
+Reuse project subassembly
+
+labeltext_subasm_replace
+Replace
+Replace
+
+hilfetext_subasm_replace
+Replace project subassembly
+Replace project subassembly
+
+labeltext_subasm_move
+Move
+Move
+
+hilfetext_subasm_move
+Move project subassembly
+Move project subassembly
+
+USER buw_prof_abort_joint_def
+Cancel joint definition?
+Cancel joint definition?
+
+USER buw_prof_abort_joint_delete
+Cancel delete operation?
+Cancel delete operation?
+
+USER buw_prof_abort_pattern_def
+Cancel point pattern definition?
+Cancel point pattern definition?
+
+USER buw_prof_abort_prof_modification
+Cancel profile modification?
+Cancel profile modification?
+
+USER buw_prof_abort_profile_def
+Cancel profile definition?
+Cancel profile definition?
+
+USER buw_prof_abort_replace_def
+Cancel profile replacement?
+Cancel profile replacement?
+
+USER buw_prof_abort_subasm_def
+Cancel subassembly definition?
+Cancel subassembly definition?
+
+USER buw_prof_abort_subasm_replace_def
+Cancel subassembly replacement?
+Cancel subassembly replacement?
+
+USER buw_prof_delete_pattern
+Delete pattern?
+Delete pattern?
+
+USER buw_prof_discard_prev_modification
+Cancel the previous modification?
+Cancel the previous modification?
+
+USER buw_prof_error
+Error
+Error
+
+USER buw_prof_failed_feats_found
+There are new failed features. Do you want to continue?
+There are new failed features. Do you want to continue?
+
+USER buw_prof_filename_invalid
+The filename is invalid. Type a valid filename.
+The filename is invalid. Type a valid filename.
+
+USER buw_prof_joint_creation_error
+Joint could not be created. References invalid.
+Joint could not be created. References invalid.
+
+USER buw_prof_length_differs_copy
+There is a difference in length. Do you want to copy instead of reuse?
+There is a difference in length. Do you want to copy instead of reuse?
+
+USER buw_prof_length_differs_subasm
+Length differs. Operation will be cancelled.
+Length differs. Operation will be cancelled.
+
+USER buw_prof_overwrite_joint
+Overwrite existing Joint?
+Overwrite existing Joint?
+
+USER buw_prof_reref_children
+Selected joint has children. Delete operation cancelled.
+Selected joint has children. Delete operation cancelled.
+
+USER buw_prof_warning
+Warning
+Warning
+
+USER buw_prof_confirm_cancel
+Confirm Cancel
+Confirm Cancel
+
+%CP USER buw_prof_select_first_profile
+Select first profile.
+Select first profile.
+
+%CP USER buw_prof_select_second_profile
+Select second profile.
+Select second profile.
+
+%CP USER buw_prof_select_adjoining_profile
+Select adjoining profile.
+Select adjoining profile.
+
+%CP USER buw_prof_select_unchanged_profile
+Select unchanged profile.
+Select unchanged profile.
+
+%CP USER buw_prof_select_offset_csys
+Select offset coordinate system.
+Select offset coordinate system.
+
+%CP USER buw_prof_select_csys
+Select coordinate system.
+Select coordinate system.
+
+%CP USER buw_prof_select_offset_dtm_point
+Select offset datum point.
+Select offset datum point.
+
+%CP USER buw_prof_select_dtm_point
+Select datum point.
+Select datum point.
+
+%CP USER buw_prof_select_profiles
+Select one or more profiles.
+Select one or more profiles.
+
+%CP USER buw_prof_select_profile
+Select a profile.
+Select a profile.
+
+%CP USER buw_prof_select_project_subasm
+Select a project subassembly.
+Select a project subassembly.
+
+%CP USER buw_prof_select_project_subasm_ref
+Select a geometry element to align subassembly.
+Select a geometry element to align subassembly.
+
+%CP USER buw_prof_subasm_entity_select
+Select geometry element of selected subassembly.
+Select geometry element of selected subassembly.
+
+USER buw_prof_abort_move_def
+Cancel move definition?
+Cancel move definition?
+
+USER buw_prof_sel_no_prof
+The selected model is not a valid profile.
+The selected model is not a valid profile.
+
+USER buw_prof_sel_no_subasm
+The selected model is not a valid project subassembly.
+The selected model is not a valid project subassembly.
+
+USER buw_prof_sel_no_component
+The selected model is not a valid component.
+The selected model is not a valid component.
+
+USER buw_prof_no_rename_server
+Server connected. Use server functionality to rename project.
+Server connected. Use server functionality to rename project.
+
+EFX60_GUI_not_weldment_members
+Not a weld group member
+Not a weld group member
+
+EFX60_GUI_definition_place
+Definition location
+Definition location
+
+EFX60_GUI_reuse_place
+Reuse location
+Reuse location
+
+EFX60_GUI_efx_lite_limit
+AFX Lite: Limit of 20 AFX elements in assembly or session reached
+AFX Lite: Limit of 20 AFX elements in assembly or session reached
+
+EFX60_GUI_efx_material_default
+AFX default material
+AFX default material
+
+EFX80_GUI_load_project_subassembly
+Load Project Subassembly
+Load Project Subassembly
+
+EFX80_GUI_load_connector_equipment
+Load Connector or Equipment Element
+Load Connector or Equipment Element
+
+AFX40_GUI_load_profile
+Load Profile
+Load Profile
+
+AFX40_GUI_reused
+reused
+reused
+
+AFX40_GUI_AUTOMATIC
+automatic
+automatic
+
+AFX40_GUI_UDF
+UDF
+UDF
+

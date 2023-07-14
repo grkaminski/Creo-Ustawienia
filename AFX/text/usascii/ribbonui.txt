@@ -1,0 +1,112 @@
+﻿#######################################################################
+# Framework Ribbon texts, only for translation does not impact english
+# translation as it comes from *.rbn file. Only for other languages!
+
+efx_user_custom_page_1@asm_main_adb_cat.Label
+Framework
+Framework
+
+efx_user_custom_page_2@drw_main_adb_cat.Label
+Framework
+Framework
+
+efx_user_custom_page_3@act_asm_main_adb_cat.Label
+Framework
+Framework
+
+efx_user_custom_group_1.Label
+Project
+Project
+
+efx_user_custom_group_10.Label
+Component Views
+Component Views
+
+efx_user_custom_group_11.Label
+Drawing Tools
+Drawing Tools
+
+efx_user_custom_group_12.Label
+Info
+Info
+
+efx_user_custom_group_13.Label
+Project
+Project
+
+efx_user_custom_group_14.Label
+Profiles
+Profiles
+
+efx_user_custom_group_15.Label
+Utilities
+Utilities
+
+efx_user_custom_group_16.Label
+Drawing Tools
+Drawing Tools
+
+efx_user_custom_group_17.Label
+Info
+Info
+
+efx_user_custom_group_2.Label
+Profiles
+Profiles
+
+efx_user_custom_group_5.Label
+Utilities
+Utilities
+
+efx_user_custom_group_6.Label
+Drawing Tools
+Drawing Tools
+
+efx_user_custom_group_7.Label
+Info
+Info
+
+user_custom_group_126904160.Label
+Subassemblies
+Subassemblies
+
+user_custom_group_127072248.Label
+Joints
+Joints
+
+user_custom_group_127204648.Label
+Components
+Components
+
+user_custom_group_128009904.Label
+Subassemblies
+Subassemblies
+
+user_custom_group_128368008.Label
+Joints
+Joints
+
+user_custom_group_128438120.Label
+Components
+Components
+
+##############################
+# Intelligent Fastener Ribbon
+#
+
+sl_group_ifx.Label
+Intelligent Fastener
+Intelligent Fastener
+
+sl_group_ifxsl_cascade_screw.Label
+Screw
+Screw
+
+sl_group_ifxsl_cascade_pin.Label
+Dowel Pin
+Dowel Pin
+
+sl_group_ifxsl_cascade_instance_creator.Label
+Instance Creator
+Instance Creator
+

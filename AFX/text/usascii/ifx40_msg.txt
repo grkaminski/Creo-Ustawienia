@@ -1,0 +1,603 @@
+﻿ifx40_msg_allg_Stringausgabe %0s
+%0s
+%0s
+
+ifx40_msg_ifx
+Intelligent Fastener
+Intelligent Fastener
+
+%CWifx40_msg_eval_code %0d
+Your Intelligent Fastener license will last %0d more days.
+Your Intelligent Fastener license will last %0d more days.
+
+%CIifx40_msg_search_for_license %0s %1s
+Search for %0s-License from %1s (as defined in ../bin/license.ini).
+Search for %0s-License from %1s (as defined in ../bin/license.ini).
+
+%CWifx40_msg_no_valid_code
+Your license code is wrong.
+Your license code is wrong.
+
+%CIifx40_msg_valid_code
+Valid license for Intelligent Fastener found.
+Valid license for Intelligent Fastener found.
+
+ifx40_msg_not_supported
+Intelligent Fastener only supports Creo Parametric 1.0 up to 3.0.
+Intelligent Fastener only supports Creo Parametric 1.0 up to 3.0.
+
+ifx40_msg_enable_yes_warning1
+The option intelligent_fastener_enabled is set to YES.
+The option intelligent_fastener_enabled is set to YES.
+
+ifx40_msg_enable_yes_warning2
+To run the full version of Intelligent Fastener externally, set this option to NO.
+To run the full version of Intelligent Fastener externally, set this option to NO.
+
+%CWifx40_msg_license_lost
+License lost - Intelligent Fastener is disabled.
+License lost - Intelligent Fastener is disabled.
+
+%CIifx40_msg_license_regained
+License regained - Intelligent Fastener is activated.
+License regained - Intelligent Fastener is activated.
+
+%CEifx40_msg_benutzerabbruch
+Action aborted by user.
+Action aborted by user.
+
+%CEifx40_msg_err_load_helpfiles %0s
+Cannot load help file '%0s'.
+Cannot load help file '%0s'.
+
+%CPifx40_msg_del_elem_on_all_refs
+Element has multiple appearances. Delete all?
+Element has multiple appearances. Delete all?
+
+%CPifx40_msg_redef_all_elems
+Element has multiple appearances. Redefine all?
+Element has multiple appearances. Redefine all?
+
+%CEifx40_msg_edge_not_valid
+This edge isn't valid, select again.
+This edge isn't valid, select again.
+
+%CCifx40_msg_einbaufehler
+An error occurred while assembling.
+An error occurred while assembling.
+
+%CCifx40_msg_error_pin_hole
+Error creating dowel pin hole.
+Error creating dowel pin hole.
+
+%CCifx40_msg_error_asm_pin
+Error assemble dowel pin fastener.
+Error assemble dowel pin fastener.
+
+%CCifx40_msg_error_asm_screw
+Error assemble screw fastener.
+Error assemble screw fastener.
+
+%CCifx40_msg_error_asm_axis
+Error create axis.
+Error create axis.
+
+%CCifx40_msg_error_get_position
+Error get position.
+Error get position.
+
+%CCifx40_msg_error_change_dir
+Error change directory.
+Error change directory.
+
+%CEifx40_msg_error
+Error.
+Error.
+
+%CEifx40_msg_error_get_asm_ref
+Error in assembly references.
+Error in assembly references.
+
+%CIifx40_msg_ready
+Ready.
+Ready.
+
+%CEifx40_msg_asm_cut_ref
+Reference not valid.
+Reference not valid.
+
+%CPifx40_msg_mousepick_1_ref
+Select first position reference.
+Select first position reference.
+
+%CPifx40_msg_mousepick_2_ref
+Select second, non-parallel reference.
+Select second, non-parallel reference.
+
+%CEifx40_msg_file_not_found
+File not found.
+File not found.
+
+%CEifx40_msg_rayfehler
+Ray intersection failure.
+Ray intersection failure.
+
+%CPifx40_msg_sel_screw_pos
+Select the position of the screw fastener.
+Select the position of the screw fastener.
+
+ifx40_msg_screw
+Screw
+Screw
+
+ifx40_msg_washers
+Washers
+Washers
+
+ifx40_msg_nut
+Nut
+Nut
+
+ifx40_msg_insert
+Insert
+Insert
+
+%CPifx40_msg_sel_delete_pin
+Select dowel pin fastener that should be deleted.
+Select dowel pin fastener that should be deleted.
+
+%CPifx40_msg_sel_delete_screw
+Select screw fastener that should be deleted.
+Select screw fastener that should be deleted.
+
+%CPifx40_msg_sel_diameter_surface
+Select diameter surface.
+Select diameter surface.
+
+%CPifx40_msg_sel_pin
+Select dowel pin fastener.
+Select dowel pin fastener.
+
+%CPifx40_msg_sel_point_axis
+Select placement point/placement axis.
+Select placement point/placement axis.
+
+%CPifx40_msg_select_surface1
+Select screw head surface.
+Select screw head surface.
+
+%CPifx40_msg_select_surface2
+Select surface on the lower part (Thread/Nut).
+Select surface on the lower part (Thread/Nut).
+
+%CIifx40_msg_check_screws
+Check screw fasteners. This may take some time.
+Check screw fasteners. This may take some time.
+
+%CIifx40_msg_count_check_screws %0d
+%0d screw fasteners found.
+%0d screw fasteners found.
+
+%CIifx40_msg_check_connection %0d %1d
+Check screw fastener %0d of %1d
+Check screw fastener %0d of %1d
+
+%CIifx40_msg_check_screw_no_error
+No incorrect screw fasteners found.
+No incorrect screw fasteners found.
+
+%CWifx40_msg_no_connections_found
+No screw fasteners found.
+No screw fasteners found.
+
+%CIifx40_msg_connection_ok
+Fastener is OK
+Fastener is OK
+
+%CWifx40_msg_too_short_not_screwed_in
+too SHORT - not screwed in
+too SHORT - not screwed in
+
+%CWifx40_msg_too_short_ETSCR_MIN
+too SHORT - #ETSCR MIN not fulfilled
+too SHORT - #ETSCR MIN not fulfilled
+
+%CWifx40_msg_too_long_ETSCR_MAX
+too LONG - #ETSCR MAX is exceeded
+too LONG - #ETSCR MAX is exceeded
+
+%CWifx40_msg_too_long_exceeds_thickness
+too LONG - exceeds plate thickness
+too LONG - exceeds plate thickness
+
+%CWifx40_msg_too_long_thread_too_short
+too LONG - thread length is too short
+too LONG - thread length is too short
+
+%CWifx40_msg_too_long_thread_depth_exceeded
+too LONG - thread depth exceeded
+too LONG - thread depth exceeded
+
+%CWifx40_msg_too_short_not_connected_with_nut
+too SHORT - not connected with nut
+too SHORT - not connected with nut
+
+%CWifx40_msg_too_short_MUSCR_MIN
+too SHORT - #MUSCR MIN not fulfilled
+too SHORT - #MUSCR MIN not fulfilled
+
+%CWifx40_msg_too_long_MUSCR_MAX
+too LONG - #MUSCR MAX is exceeded
+too LONG - #MUSCR MAX is exceeded
+
+%CEifx40_msg_err_get_contyp
+Cannot find fastener type.
+Cannot find fastener type.
+
+%CWifx40_msg_no_std_found
+No standards found.
+No standards found.
+
+%CWifx40_msg_no_data_found
+No valid data found.
+No valid data found.
+
+ifx40_msg_redefine_screw
+Redefine screw fastener
+Redefine screw fastener
+
+ifx40_msg_redefine_pin
+Redefine dowel pin fastener
+Redefine dowel pin fastener
+
+%CPifx40_msg_sel_subasm
+Select subassembly. Reset to main assembly with cancel.
+Select subassembly. Reset to main assembly with cancel.
+
+%CIifx40_msg_reset_subasm
+No subassembly selected.
+No subassembly selected.
+
+%CWifx40_msg_err_hole_between %0s %1s
+Hole in %0s not created. Part is not a member of assembly %1s.
+Hole in %0s not created. Part is not a member of assembly %1s.
+
+%CPifx40_msg_insert_offset|||%0f
+Insert Offset: |||%0f
+Insert Offset: |||%0f
+
+%CEifx40_msg_mdl_not_found %0s
+Model '%0s' not found.
+Model '%0s' not found.
+
+%CEifx40_msg_mdl_not_replaced
+Model not replaced.
+Model not replaced.
+
+%CEifx40_msg_error_replace %0s %1s
+Error while replacing model '%0s' with model '%1s'.
+Error while replacing model '%0s' with model '%1s'.
+
+%CEifx40_msg_regen_error %0s
+Error while regeneration of model '%0s'.
+Error while regeneration of model '%0s'.
+
+%CIifx40_msg_create_instance %0s %1s
+Create instance '%0s' from model '%1s'.
+Create instance '%0s' from model '%1s'.
+
+%CEifx40_msg_30tol_not_set %0s %1d
+Cannot set %0s to hole feature. ID = %1d.
+Cannot set %0s to hole feature. ID = %1d.
+
+ifx40_msg_30use_last_ref
+... use last reference with MMB.
+... use last reference with MMB.
+
+%CEifx40_msg_30unknown_error %0s
+An unknown error occurred (%0s).
+An unknown error occurred (%0s).
+
+%CPifx40_msg_30sel_file_lib %0s
+Select '%0s' in the library.
+Select '%0s' in the library.
+
+%CPifx40_msg_30sel_dirsurf
+Select surface to define the direction of the screw fastener.
+Select surface to define the direction of the screw fastener.
+
+%CPifx40_msg_30sel_orientsurf %0s
+Select orient surface for '%0s'.
+Select orient surface for '%0s'.
+
+%CPifx40_msg_30sel_orientsurf_s %0s
+Select orient surface for '%0s' (screw side).
+Select orient surface for '%0s' (screw side).
+
+%CPifx40_msg_30sel_orientsurf_n %0s
+Select orient surface for '%0s' (nut side).
+Select orient surface for '%0s' (nut side).
+
+%CWifx40_msg_30autosel_posref_err %0s
+Cannot autoselect the position references in '%0s'.
+Cannot autoselect the position references in '%0s'.
+
+%CPifx40_msg_30sel_1st_dimref %0s
+Select 1st position reference in '%0s'.
+Select 1st position reference in '%0s'.
+
+%CPifx40_msg_30sel_2nd_dimref %0s
+Select 2nd position reference in '%0s'.
+Select 2nd position reference in '%0s'.
+
+%CWifx40_msg_30hle_with_extrefs
+Create hole with external references.
+Create hole with external references.
+
+%CWifx40_msg_30use_opt_again
+Use %0s again.
+Use %0s again.
+
+%CIifx40_msg_30read_opt_from
+Configuration file: %0s
+Configuration file: %0s
+
+%CEifx40_msg_30err_get_constr
+Cannot get the assembly constraints for %0s.
+Cannot get the assembly constraints for %0s.
+
+%CWifx40_msg_30err_check_constr
+Check entries for AXIS, SURFACE and optional ORIENT in the file %0s.
+Check entries for AXIS, SURFACE and optional ORIENT in the file %0s.
+
+ifx40_msg_sel_point_axis_table
+Select the position (point/axis)
+Select the position (point/axis)
+
+ifx40_msg_sel_1st_dim_table
+Select the 1st dimension reference
+Select the 1st dimension reference
+
+ifx40_msg_sel_2nd_dim_table
+Select the 2nd dimension reference
+Select the 2nd dimension reference
+
+ifx40_msg_sel_1st_surface_table
+Select the screw head placement surface.
+Select the screw head placement surface.
+
+ifx40_msg_sel_2nd_surface_table
+Select the nut or the thread start surface.
+Select the nut or the thread start surface.
+
+ifx40_msg_sel_align_surface_table
+Select the orientation reference.
+Select the orientation reference.
+
+ifx40_msg_del_screw
+Delete screw fastener?
+Delete screw fastener?
+
+ifx40_msg_del_pin
+Delete dowel pin fastener?
+Delete dowel pin fastener?
+
+ifx40_msg_sel_1st_srf_pin_tbl
+Select the dowel pin placement surface.
+Select the dowel pin placement surface.
+
+ifx40_msg_use_workdir_option
+Found <FILE> in the current working directory. Use this option?
+Found <FILE> in the current working directory. Use this option?
+
+ifx40_msg_really_cancel
+Do you really want to cancel?
+Do you really want to cancel?
+
+ifx40_msg_nut_in_subasm
+Assemble in <ASM>
+Assemble in <ASM>
+
+ifx40_msg_not_all_hc_found
+No hole charts found for this hole types:
+No hole charts found for this hole types:
+
+ifx40_msg_screwcs_hc_error
+- Countersink
+- Countersink
+
+ifx40_msg_screwcb_hc_error
+- Counterbore on screw side
+- Counterbore on screw side
+
+ifx40_msg_nutcb_hc_error
+- Counterbore on nut side
+- Counterbore on nut side
+
+ifx40_msg_clear_hc_error
+- Clearance hole
+- Clearance hole
+
+ifx40_msg_thread_hc_error
+- Threaded hole
+- Threaded hole
+
+ifx40_msg_holes_not_created
+Warning. This hole(s) cannot be created.
+Warning. This hole(s) cannot be created.
+
+ifx40_msg_close_dlg_hc_error
+Close the dialog and assemble screw fastener?
+Close the dialog and assemble screw fastener?
+
+ifx40_msg_select_export_folder
+Select export folder.
+Select export folder.
+
+ifx40_msg_select_dat_files
+Select *.dat files.
+Select *.dat files.
+
+ifx40_msg_fine
+Close Fit
+Close Fit
+
+ifx40_msg_medium
+Medium Fit
+Medium Fit
+
+ifx40_msg_rough
+Free Fit
+Free Fit
+
+ifx40_msg_LITE_INFO_TOP
+This is a free version only.
+This is a free version only.
+
+ifx40_msg_LITE_INFO_BOTTOM
+Visit www.buw-soft.de to get more information.
+Visit www.buw-soft.de to get more information.
+
+ifx40_msg_LITE_INFO
+If you want to use this functionality you must purchase the full version.
+If you want to use this functionality you must purchase the full version.
+
+ifx40_msg_LITE_INFO_ALIGN
+Aligning screw fasteners is available only in the full version.
+Aligning screw fasteners is available only in the full version.
+
+ifx40_msg_LITE_INFO_CHECK
+Checking screw fasteners is available only in the full version.
+Checking screw fasteners is available only in the full version.
+
+ifx40_msg_LITE_INFO_OPTIONS
+These options are available only in the full version.
+These options are available only in the full version.
+
+ifx40_msg_LITE_INFO_SUBASM
+Assembling a fastener to a subassembly is available only in the full version.
+Assembling a fastener to a subassembly is available only in the full version.
+
+ifx40_msg_LITE_INFO_SLPARTS
+Customizing parts is available only in the full version.
+Customizing parts is available only in the full version.
+
+ifx40_msg_LITE_INFO_SUBASMNUT
+Assembling a nut to a subassembly is available only in the full version.
+Assembling a nut to a subassembly is available only in the full version.
+
+ifx40_msg_LITE_INFO_ALLINST
+Assembling fasteners to all instances is available only in the full version.
+Assembling fasteners to all instances is available only in the full version.
+
+ifx40_msg_LITE_INFO_SUBINFO
+Using SUBINFO is only available in the full version.
+Using SUBINFO is only available in the full version.
+
+ifx40_msg_LITE_INFO_NOPIN
+Assembling dowel pin fasteners is available only in the full version.
+Assembling dowel pin fasteners is available only in the full version.
+
+ifx40_msg_LITE_INFO_UPDATE
+Updating holes is available only in the full version.
+Updating holes is available only in the full version.
+
+%CPifx40_msg_sel_pos
+Select the position of the fastener.
+Select the position of the fastener.
+
+%CPifx40_msg_sel_delete
+Select fastener that should be deleted.
+Select fastener that should be deleted.
+
+ifx40_msg_del
+Delete fastener?
+Delete fastener?
+
+%CPifx40_msg_sel
+Select fastener.
+Select fastener.
+
+ifx40_msg_screw_too_long
+Screw too long.
+Screw too long.
+
+ifx40_msg_screw_too_short
+Screw too short.
+Screw too short.
+
+ifx40_msg_STD_INFO1
+The requested function is not available in the standard version.
+The requested function is not available in the standard version.
+
+ifx40_msg_STD_INFO2
+Please contact your account manager to upgrade.
+Please contact your account manager to upgrade.
+
+ifx40_msg_STD_INFO_SLPARTS
+Customizing parts is not available in the standard version.
+Customizing parts is not available in the standard version.
+
+ifx40_msg_Press Fit
+Press Fit
+Press Fit
+
+ifx40_msg_Slip Fit
+Slip Fit
+Slip Fit
+
+ifx40_msg_action_not_possible_on_unite_mdl
+Incomplete. Convert non-Creo to Creo models, before assembling fastener.
+Incomplete. Convert non-Creo to Creo models, before assembling fastener.
+
+ifx40_msg_convert_ifx_lib
+Convert IFX library to the new file structure.
+Convert IFX library to the new file structure.
+
+ifx40_msg_convert_ifx_from
+Old library path:
+Old library path:
+
+ifx40_msg_convert_ifx_to
+New library paths:
+New library paths:
+
+ifx40_msg_convert_success
+Converting library to new file structure was successful.
+Converting library to new file structure was successful.
+
+ifx40_msg_convert_err
+While converting the library, errors occurred.\nFor Details see ifx_convert.log.
+While converting the library, errors occurred.\nFor Details see ifx_convert.log.
+
+%CWifx40_msg_wc_update_fail %0w
+Updating file '%0w' from Windchill failed.
+Updating file '%0w' from Windchill failed.
+
+%CPifx40_msg_sel_offset_surface_scr
+Select surface to measure offset to the screw head surface.
+Select surface to measure offset to the screw head surface.
+
+%CPifx40_msg_sel_offset_surface_nut
+Select surface to measure offset to the nut surface.
+Select surface to measure offset to the nut surface.
+
+%CPifx40_msg_sel_measure_offset1
+Select first surface.
+Select first surface.
+
+%CPifx40_msg_sel_measure_offset2
+Select second surface to measure offset.
+Select second surface to measure offset.
+
+%CEifx40_msg_cannot_create_sdf
+Cannot create screw definition file.
+Cannot create screw definition file.
+
+%CPifx40_msg_delete_sdf
+Delete screw definition file '%0w'?
+Delete screw definition file '%0w'?
+
+ifx40_msg_no_gb_std_license
+No license option found for GB standard parts.
+No license option found for GB standard parts.

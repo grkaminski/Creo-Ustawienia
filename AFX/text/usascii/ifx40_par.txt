@@ -1,0 +1,132 @@
+﻿ifx40_par_allg_Stringausgabe %0s
+%0s
+%0s
+
+ifx40_par_headcapscrew
+Head Cap Screw
+Head Cap Screw
+
+ifx40_par_panheadscrew
+Pan Head Screw
+Pan Head Screw
+
+ifx40_par_hexheadscrew
+Hexagon Head Screw
+Hexagon Head Screw
+
+ifx40_par_countersunkscrew
+Countersunk Screw
+Countersunk Screw
+
+ifx40_par_liftingeyescrew
+Lifting eye screw
+Lifting eye screw
+
+ifx40_par_heavyhexbolt
+Heavy Hex Bolt
+Heavy Hex Bolt
+
+ifx40_par_heavyhexscrew
+Heavy Hex Screw
+Heavy Hex Screw
+
+ifx40_par_hexbolt
+Hex Bolt
+Hex Bolt
+
+ifx40_par_hexcapscrew
+Hex Cap Screw
+Hex Cap Screw
+
+ifx40_par_hexsocketheadcapscrew
+Hexagon Socket Head Cap Screw
+Hexagon Socket Head Cap Screw
+
+ifx40_par_domedcapnut
+Domed Cap Nut
+Domed Cap Nut
+
+ifx40_par_hexagonnut
+Hexagon Nut
+Hexagon Nut
+
+ifx40_par_Heavy_Hex_Jam_Nut
+Heavy Hex Jam Nut
+Heavy Hex Jam Nut
+
+ifx40_par_Heavy_Hex_Nut
+Heavy Hex Nut
+Heavy Hex Nut
+
+ifx40_par_Hex_Jam_Nut
+Hex Jam Nut
+Hex Jam Nut
+
+ifx40_par_Hex_Nut
+Hex Nut
+Hex Nut
+
+ifx40_par_washer
+Washer
+Washer
+
+ifx40_par_springwasher
+Spring Washer
+Spring Washer
+
+ifx40_par_springlockwasherheavy
+Spring Lock Washer (heavy)
+Spring Lock Washer (heavy)
+
+ifx40_par_springlockwasherreg
+Spring Lock Washer (regular)
+Spring Lock Washer (regular)
+
+ifx40_par_typeaplainwasher
+Type A Plain Washer
+Type A Plain Washer
+
+ifx40_par_taplainwashernarrow
+Type A Plain Washer (narrow)
+Type A Plain Washer (narrow)
+
+ifx40_par_taplainwasherwide
+Type A Plain Washer (wide)
+Type A Plain Washer (wide)
+
+ifx40_par_i-washer
+I-Washer
+I-Washer
+
+ifx40_par_u-washer
+U-Washer
+U-Washer
+
+ifx40_par_dowelpin
+Dowel Pin
+Dowel Pin
+
+ifx40_par_pinchamferedstraight
+Pin, Chamfered Straight
+Pin, Chamfered Straight
+
+ifx40_par_pinhardgroundmach_os
+Pin, Hardened Ground Machine Dowel - Oversize Series
+Pin, Hardened Ground Machine Dowel - Oversize Series
+
+ifx40_par_pinhardgroundmach_std
+Pin, Hardened Ground Machine Dowel - Std.Series
+Pin, Hardened Ground Machine Dowel - Std.Series
+
+ifx40_par_pinhardgroundprod
+Pin, Hardened Ground Production Dowel
+Pin, Hardened Ground Production Dowel
+
+ifx40_par_pinsquareendstraight
+Pin, Square End Straight
+Pin, Square End Straight
+
+ifx40_par_pinunhardgroundprod
+Pins, Unhardened Ground Dowel
+Pins, Unhardened Ground Dowel
+

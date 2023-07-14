@@ -1,0 +1,13 @@
+TABLE_DATA
+PRO_VERSION      24
+THREAD_SERIES    UNRC-2A
+CLASS            2A
+TABLE_UNITS      inch
+DEPTH_RATIO      1.25
+CALLOUT_FORMAT   &Screw_size &Thread_Series
+
+
+THREAD_DATA
+FASTENER_ID  BASIC_DIAM  THREAD  TAP_DR  TAP_DEC  PERCENT_THREAD  CLEAR_DR_CLOSE  CLOSE_DEC  CLEAR_DR_FREE  FREE_DEC  CLEAR_DR_MED  MED_DEC  CBOREDIAM   CBOREDEPTH   CSINKDIAM   CSINKANGLE   BOTCSINKDIAM   BOTCSINKANGLE
+1-1/4-7      1.250       7       1-7/64  1.1094   %65             1-9/32          1.281      1-5/16         1.312     -1            -1       2.0         1.25         1.370       90           1.370          90
+1-1/2-6      1.500       6       1-11/32 1.3437   %65             1-17/32         1.531      1-9/16         1.562     -1            -1       2.375       1.5          1.640       90           1.640          90

@@ -1,0 +1,248 @@
+#UGC:2 NEUTRAL 1811 440 800 0 0 15 3400 2012380 00000000 \
+#- VERS 0 0                                                          \
+#- HOST                                                              \
+#- LINK                                                              \
+#- DBID                                                              \
+#- REVS 0,                                                           \
+#- RELL 0,                                                           \
+#- UOBJ_ID 0 0 0                                                     \
+#- MACH                                                              \
+#-END_OF_UGC_HEADER
+#Creo  TM  3.0  (c) 2012 by Parametric Technology Corporation  All Rights Reserved. U130
+0 RbnDBData ->
+1 onCreation 
+2 mNumComments 0
+2 mDate 
+1 groupList [1]
+2 groupList 
+3 ChildUnion(RbnDBGroup) ->
+4 RbnDBInheritContainer 
+5 mName sl_group_ifx
+5 mType 12
+5 mLabel Intelligent Fastener
+5 mAncestor 
+5 mKeyTip 
+5 mCustom 1
+5 Attributes 
+5 containerChildrenArray [14]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCascade) ->
+8 RbnDBInheritContainer 
+9 mName sl_cascade_screw
+9 mType 17
+9 mLabel Screw
+9 mAncestor 
+9 mKeyTip 
+9 mCustom 1
+9 Attributes 
+10 mUiAttribs [2]
+11 mUiAttribs ->
+12 mKey 6
+12 mValue Large
+11 mUiAttribs ->
+12 mKey 8
+12 mValue 2
+9 containerChildrenArray [2]
+10 containerChildrenArray 
+11 ChildUnion(RbnDBCommand) ->
+12 mName ifx40_menu_screw_def_ex_pnt
+12 mType 1
+12 Attributes 
+13 mUiAttribs [1]
+14 mUiAttribs ->
+15 mKey 6
+15 mValue Large
+12 mComponentClass ifx40_menu_screw_def_ex_pnt
+12 mColumns 0
+10 containerChildrenArray 
+11 ChildUnion(RbnDBCommand) ->
+12 mName ifx40_menu_screw_def_mouse_pnt
+12 mType 1
+12 Attributes 
+13 mUiAttribs [1]
+14 mUiAttribs ->
+15 mKey 6
+15 mValue Large
+12 mComponentClass ifx40_menu_screw_def_mouse_pnt
+12 mColumns 0
+8 mCommand 
+8 mFlyout 0
+8 mBitmap 
+8 mHelpText 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCascade) ->
+8 RbnDBInheritContainer 
+9 mName sl_cascade_pin
+9 mType 17
+9 mLabel Dowel Pin
+9 mAncestor 
+9 mKeyTip 
+9 mCustom 1
+9 Attributes 
+10 mUiAttribs [2]
+11 mUiAttribs ->
+12 mKey 6
+12 mValue Large
+11 mUiAttribs ->
+12 mKey 8
+12 mValue 2
+9 containerChildrenArray [2]
+10 containerChildrenArray 
+11 ChildUnion(RbnDBCommand) ->
+12 mName ifx40_menu_pin_def_ex_pnt
+12 mType 1
+12 Attributes 
+13 mUiAttribs [1]
+14 mUiAttribs ->
+15 mKey 6
+15 mValue Large
+12 mComponentClass ifx40_menu_pin_def_ex_pnt
+12 mColumns 0
+10 containerChildrenArray 
+11 ChildUnion(RbnDBCommand) ->
+12 mName ifx40_menu_pin_def_mouse_pnt
+12 mType 1
+12 Attributes 
+13 mUiAttribs [1]
+14 mUiAttribs ->
+15 mKey 6
+15 mValue Large
+12 mComponentClass ifx40_menu_pin_def_mouse_pnt
+12 mColumns 0
+8 mCommand 
+8 mFlyout 0
+8 mBitmap 
+8 mHelpText 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName ifx40_menu_reassemble
+8 mType 1
+8 Attributes 
+8 mComponentClass ifx40_menu_reassemble
+8 mColumns 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName ifx40_menu_redefine
+8 mType 1
+8 Attributes 
+8 mComponentClass ifx40_menu_redefine
+8 mColumns 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName ifx40_menu_delete
+8 mType 1
+8 Attributes 
+8 mComponentClass ifx40_menu_delete
+8 mColumns 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBOverflowBreak) ->
+8 mName __overflow__
+8 mType 4
+8 Attributes 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName ifx40_menu_screw_check
+8 mType 1
+8 Attributes 
+8 mComponentClass ifx40_menu_screw_check
+8 mColumns 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName ifx40_menu_update
+8 mType 1
+8 Attributes 
+8 mComponentClass ifx40_menu_update
+8 mColumns 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName ifx40_menu_suppress
+8 mType 1
+8 Attributes 
+8 mComponentClass ifx40_menu_suppress
+8 mColumns 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName ifx40_menu_resume
+8 mType 1
+8 Attributes 
+8 mComponentClass ifx40_menu_resume
+8 mColumns 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName ifx40_menu_options
+8 mType 1
+8 Attributes 
+8 mComponentClass ifx40_menu_options
+8 mColumns 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName ifx40_menu_help
+8 mType 1
+8 Attributes 
+8 mComponentClass ifx40_menu_help
+8 mColumns 0
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCascade) ->
+8 RbnDBInheritContainer 
+9 mName sl_cascade_instance_creator
+9 mType 17
+9 mLabel Instance Creator
+9 mAncestor 
+9 mKeyTip 
+9 mCustom 1
+9 Attributes 
+9 containerChildrenArray [2]
+10 containerChildrenArray 
+11 ChildUnion(RbnDBCommand) ->
+12 mName ifx40_menu_instancecreator
+12 mType 1
+12 Attributes 
+12 mComponentClass ifx40_menu_instancecreator
+12 mColumns 0
+10 containerChildrenArray 
+11 ChildUnion(RbnDBCommand) ->
+12 mName ifx40_menu_getid
+12 mType 1
+12 Attributes 
+12 mComponentClass ifx40_menu_getid
+12 mColumns 0
+8 mCommand 
+8 mFlyout 0
+8 mBitmap 
+8 mHelpText 
+6 containerChildrenArray 
+7 ChildUnion(RbnDBCommand) ->
+8 mName ifx40_menu_info
+8 mType 1
+8 Attributes 
+8 mComponentClass ifx40_menu_info
+8 mColumns 0
+4 mToolLauncher 
+4 mBitmap 
+4 mPlugin 
+1 pageList [1]
+2 pageList 
+3 ChildUnion(RbnDBPage) ->
+4 RbnDBInheritContainer 
+5 mName page_Tools@asm_main_adb_cat
+5 mType 11
+5 mLabel __RBN_DB_NO_CHANGE__
+5 mAncestor 
+5 mKeyTip __RBN_DB_NO_CHANGE__
+5 mCustom 0
+5 Attributes 
+5 containerChildrenArray [2]
+6 containerChildrenArray 
+7 ChildUnion(RbnDBPosition) ->
+8 mName EOF
+8 mType 7
+8 Attributes 
+8 mIndex -1
+6 containerChildrenArray 
+7 ChildUnion(RbnDBGroupRef) ->
+8 mName sl_group_ifx
+8 mType 15
+8 Attributes 
+4 mCloseButton __RBN_DB_NO_CHANGE__
+4 mPlugin 
+#END_OF_UGC
