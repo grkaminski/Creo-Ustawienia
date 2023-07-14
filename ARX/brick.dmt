@@ -1,0 +1,74 @@
+﻿V6.0
+#
+#
+# PGL Version 6.0
+#
+#
+# material name
+material_name "ref_color159"
+# material label
+material_label "Red Brick"
+# material description
+material_description "Red brick bump and texture"
+# material keywords
+material_keywords "red brick bump and texture"
+shader_type ceramic_shader "ceramic_porceline"
+color_param 1.000000 1.000000 0.949000 "diffuse"
+color_param 1.000000 1.000000 1.000000 "refl_color"
+float_param 1.000000 "diffuse_weight"
+float_param 0.900000 "reflectivity"
+float_param 0.900000 "refl_gloss"
+shader_enabled 0
+shader_type ceramic_shader "ceramic_stone"
+color_param 0.703883 0.336662 0.316884 "diffuse"
+float_param 1.000000 "diffuse_weight"
+float_param 0.200000 "specularity"
+shader_enabled 1
+# ambient color
+ambient_color 0.703883 0.336662 0.316884 1.000000
+# diffuse color
+diffuse_color 0.703883 0.336662 0.316884 1.000000
+# specular color
+specular_color 0.600000 0.600000 0.600000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 0.400000
+# shine
+shine 0.350000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.200000
+# bump_type
+bump_type 5
+# amplitude
+amplitude 20.000000
+# scale
+scale 0.020000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 2
+# color_tex_scale
+color_tex_scale 0.020000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# bump texture map
+bump_map Brick_bump.jpg
+# bump enabled
+bump_enabled 0
+# color texture map
+color_map Brick_texture.png
+# texture enabled
+texture_enabled 0

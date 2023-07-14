@@ -1,0 +1,67 @@
+﻿V6.0
+#
+#
+# PGL Version 6.0
+#
+#
+# material name
+material_name "ref_color99"
+# material label
+material_label "adv-liquid-water + texture"
+# material description
+material_description "photolux appearance representing water material + texture"
+# material keywords
+material_keywords "ptc advanced photolux liquid water + texture"
+shader_type glass_shader "generic_glass"
+color_param 0.878400 0.949000 1.000000 "refr_color"
+color_param 1.000000 1.000000 1.000000 "refl_color"
+float_param 0.200000 "diffuse_weight"
+float_param 1.000000 "reflectivity"
+float_param 1.000000 "refr_gloss"
+float_param 0.980000 "transparency"
+float_param 1.330000 "refr_ior"
+shader_enabled 1
+# ambient color
+ambient_color 0.878400 0.949000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.878400 0.949000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.200000
+# ambient
+ambient 0.900000
+# shine
+shine 0.350000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 1.000000
+# bump_type
+bump_type 3
+# amplitude
+amplitude 35.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 2
+# color_tex_scale
+color_tex_scale 0.054000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.980000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# color texture map
+color_map water-pool.tx3
+# texture enabled
+texture_enabled 0

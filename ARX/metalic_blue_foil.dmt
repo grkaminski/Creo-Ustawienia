@@ -1,0 +1,124 @@
+﻿V6.0
+#
+#
+# PGL Version 6.0
+#
+#
+# material name
+material_name "ref_color625"
+# material label
+material_label "ptc_blue_foil"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.028000 0.700000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.028000 0.700000 1.000000
+# specular color
+specular_color 0.000000 0.700000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.900000
+# shine
+shine 0.800000
+# shine intensity
+intensity 0.750000
+# reflection
+reflection 0.500000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color654"
+# material label
+material_label "adv-paint-spray-white"
+# material description
+material_description "photolux appearance representing spray white paint material"
+# material keywords
+material_keywords "ptc advanced photolux paint white spray"
+shader_type paint_shader "generic_paint"
+color_param 1.000000 1.000000 1.000000 "diffuse"
+float_param 1.000000 "diffuse_weight"
+float_param 0.650000 "reflectivity"
+float_param 1.000000 "refl_gloss"
+shader_enabled 1
+shader_type paint_shader "generic_paint"
+color_param 1.000000 1.000000 1.000000 "diffuse"
+float_param 1.000000 "diffuse_weight"
+float_param 0.900000 "reflectivity"
+float_param 1.000000 "refl_gloss"
+shader_enabled 1
+shader_type paint_shader "metallic_paint"
+color_param 0.000000 0.196078 0.000000 "base_color"
+color_param 0.000000 0.058824 0.000000 "edge_color"
+color_param 1.000000 1.000000 1.000000 "flake_color"
+float_param 1.000000 "edge_color_bias"
+float_param 1.000000 "diffuse_weight"
+float_param 1.000000 "flake_scale"
+float_param 0.100000 "flake_reflect"
+float_param 1.000000 "glossy_spread"
+shader_enabled 0
+# ambient color
+ambient_color 1.000000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 0.100000
+# shine
+shine 1.000000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.650000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.200000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
