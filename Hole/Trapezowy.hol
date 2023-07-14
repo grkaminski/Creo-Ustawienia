@@ -1,0 +1,119 @@
+TABLE_DATA
+PRO_VERSION      24
+THREAD_SERIES    Trapezowy
+CLASS            H
+TABLE_UNITS      metric
+DEPTH_RATIO      1.25
+CALLOUT_FORMAT   &Screw_Size
+
+
+THREAD_DATA
+FASTENER_ID  BASIC_DIAM  THREAD  TAP_DR  TAP_DEC  PERCENT_THREAD  CLEAR_DR_CLOSE  CLOSE_DEC  CLEAR_DR_FREE  FREE_DEC  CLEAR_DR_MED  MED_DEC  CBOREDIAM   CBOREDEPTH   CSINKDIAM   CSINKANGLE   BOTCSINKDIAM   BOTCSINKANGLE
+Tr8x2          8.000       2    5.5     5.5   65% 	           8.4             8.4       10.0           10.0       9.0           9.0      14.5        8.000         8.000       90           8.000          90
+Tr8x1.5        8.000     1.5    6.2     6.2   65% 		   8.4             8.4       10.0           10.0       9.0           9.0      14.5        8.000         8.000       90           8.000          90
+Tr10x3        10.000       3    6.5     6.5   65%           	  10.5            10.5       12.0           12.0      11.0          11.0      20         10.000       10.000      90          10.000         90
+Tr10x2        10.000       2    6.5     6.5   65%                 10.5            10.5       12.0           12.0      11.0          11.0      20         10.000       10.000      90          10.000         90
+Tr12x3        12.000       3    8.5     8.5   65%                 13.0            13.0       15.0           15.0      14.0          14.0      24         12.000       12.000      90          12.000         90
+Tr12x2        12.000       2    9.5     9.5   65%                 13.0            13.0       15.0           15.0      14.0          14.0      24         12.000       12.000      90          12.000         90
+Tr14x3        14.000       3   10.5    10.5   65%                 15.0            15.0       17.0           17.0      16.0          16.0      28         14.000       14.000      90          14.000         90
+Tr14x2        14.000       2   11.5    11.5   65%                 15.0            15.0       17.0           17.0      16.0          16.0      28         14.000       14.000      90          14.000         90
+Tr16x4        16.000       4   11.5    11.5   65%                 17.0            17.0       19.0           19.0      18.0          18.0      32         16.000       16.000      90           16.000         90
+Tr16x2        16.000       2   13.5    13.5   65%                 17.0            17.0       19.0           19.0      18.0          18.0      32         16.000       16.000      90           16.000         90
+Tr18x4        18.000       4   13.5    13.5   65%                 19.0            19.0       21.0           21.0      20.0          20.0      36         18.000       18.000      90           18.000         90
+Tr18x4        18.000       2   15.5    15.5   65%                 19.0            19.0       21.0           21.0      20.0          20.0      36         18.000       18.000      90           18.000         90
+Tr20x4        20.000       4   15.5    15.5   65%                 21.0            21.0       24.0           24.0      22.0          22.0      40         20.000       20.000      90           20.000         90
+Tr20x2        20.000       2   17.5    17.5   65%                 21.0            21.0       24.0           24.0      22.0          22.0      40         20.000       20.000      90           20.000         90
+Tr22x5        22.000       5   16      16     65%                 23.0            23.0       26.0           26.0      24.0          24.0      44         22.000       22.000      90           22.000         90
+Tr22x2        22.000       2   19.5    19.5   65%                 23.0            23.0       26.0           26.0      24.0          24.0      44         22.000       22.000      90           22.000         90
+Tr22x8        22.000       8   13      13     65%                 23.0            23.0       26.0           26.0      24.0          24.0      44         22.000       22.000      90           22.000         90
+Tr24x5        24.000      5    18       18    65%                 25.0            25.0       28.0           28.0      26.0          26.0      48         24.000       24.000      90           24.000         90
+Tr24x2        24.000      2    21.5    21.5   65%                 25.0            25.0       28.0           28.0      26.0          26.0      48         24.000       24.000      90           24.000         90
+Tr24x8        24.000      8    15      15     65%                 25.0            25.0       28.0           28.0      26.0          26.0      48         24.000       24.000      90           24.000         90
+Tr26x5        26.000      5    20      20     65%                 28.0            28.0       32.0           32.0      30.0          30.0      54         26.000       26.000      90           26.000         90
+Tr26x2        26.000      2    23.5    23.5   65%                 28.0            28.0       32.0           32.0      30.0          30.0      54         26.000       26.000      90           26.000         90
+Tr26x8        26.000      8    17      17     65%                 28.0            28.0       32.0           32.0      30.0          30.0      54         26.000       26.000      90           26.000         90
+Tr28x5        28.000      5    22      22     65%                 29.0            29.0       33.0           33.0      31.0          31.0      58         28.000       28.000      90           28.000         90
+Tr28x2        28.000      2    23.5    23.5   65%                 29.0            29.0       33.0           33.0      31.0          31.0      58         28.000       28.000      90           28.000         90
+Tr28x8        28.000      8    19      19     65%                 29.0            29.0       33.0           33.0      31.0          31.0      58         28.000       28.000      90           28.000         90
+Tr30x6        30.000      6    23      23     65%                 31.0            31.0       35.0           35.0      33.0          33.0      60         30.000       30.000      90           30.000         90
+Tr30x3        30.000      3    26.5    26.5   65%                 31.0            31.0       35.0           35.0      33.0          33.0      60         30.000       30.000      90           30.000         90
+Tr30x10       30.000     10    19      19     65%                 31.0            31.0       35.0           35.0      33.0          33.0      60         30.000       30.000      90           30.000         90
+Tr32x6        32.000      6    25      25     65%                 33.0            33.0       37.0           37.0      35.0          35.0      68         32.000       32.000      90           32.000         90
+Tr32x3        32.000      3    28.5    28.5   65%                 33.0            33.0       37.0           37.0      35.0          35.0      68         32.000       32.000      90           32.000         90
+Tr32x10       32.000     10    21      21     65%                 33.0            33.0       37.0           37.0      35.0          35.0      68         32.000       32.000      90           32.000         90
+Tr34x6        34.000      6    27      27     65%                 35.0            35.0       39.0           39.0      37.0          37.0      68         34.000       34.000      90           34.000         90
+Tr34x3        34.000      3    30.5    30.5   65%                 35.0            35.0       39.0           39.0      37.0          37.0      68         34.000       34.000      90           34.000         90
+Tr34x10       34.000     10    23      23     65%                 35.0            35.0       39.0           39.0      37.0          37.0      68         34.000       34.000      90           34.000         90
+Tr36x6        36.000      6    29      29     65%                 37.0            37.0       42.0           42.0      39.0          39.0      72         36.000       36.000      90           36.000         90
+Tr36x3        36.000      3    32.5    32.5   65%                 37.0            37.0       42.0           42.0      39.0          39.0      72         36.000       36.000      90           36.000         90
+Tr36x10       36.000     10    25      25     65%                 37.0            37.0       42.0           42.0      39.0          39.0      72         36.000       36.000      90           36.000         90
+Tr38x6        38.000      6    31      31     65%                 39.0            39.0       44.0           44.0      41.0          41.0      78         39.000       38.000      90           38.000         90
+Tr38x3        38.000      3    34.5    34.5   65%                 39.0            39.0       44.0           44.0      41.0          41.0      78         39.000       38.000      90           38.000         90
+Tr38x10       38.000     10    27      27     65%                 39.0            39.0       44.0           44.0      41.0          41.0      78         39.000       38.000      90           38.000         90
+Tr40x6        40.000      6    33      33     65%                 41.0            41.0       46.0           46.0      43.0          43.0      78         40.000       40.000      90           40.000         90
+Tr40x3        40.000      3    36.5    36.5   65%                 41.0            41.0       46.0           46.0      43.0          43.0      78         40.000       40.000      90           40.000         90
+Tr40x10       40.000     10    29      29     65%                 41.0            41.0       46.0           46.0      43.0          43.0      78         40.000       40.000      90           40.000         90
+Tr42x6        42.000      6    35      35     65%                 43.0            43.0       48.0           48.0      45.0          45.0      84         42.000       42.000      90           42.000         90
+Tr42x3        42.000      3    38.5    38.5   65%                 43.0            43.0       48.0           48.0      45.0          45.0      84         42.000       42.000      90           42.000         90
+Tr42x10       42.000     10    31      31     65%                 43.0            43.0       48.0           48.0      45.0          45.0      84         42.000       42.000      90           42.000         90
+Tr44x8        44.000      8    35      35     65%                 45.0            45.0       51.0           51.0      47.0          47.0      90         44.000       44.000      90           44.000         90
+Tr44x3        44.000      3    40.5    40.5   65%                 45.0            45.0       51.0           51.0      47.0          47.0      90         44.000       44.000      90           44.000         90
+
+
+
+DEFAULT_CALLOUT_FORMAT_DATA
+HOLE_TYPE	THREAD	DRILLED_DEPTH	THREAD_DEPTH	CSINK	CBORE	EXIT_CSINK	CALLOUT_FORMAT
+TAPPED	YES	VAR	VAR	NO	NO	NO	&Screw_Size
+TAPPED	YES	VAR	VAR	YES	NO	NO	&Screw_Size 1
+TAPPED	YES	VAR	VAR	NO	YES	NO	&Screw_Size 2
+TAPPED	YES	VAR	VAR	YES	YES	NO	&Screw_Size 3
+TAPPED	YES	THRU	VAR	NO	NO	NO	&Screw_Size 4
+TAPPED	YES	THRU	VAR	YES	NO	NO	&Screw_Size 5
+TAPPED	YES	THRU	VAR	NO	YES	NO	&Screw_Size 6
+TAPPED	YES	THRU	VAR	YES	YES	NO	&Screw_Size 7
+TAPPED	YES	THRU	THRU	NO	NO	NO	&Screw_Size 8
+TAPPED	YES	THRU	THRU	YES	NO	NO	&Screw_Size 9
+TAPPED	YES	THRU	THRU	NO	YES	NO	&Screw_Size 10
+TAPPED	YES	THRU	THRU	YES	YES	NO	&Screw_Size 11
+TAPPED	YES	THRU	VAR	NO	NO	YES	&Screw_Size 12
+TAPPED	YES	THRU	VAR	YES	NO	YES	&Screw_Size 13
+TAPPED	YES	THRU	VAR	NO	YES	YES	&Screw_Size 14
+TAPPED	YES	THRU	VAR	YES	YES	YES	&Screw_Size 15
+TAPPED	YES	THRU	THRU	NO	NO	YES	&Screw_Size 16
+TAPPED	YES	THRU	THRU	YES	NO	YES	&Screw_Size 17
+TAPPED	YES	THRU	THRU	NO	YES	YES	&Screw_Size 18
+TAPPED	YES	THRU	THRU	YES	YES	YES	&Screw_Size 19
+DRILLED	NO	VAR	NA	NO	NO	NO	&Screw_Size 20
+DRILLED	NO	VAR	NA	YES	NO	NO	&Screw_Size 21
+DRILLED	NO	VAR	NA	NO	YES	NO	&Screw_Size 22
+DRILLED	NO	VAR	NA	YES	YES	NO	&Screw_Size 23
+DRILLED	NO	THRU	NA	NO	NO	NO	&Screw_Size 24
+DRILLED	NO	THRU	NA	YES	NO	NO	&Screw_Size 25
+DRILLED	NO	THRU	NA	NO	YES	NO	&Screw_Size 26
+DRILLED	NO	THRU	NA	YES	YES	NO	&Screw_Size 27
+DRILLED	NO	THRU	NA	NO	NO	YES	&Screw_Size 28
+DRILLED	NO	THRU	NA	YES	NO	YES	&Screw_Size 29
+DRILLED	NO	THRU	NA	NO	YES	YES	&Screw_Size 30
+DRILLED	NO	THRU	NA	YES	YES	YES	&Screw_Size 31
+CLEARANCE	NA	NA	NA	NO	NO	NO	&Screw_Size 32
+CLEARANCE	NA	NA	NA	YES	NO	NO	&Screw_Size 33
+CLEARANCE	NA	NA	NA	NO	YES	NO	&Screw_Size 34
+CLEARANCE	NA	NA	NA	YES	YES	NO	&Screw_Size 35
+CLEARANCE	NA	NA	NA	NO	NO	YES	&Screw_Size 36
+CLEARANCE	NA	NA	NA	YES	NO	YES	&Screw_Size 37
+CLEARANCE	NA	NA	NA	NO	YES	YES	&Screw_Size 38
+CLEARANCE	NA	NA	NA	YES	YES	YES	&Screw_Size 39
+NA	NO	VAR	NA	NO	NO	NO	&Screw_Size 40
+NA	NO	VAR	NA	YES	NO	NO	&Screw_Size 41
+NA	NO	VAR	NA	NO	YES	NO	&Screw_Size 42
+NA	NO	VAR	NA	YES	YES	NO	&Screw_Size 43
+NA	NO	THRU	NA	NO	NO	NO	&Screw_Size 44
+NA	NO	THRU	NA	YES	NO	NO	&Screw_Size 45
+NA	NO	THRU	NA	NO	YES	NO	&Screw_Size 46
+NA	NO	THRU	NA	YES	YES	NO	&Screw_Size 47
+NA	NO	THRU	NA	NO	NO	YES	&Screw_Size 48
+NA	NO	THRU	NA	YES	NO	YES	&Screw_Size 49
+NA	NO	THRU	NA	NO	YES	YES	&Screw_Size 50
+NA	NO	THRU	NA	YES	YES	YES	&Screw_Size 51
+NA	NA	NA	NA	NA	NA	NA	Undefined no note match
+           
