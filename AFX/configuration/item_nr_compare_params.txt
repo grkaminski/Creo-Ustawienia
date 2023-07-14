@@ -1,0 +1,4 @@
+nazwa_czesci
+BUW_TYPE
+BUW_SIZE
+
