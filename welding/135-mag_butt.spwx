@@ -1,0 +1,181 @@
+﻿ND_RelParSet_K01 = {
+
+Name = 135-MAG_BUTT
+
+PARAMETERS =
+{
+  Name = WELD_MATERIAL
+  Type = String
+  Default = 'MIG-MAG_SG2'
+  Access = Full
+},
+{
+  Name = WELD_PROCESS
+  Type = String
+  Default = '135-MAG'
+  Access = Full
+},
+{
+  Name = APPEARANCE
+  Type = String
+  Default = 'SYSTEM_DEFAULT'
+  Access = Full
+},
+{
+  Name = WELD_LWW_THICKNESS
+  Type = Real
+  Default = 5.000000e+00
+  Access = Full
+},
+{
+  Name = FINISH
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = FIELD
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = BACK_TYPE
+  Type = String
+  Default = 'NONE'
+  Access = Locked
+},
+{
+  Name = BACKING
+  Type = String
+  Default = 'REMOVABLE_STRIP'
+  Access = Full
+},
+{
+  Name = FACE_OFFSET
+  Type = Real
+  Default = 0.000000e+00
+  Access = Full
+},
+{
+  Name = GROOVE_ANGLE
+  Type = Real
+  Default = 4.500000e+01
+  Access = Full
+},
+{
+  Name = PREP_DEPTH
+  Type = Real
+  Default = 1.000000e+00
+  Access = Full
+},
+{
+  Name = ROOT_OPEN
+  Type = Real
+  Default = 1.000000e+00
+  Access = Full
+},
+{
+  Name = WELD_SIZE
+  Type = Real
+  Default = 2.000000e+00
+  Access = Full
+},
+{
+  Name = WIDTH
+  Type = Real
+  Default = 1.000000e+00
+  Access = Full
+},
+{
+  Name = SHAPE
+  Type = String
+  Default = 'NONE'
+  Access = Full
+},
+{
+  Name = INTERMITTENT
+  Type = Bool
+  Default = NO
+  Access = Locked
+},
+{
+  Name = BACK_WELD_SHAPE
+  Type = String
+  Default = 'NONE'
+  Access = Full
+},
+{
+  Name = BACK_WELD_FINISH
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = OTHER_SIDE_SYMB
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = NEXT_LEADER_OPT
+  Type = String
+  Default = 'ON ENTITY'
+  Access = Full
+},
+{
+  Name = BACK_SIZE_OPT
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = BACK_SIZE_VAL
+  Type = Real
+  Default = 0.000000e+00
+  Access = Full
+},
+{
+  Name = X_SECTION_AREA
+  Type = Real
+  Default = 0.000000e+00
+  Access = Full
+},
+{
+  Name = CALC_X_SECTION_AREA
+  Type = Real
+  Default = 0.000000e+00
+  Access = Locked
+},
+{
+  Name = LENGTH
+  Type = Real
+  Default = 0.000000e+00
+  Access = Locked
+},
+{
+  Name = WELD_LENGTH
+  Type = Real
+  Default = 0.000000e+00
+  Access = Locked
+},
+{
+  Name = INTER_STAGGERED
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = ANGLE
+  Type = Real
+  Default = 0.000000e+00
+  Access = Full
+},
+{
+  Name = FLARE_SIZE
+  Type = Real
+  Default = 0.000000e+00
+  Access = Full
+}
+
+}

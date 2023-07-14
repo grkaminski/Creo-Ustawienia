@@ -1,0 +1,25 @@
+﻿ND_RelParSet_K01 = {
+
+Name = A2_308L
+
+PARAMETERS =
+{
+  Name = MATERIAL_NAME
+  Type = String
+  Default = '1_4301-0H18N9'
+  Access = Full
+},
+{
+  Name = DIAMETER
+  Type = Real
+  Default = 2.400000e+00
+  Access = Full
+},
+{
+  Name = LENGTH
+  Type = Real
+  Default = 1.000000e+02
+  Access = Full
+}
+
+}

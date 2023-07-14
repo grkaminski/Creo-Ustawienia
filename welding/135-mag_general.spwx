@@ -1,0 +1,73 @@
+﻿ND_RelParSet_K01 = {
+
+Name = 135-MAG_GENERAL
+
+PARAMETERS =
+{
+  Name = WELD_GEOM_TYPE
+  Type = String
+  Default = 'SOLID'
+  Access = Full
+},
+{
+  Name = EDGE_PREP_GEOM_TYPE
+  Type = String
+  Default = 'SOLID'
+  Access = Full
+},
+{
+  Name = EDGE_PREP_DRIVEN_BY
+  Type = String
+  Default = 'PART'
+  Access = Full
+},
+{
+  Name = CREATE_FAM_TAB_INSTANCE
+  Type = Bool
+  Default = YES
+  Access = Full
+},
+{
+  Name = WELD_VISIBILITY
+  Type = String
+  Default = 'INSTANCE'
+  Access = Full
+},
+{
+  Name = NEW_INSTANCE_NAME
+  Type = String
+  Default = '_weld'
+  Access = Full
+},
+{
+  Name = FIX_INDEX
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = DISPLAY_INDEX
+  Type = Bool
+  Default = YES
+  Access = Full
+},
+{
+  Name = LWW_TRAJECTORY_TYPE
+  Type = String
+  Default = 'AUTOMATIC'
+  Access = Full
+},
+{
+  Name = OTHER_SIDE_SYMB
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = NEXT_LEADER_OPT
+  Type = String
+  Default = 'ON ENTITY'
+  Access = Full
+}
+
+}

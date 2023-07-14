@@ -1,0 +1,23 @@
+﻿plotter MS_PRINT_MGR
+button_name MS Printer Manager A0
+button_help Print using Windows Printer Manager.
+plot_drawing_format YES default
+plot_segmented NO default
+plot_roll_media NO default
+plot_label NO default
+plot_handshake software default
+create_separate_files NO default
+plot_with_panzoom NO default
+rotate_plotting NO default
+allow_file_naming YES
+plot_name MS Printer Manager A0
+plot_translate 0.236220 0.236220 default
+interface_quality 3 default
+plot_destination file default
+pen_table_file C:\CREO-Ustawienia\Wydruk\drukuj.pnt
+plot_sheets current default
+paper_size A0  default
+paper_outline NO default
+plot_clip NO default
+plot_area NO default
+plot_stroke_text NO

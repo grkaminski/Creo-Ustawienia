@@ -1,0 +1,117 @@
+﻿ND_RelParSet_K01 = {
+
+Name = 135-MAG_FILLET
+
+PARAMETERS =
+{
+  Name = WELD_MATERIAL
+  Type = String
+  Default = 'MIG-MAG_SG2'
+  Access = Full
+},
+{
+  Name = WELD_PROCESS
+  Type = String
+  Default = '135-MAG'
+  Access = Full
+},
+{
+  Name = APPEARANCE
+  Type = String
+  Default = 'SYSTEM_DEFAULT'
+  Access = Full
+},
+{
+  Name = WELD_LWW_THICKNESS
+  Type = Real
+  Default = 5.000000e+00
+  Access = Full
+},
+{
+  Name = FINISH
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = FIELD
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = LEG_LENGTH
+  Type = Real
+  Default = 2.000000e+00
+  Access = Full
+},
+{
+  Name = THROAT_THICKNESS
+  Type = Real
+  Default = 1.000000e+00
+  Access = Full
+},
+{
+  Name = SHAPE
+  Type = String
+  Default = 'NONE'
+  Access = Full
+},
+{
+  Name = OTHER_SIDE_SYMB
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = NEXT_LEADER_OPT
+  Type = String
+  Default = 'ON ENTITY'
+  Access = Full
+},
+{
+  Name = INTERMITTENT
+  Type = Bool
+  Default = NO
+  Access = Locked
+},
+{
+  Name = X_SECTION_AREA
+  Type = Real
+  Default = 2.000000e+00
+  Access = Full
+},
+{
+  Name = CALC_X_SECTION_AREA
+  Type = Real
+  Default = 0.000000e+00
+  Access = Locked
+},
+{
+  Name = LENGTH
+  Type = Real
+  Default = 0.000000e+00
+  Access = Locked
+},
+{
+  Name = WELD_LENGTH
+  Type = Real
+  Default = 0.000000e+00
+  Access = Locked
+},
+{
+  Name = INTER_STAGGERED
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = ANGLE
+  Type = Real
+  Default = 0.000000e+00
+  Access = Full
+}
+
+RELATIONS = X_SECTION_AREA=LEG_LENGTH^2/2
+
+}

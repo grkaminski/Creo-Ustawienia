@@ -1,0 +1,25 @@
+﻿ND_RelParSet_K01 = {
+
+Name = MIG-MAG_SG2
+
+PARAMETERS =
+{
+  Name = MATERIAL_NAME
+  Type = String
+  Default = 'ST3S-S235'
+  Access = Full
+},
+{
+  Name = DIAMETER
+  Type = Real
+  Default = 1.000000e+00
+  Access = Full
+},
+{
+  Name = LENGTH
+  Type = Real
+  Default = 1.000000e+02
+  Access = Full
+}
+
+}

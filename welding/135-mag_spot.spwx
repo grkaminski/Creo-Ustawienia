@@ -1,0 +1,97 @@
+﻿ND_RelParSet_K01 = {
+
+Name = 135-MAG_SPOT
+
+PARAMETERS =
+{
+  Name = WELD_MATERIAL
+  Type = String
+  Default = 'MIG-MAG_SG2'
+  Access = Full
+},
+{
+  Name = WELD_PROCESS
+  Type = String
+  Default = '135-MAG'
+  Access = Full
+},
+{
+  Name = APPEARANCE
+  Type = String
+  Default = 'SYSTEM_DEFAULT'
+  Access = Full
+},
+{
+  Name = WELD_LWW_THICKNESS
+  Type = Real
+  Default = 5.000000e+00
+  Access = Full
+},
+{
+  Name = FIELD
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = SHAPE
+  Type = String
+  Default = 'NONE'
+  Access = Full
+},
+{
+  Name = FINISH
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = OTHER_SIDE_SYMB
+  Type = Bool
+  Default = NO
+  Access = Full
+},
+{
+  Name = NEXT_LEADER_OPT
+  Type = String
+  Default = 'ON ENTITY'
+  Access = Full
+},
+{
+  Name = SPOT_DIAMETER
+  Type = Real
+  Default = 1.300000e+01
+  Access = Full
+},
+{
+  Name = SPOT_SPACING
+  Type = Real
+  Default = 1.000000e+01
+  Access = Full
+},
+{
+  Name = SPOT_NUM_WELDS
+  Type = Integer
+  Default = 1
+  Access = Locked
+},
+{
+  Name = SPOT_NUM_PTN_WELDS
+  Type = Integer
+  Default = 2
+  Access = Full
+},
+{
+  Name = X_SECTION_AREA
+  Type = Real
+  Default = 0.000000e+00
+  Access = Full
+},
+{
+  Name = CALC_X_SECTION_AREA
+  Type = Real
+  Default = 0.000000e+00
+  Access = Locked
+}
+
+}
