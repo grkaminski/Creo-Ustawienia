@@ -1,0 +1,9 @@
+1. Nietolerowane wymiary wykonaæ wed³ug IT&klasa_wykonania PN-ISO 286
+2. Ostre krawêdzie zatêpiæ
+3. Nieoznaczone fazki 1x45
+4. Nieoznaczone promienie r=1
+5. Wycinaæ wed³ug rysunku DWG
+6. Spawaæ w os³onie Ar zgodnie z zaleceniami PN-EN 1011-3:2002
+7. Cynkowaæ galwanicznie
+8. Nieoznaczone promienie giêcia (wewnêtrzne) równe gruboœci blachy
+9. Malowaæ proszkowo na kolor RAL 1021
