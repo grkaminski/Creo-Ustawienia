@@ -1,0 +1,241 @@
+(Dialog config_dialog
+    (Components
+        (Tab                            category_tab
+                                        EFX_OPTIONS)
+        (SubLayout                      input_layout)
+        (SubLayout                      footer_layout)
+        (OptionMenu                     cfgfile)
+        (Separator                      Separator2)
+    )
+
+    (Resources
+        (category_tab.Decorated         True)
+        (category_tab.Mapped            True)
+        (category_tab.Names             "EFX_OPTIONS")
+        (category_tab.Labels            "AFX")
+        (category_tab.Resizeable        True)
+        (category_tab.TopOffset         0)
+        (category_tab.BottomOffset      0)
+        (category_tab.LeftOffset        5)
+        (category_tab.RightOffset       5)
+        (cfgfile.Label                  "Configuration file:")
+        (cfgfile.Columns                20)
+        (cfgfile.Mapped                 True)
+        (cfgfile.AttachTop              True)
+        (cfgfile.TopOffset              5)
+        (cfgfile.BottomOffset           5)
+        (cfgfile.LeftOffset             5)
+        (cfgfile.RightOffset            5)
+        (.Label                         "AFX - Options Dialog")
+        (.DefaultButton                 "ok")
+        (.Layout
+            (Grid (Rows 0 1 0 0 0) (Cols 1)
+                cfgfile
+                category_tab
+                input_layout
+                Separator2
+                footer_layout
+            )
+        )
+    )
+)
+
+(Layout EFX_OPTIONS
+    (Components
+        (Label                          category_description_0)
+        (List                           option_list_0)
+    )
+
+    (Resources
+        (category_description_0.Label   "Set AFX options")
+        (category_description_0.Columns 30)
+        (category_description_0.AttachLeft True)
+        (category_description_0.AttachRight True)
+        (category_description_0.AttachTop True)
+        (category_description_0.Alignment 0)
+        (category_description_0.TopOffset 5)
+        (category_description_0.BottomOffset 5)
+        (category_description_0.LeftOffset 5)
+        (category_description_0.RightOffset 5)
+        (option_list_0.SelectionPolicy  2)
+        (option_list_0.Columns          60)
+        (option_list_0.VisibleRows      20)
+        (option_list_0.ColumnLabel      "option	value	description")
+        (option_list_0.ListType         1)
+        (option_list_0.MinRows          10)
+        (option_list_0.TopOffset        2)
+        (option_list_0.BottomOffset     5)
+        (option_list_0.LeftOffset       5)
+        (option_list_0.RightOffset      5)
+        (.Label                         "AFX")
+        (.HelpText                      "Set AFX options.")
+        (.TopOffset                     0)
+        (.BottomOffset                  0)
+        (.LeftOffset                    0)
+        (.RightOffset                   0)
+        (.Layout
+            (Grid (Rows 0 1) (Cols 1)
+                category_description_0
+                option_list_0
+            )
+        )
+    )
+)
+
+(Layout input_layout
+    (Components
+        (Label                          value_txt)
+        (PushButton                     button_action)
+        (SubLayout                      option_layout)
+        (OptionMenu                     value_combo)
+        (DrawingArea                    color_area)
+    )
+
+    (Resources
+        (value_txt.AttachLeft           True)
+        (value_txt.AttachRight          True)
+        (value_txt.AttachTop            True)
+        (value_txt.AttachBottom         True)
+        (value_txt.Alignment            0)
+        (value_txt.TopOffset            5)
+        (value_txt.BottomOffset         5)
+        (value_txt.LeftOffset           2)
+        (value_txt.RightOffset          2)
+        (button_action.Columns          10)
+        (button_action.AttachRight      True)
+        (button_action.AttachTop        True)
+        (button_action.AttachBottom     True)
+        (button_action.KeyboardInput    True)
+        (button_action.TopOffset        5)
+        (button_action.BottomOffset     5)
+        (button_action.LeftOffset       5)
+        (button_action.RightOffset      0)
+        (value_combo.Editable           True)
+        (value_combo.AttachTop          True)
+        (value_combo.AttachBottom       True)
+        (value_combo.TopOffset          0)
+        (value_combo.BottomOffset       5)
+        (value_combo.LeftOffset         0)
+        (value_combo.RightOffset        0)
+        (color_area.Visible             False)
+        (color_area.Mapped              True)
+        (color_area.AttachRight         True)
+        (color_area.DrawingHeight       20)
+        (color_area.BackgroundColor     21)
+        (color_area.TopOffset           0)
+        (color_area.BottomOffset        0)
+        (color_area.LeftOffset          5)
+        (color_area.RightOffset         5)
+        (.AttachLeft                    True)
+        (.AttachRight                   True)
+        (.AttachTop                     True)
+        (.AttachBottom                  True)
+        (.TopOffset                     0)
+        (.BottomOffset                  0)
+        (.LeftOffset                    0)
+        (.RightOffset                   5)
+        (.Layout
+            (Grid (Rows 1) (Cols 0 1)
+                option_layout
+                (Grid (Rows 0 1) (Cols 1)
+                    (Grid (Rows 0) (Cols 1 0 0)
+                        value_txt
+                        color_area
+                        button_action
+                    )
+                    value_combo
+                )
+            )
+        )
+    )
+)
+
+(Layout option_layout
+    (Components
+        (InputPanel                     option_edit)
+        (Label                          option_txt)
+    )
+
+    (Resources
+        (option_edit.Columns            20)
+        (option_edit.Editable           False)
+        (option_edit.AttachTop          True)
+        (option_edit.AttachBottom       True)
+        (option_edit.MinColumns         15)
+        (option_edit.TopOffset          0)
+        (option_edit.BottomOffset       5)
+        (option_edit.LeftOffset         0)
+        (option_edit.RightOffset        0)
+        (option_txt.Label               "Option:")
+        (option_txt.AttachLeft          True)
+        (option_txt.AttachRight         True)
+        (option_txt.AttachTop           True)
+        (option_txt.AttachBottom        True)
+        (option_txt.Alignment           0)
+        (option_txt.TopOffset           5)
+        (option_txt.BottomOffset        5)
+        (option_txt.LeftOffset          0)
+        (option_txt.RightOffset         0)
+        (.AttachLeft                    True)
+        (.AttachRight                   True)
+        (.AttachTop                     True)
+        (.AttachBottom                  True)
+        (.TopOffset                     0)
+        (.BottomOffset                  0)
+        (.LeftOffset                    5)
+        (.RightOffset                   5)
+        (.Layout
+            (Grid (Rows 1 0) (Cols 1)
+                option_txt
+                option_edit
+            )
+        )
+    )
+)
+
+
+(Layout footer_layout
+    (Components
+        (PushButton                     ok)
+        (PushButton                     cancel)
+    )
+
+    (Resources
+        (ok.Label                       "OK")
+        (ok.Columns                     6)
+        (ok.AttachRight                 True)
+        (ok.AttachTop                   True)
+        (ok.AttachBottom                True)
+        (ok.Alignment                   1)
+        (ok.KeyboardInput               True)
+        (ok.TopOffset                   5)
+        (ok.BottomOffset                0)
+        (ok.LeftOffset                  5)
+        (ok.RightOffset                 5)
+        (cancel.Label                   "Cancel")
+        (cancel.Columns                 6)
+        (cancel.AttachRight             True)
+        (cancel.AttachTop               True)
+        (cancel.AttachBottom            True)
+        (cancel.Alignment               1)
+        (cancel.KeyboardInput           True)
+        (cancel.TopOffset               5)
+        (cancel.BottomOffset            0)
+        (cancel.LeftOffset              0)
+        (cancel.RightOffset             0)
+        (.AttachRight                   True)
+        (.AttachTop                     True)
+        (.AttachBottom                  True)
+        (.Alignment                     1)
+        (.TopOffset                     0)
+        (.BottomOffset                  5)
+        (.LeftOffset                    0)
+        (.RightOffset                   5)
+        (.Layout
+            (Grid (Rows 1) (Cols 0 0)
+                ok
+                cancel
+            )
+        )
+    )
+)
