@@ -1,4 +1,5 @@
-1. Nietolerowane wymiary wykonaæ wed³ug IT&klasa_wykonania PN-ISO 286
+1. Nietolerowane wymiary wykonaæ wed³ug IT&klasa_wykonania 
+PN-EN ISO 286-1:2011
 2. Ostre krawêdzie zatêpiæ
 3. Nieoznaczone fazki 1x45
 4. Nieoznaczone promienie r=1

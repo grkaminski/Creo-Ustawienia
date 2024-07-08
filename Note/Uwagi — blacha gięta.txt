@@ -1,0 +1,6 @@
+Uwagi:
+1. Nietolerowane wymiary wykonaæ wed³ug IT&klasa_wykonania 
+PN-EN ISO 286-1:2011
+2. Ostre krawêdzie zatêpiæ
+3. Wycinaæ wed³ug rysunku DWG
+4. Nieoznaczone promienie giêcia (wewnêtrzne) równe gruboœci blachy
