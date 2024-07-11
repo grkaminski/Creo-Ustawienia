@@ -197,7 +197,9 @@ bom_format C:\CREO-Ustawienia\BOM\bom_tw.txt
 ! =============================================
 ! ** Plotter configuration
 ! =============================================
-pen_table_file drukuj.pnt
+pen_table_file C:\Creo-Ustawienia\Wydruk\drukuj.pnt
+use_8_plotter_pens yes
+pdf_use_pentable yes
 
 
 
