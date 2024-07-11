@@ -1,8 +1,9 @@
-pen 1 thickness 0.25 mm;color 0.0 0.0 0.0
-pen 2 thickness 0.13 mm;color 0.0 0.0 0.0
-pen 3 thickness 0.13 mm;color 0.0 0.0 0.0
-pen 4 thickness 0.25 mm;color 0.0 0.0 0.0
-pen 5 thickness 0.25 mm;color 0.0 0.0 0.0
-pen 6 thickness 0.15 mm;color 0.0 0.0 0.0
-pen 7 thickness 0.25 mm;color 0.0 0.0 0.0
-pen 8 thickness 0.13 mm;color 0.0 0.0 0.0
+pen 1 thickness 0.050 cm;color 0.0 0.0 0.0
+pen 1 section_color edge_highlite_color
+pen 2 thickness 0.013 cm;color 0.0 0.0 0.0
+pen 3 thickness 0.013 cm;color 0.0 0.0 0.0; pattern 0.6 0.2 cm
+pen 4 thickness 0.050 cm;color 0.0 0.0 0.0
+pen 5 thickness 0.050 cm;color 0.0 0.0 0.0
+pen 6 thickness 0.013 cm;color 0.0 0.0 0.0
+pen 7 thickness 0.013 cm;color 0.0 0.0 0.0
+pen 8 thickness 0.013 cm;color 0.0 0.0 0.0; pattern 0.6 0.2 0.1 0.2 cm
