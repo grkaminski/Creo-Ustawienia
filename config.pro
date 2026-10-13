@@ -62,10 +62,10 @@
 ! =============================================
 ! ** Templates
 ! =============================================
-template_designasm D:\CREO-Ustawienia\templates\mmns_asm_design.asm
-template_drawing D:\CREO-Ustawienia\formats\_a4-meil.frm
-template_sheetmetalpart D:\CREO-Ustawienia\templates\mmns_part_sheetmetal.prt
-template_solidpart D:\CREO-Ustawienia\templates\mmns_part_solid.prt
+template_designasm C:\Creo-Ustawienia\templates\mmns_asm_design.asm
+template_drawing C:\Creo-Ustawienia\formats\_a4-meil.frm
+template_sheetmetalpart C:\Creo-Ustawienia\templates\mmns_part_sheetmetal.prt
+template_solidpart C:\Creo-Ustawienia\templates\mmns_part_solid.prt
 
 
 
@@ -75,18 +75,19 @@ template_solidpart D:\CREO-Ustawienia\templates\mmns_part_solid.prt
 ! =============================================
 pro_unit_length unit_mm
 pro_unit_mass unit_gram
-todays_date_note_format %Mmm-%dd-%yy
+todays_date_note_format %dd-%mm-%yyyy
 tolerance_standard iso
 show_preview_default keep
 hlr_for_quilts yes
-show_selected_item_id yes
 mass_property_calculate automatic
-menu_show_instances no
-default_geom_analysis_type feature
 file_open_preview_default expanded
 frt_enabled yes
 piping_fluid_parameter yes
 sketcher_save_preview_image yes
+default_abs_accuracy 0.01
+allow_save_display yes
+combined_states yes
+display_comps_to_assemble yes
 
 ! =============================================
 ! ** Datums
@@ -110,8 +111,8 @@ allow_save_as_instance yes
 ! =============================================
 ! ** Drawing
 ! =============================================
-drawing_setup_file D:\CREO-Ustawienia\Ustawienia.dtl
-format_setup_file D:\CREO-Ustawienia\Ustawienia.dtl
+drawing_setup_file C:\Creo-Ustawienia\Ustawienia.dtl
+format_setup_file C:\Creo-Ustawienia\Ustawienia.dtl
 enable_shaded_view_in_drawings yes
 allow_move_view_with_move yes
 
@@ -127,18 +128,18 @@ comp_assemble_start default
 ! ============================================
 ! ** Directory structure
 ! ============================================
-pro_weld_params_dir D:\Creo-Ustawienia\welding
-pro_surface_finish_dir D:\Creo-Ustawienia\symbole\surffins
-pro_material_dir D:\Creo-Ustawienia\materials-library
-hole_parameter_file_path D:\Creo-Ustawienia\Hole
-pro_crosshatch_dir D:\Creo-Ustawienia\Xhatch
-pro_plot_config_dir D:\Creo-Ustawienia\Wydruk
-intf_profile_dir D:\Creo-Ustawienia\Export
-plot_file_dir D:\CREO-Ustawienia\Wydruk\
-pro_format_dir D:\CREO-Ustawienia\formats
-pro_note_dir D:\CREO-Ustawienia\Note
-pro_font_dir D:\CREO-Ustawienia\czcionka
-tolerance_table_dir D:\CREO-Ustawienia\tol_tables\iso
+pro_weld_params_dir C:\Creo-Ustawienia\welding
+pro_surface_finish_dir C:\Creo-Ustawienia\symbole\surffins
+pro_material_dir C:\Creo-Ustawienia\materials-library
+hole_parameter_file_path C:\Creo-Ustawienia\Hole
+pro_crosshatch_dir C:\Creo-Ustawienia\Xhatch
+pro_plot_config_dir C:\Creo-Ustawienia\Wydruk
+intf_profile_dir C:\Creo-Ustawienia\Export
+plot_file_dir C:\Creo-Ustawienia\Wydruk\
+pro_format_dir C:\Creo-Ustawienia\formats
+pro_note_dir C:\Creo-Ustawienia\Note
+pro_font_dir C:\Creo-Ustawienia\czcionka
+tolerance_table_dir C:\Creo-Ustawienia\tol_tables\iso
 
 
 
@@ -146,9 +147,9 @@ tolerance_table_dir D:\CREO-Ustawienia\tol_tables\iso
 ! ** Search paths
 ! ============================================
 search_path_file $CREO_COMMON_FILES\afx\parts\prolibrary\search.pro
-search_path D:\CREO-Ustawienia\IFX\NUTS
-search_path D:\CREO-Ustawienia\IFX\SCREWS
-search_path D:\CREO-Ustawienia\IFX\WASHERS
+search_path C:\Creo-Ustawienia\IFX\NUTS
+search_path C:\Creo-Ustawienia\IFX\SCREWS
+search_path C:\Creo-Ustawienia\IFX\WASHERS
 
 
 ! =============================================
@@ -189,24 +190,25 @@ def_layer LAYER_SYMBOL		symbols
 ! =============================================
 ! ** Bill Of Materials
 ! =============================================
-bom_format D:\CREO-Ustawienia\BOM\bom_tw.txt
+bom_format C:\Creo-Ustawienia\BOM\bom_tw.txt
 
 
 ! =============================================
 ! ** Plotter configuration
 ! =============================================
-pen_table_file D:\Creo-Ustawienia\Wydruk\drukuj.pnt
+pen_table_file C:\Creo-Ustawienia\Wydruk\drukuj.pnt
 use_8_plotter_pens yes
 pdf_use_pentable yes
+intf2d_out_pdf_unicode yes
 
 
 
 ! =============================================
 ! ** Manufacturing
 ! =============================================
-pro_mf_workcell_dir D:\CREO-Ustawienia\Manufacturing\WorkCenter
-pro_mf_tprm_dir D:\CREO-Ustawienia\Manufacturing\Tools
-pro_mf_clamp_dir D:\CREO-Ustawienia\Manufacturing\Fixtures
+pro_mf_workcell_dir C:\Creo-Ustawienia\Manufacturing\WorkCenter
+pro_mf_tprm_dir C:\Creo-Ustawienia\Manufacturing\Tools
+pro_mf_clamp_dir C:\Creo-Ustawienia\Manufacturing\Fixtures
 template_boardpart $PRO_DIRECTORY\templates\inlbs_ecad_board.prt
 template_new_ecadasm $PRO_DIRECTORY\templates\inlbs_ecad_asm.asm
 
@@ -220,12 +222,12 @@ weld_edge_prep_groove_depth 0.25
 weld_edge_prep_instance yes
 weld_edge_prep_name_suffix _weld
 weld_edge_prep_root_open 0.25
-weld_fillet_preferences_file D:\Creo-Ustawienia\welding\135-mag_fillet.spwx
-weld_general_preferences_file D:\Creo-Ustawienia\welding\135-mag_general.spwx
+weld_fillet_preferences_file C:\Creo-Ustawienia\welding\135-mag_fillet.spwx
+weld_general_preferences_file C:\Creo-Ustawienia\welding\135-mag_general.spwx
 weld_geom_type_default solid
-weld_groove_preferences_file D:\Creo-Ustawienia\welding\135-mag_butt.spwx
-weld_plug_slot_preferences_file D:\Creo-Ustawienia\welding\135-mag_plug-slot.spwx
-weld_spot_preferences_file D:\Creo-Ustawienia\welding\135-mag_spot.spwx
+weld_groove_preferences_file C:\Creo-Ustawienia\welding\135-mag_butt.spwx
+weld_plug_slot_preferences_file C:\Creo-Ustawienia\welding\135-mag_plug-slot.spwx
+weld_spot_preferences_file C:\Creo-Ustawienia\welding\135-mag_spot.spwx
 weld_dec_places 0
 weld_ui_standard iso
 add_weld_mp yes
@@ -233,19 +235,21 @@ add_weld_mp yes
 ! =============================================
 ! ** Importing\Exporting
 ! ============================================
-import_profiles_catiav5 D:\Creo-Ustawienia\import.dip
-import_profiles_ced D:\Creo-Ustawienia\import.dip
-import_profiles_solidworks D:\Creo-Ustawienia\import.dip
-import_profiles_nx D:\Creo-Ustawienia\import.dip
+import_profiles_catiav5 C:\Creo-Ustawienia\import.dip
+import_profiles_ced C:\Creo-Ustawienia\import.dip
+import_profiles_solidworks C:\Creo-Ustawienia\import.dip
+import_profiles_nx C:\Creo-Ustawienia\import.dip
 step_export_dwg_views as_3d_views_assoc_draft
-export_profiles_step D:\Creo-Ustawienia\def_profile.dep_step
+export_profiles_step C:\Creo-Ustawienia\def_profile.dep_step
 dm_auto_open_zip yes
+intf_in_use_template_models yes
+enable_multi_cad yes
 
 ! =============================================
 ! ** Misc configurations
 ! ============================================
 ! prodevdat D:\Program Files\Caess\ProTOpX\CI3\protk.dat
-! toolkit_registry_file D:\CREO-Ustawienia\myprotk.dat
+! toolkit_registry_file C:\Creo-Ustawienia\myprotk.dat
 
 
 ! =============================================
